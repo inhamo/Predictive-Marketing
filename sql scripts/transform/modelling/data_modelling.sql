@@ -7,6 +7,8 @@ USE superstore_etl;
 -- Drop the fact table if it exists to recreate it fresh.
 DROP TABLE IF EXISTS dbo.orders_facts;
 
+SET QUOTED_IDENTIFIER ON;
+
 CREATE TABLE orders_facts (
     order_fact_key INT IDENTITY(1,1) PRIMARY KEY,  -- surrogate key
     order_id VARCHAR(50) NOT NULL, 

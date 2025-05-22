@@ -17,4 +17,3 @@ JOIN (
     FROM dbo.customer_features
 ) clv ON clv.customer_id = cf.customer_id;
 
-SELECT * FROM dbo.customer_features ORDER BY customer_id;

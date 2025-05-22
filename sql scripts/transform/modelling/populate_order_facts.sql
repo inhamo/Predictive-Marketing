@@ -34,7 +34,15 @@ SELECT
     o.quantity,
     NULL
 FROM dbo.staging_orders o
-JOIN dbo.product_dim p ON o.product_name = p.product_name
-JOIN dbo.region_dim r ON o.region = r.region AND o.city = r.city 
-JOIN dbo.ship_mode_dim s ON o.ship_mode = s.ship_mode;
-
+JOIN dbo.product_dim p 
+  ON o.product_name = p.product_name 
+ AND o.product_category = p.product_category
+ AND o.product_sub_category = p.product_sub_category
+ AND o.product_container = p.product_container
+JOIN dbo.region_dim r 
+  ON o.region = r.region 
+ AND o.state_or_province = r.state_or_province 
+ AND o.city = r.city 
+ AND o.postal_code = r.postal_code
+JOIN dbo.ship_mode_dim s 
+  ON o.ship_mode = s.ship_mode;

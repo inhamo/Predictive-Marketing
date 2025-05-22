@@ -1,5 +1,7 @@
 USE superstore_etl;
 
+SET QUOTED_IDENTIFIER ON;
+
 -- Update is_return based on customer_returns
 UPDATE o
 SET is_return = COALESCE(c.return_status, 0)
@@ -33,5 +35,4 @@ UPDATE cf
 SET customer_return_count = c.return_count, customer_return_value = c.return_value
 FROM dbo.customer_features cf
 JOIN return_summary c ON c.customer_id = cf.customer_id;
-
 

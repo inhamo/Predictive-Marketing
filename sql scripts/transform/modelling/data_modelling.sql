@@ -22,5 +22,6 @@ CREATE TABLE orders_facts (
     discount_price DECIMAL(10,2),
     shipping_cost DECIMAL(10,2), 
     quantity INT, 
-    total_price AS (discount_price * quantity) PERSISTED
+    total_price AS (discount_price * quantity) PERSISTED, 
+    is_return BIT
 );

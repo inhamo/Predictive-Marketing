@@ -15,7 +15,8 @@ INSERT INTO dbo.orders_facts (
     discount_amount, 
     discount_price, 
     shipping_cost, 
-    quantity
+    quantity,
+    is_return
 )
 SELECT
     o.order_id, 
@@ -30,7 +31,8 @@ SELECT
     o.discount_amount, 
     o.discount_price, 
     o.shipping_cost, 
-    o.quantity
+    o.quantity,
+    NULL
 FROM dbo.staging_orders o
 JOIN dbo.product_dim p ON o.product_name = p.product_name
 JOIN dbo.region_dim r ON o.region = r.region AND o.city = r.city 

@@ -27,7 +27,7 @@ scripts = [
     "..\\sql scripts\\transform\\feature engineering\\customer features\\customer_lifetime_value.sql",
     "..\\sql scripts\\transform\\feature engineering\\customer features\\customer_order_days.sql",
     "..\\sql scripts\\transform\\feature engineering\\customer features\\customer_returns.sql",
-
+    "..\\sql scripts\\transform\\feature engineering\\region features\\region_customer.sql",
 ]
 
 for script in scripts:

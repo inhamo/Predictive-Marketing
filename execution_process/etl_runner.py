@@ -28,6 +28,8 @@ scripts = [
     "..\\sql scripts\\transform\\feature engineering\\customer features\\customer_order_days.sql",
     "..\\sql scripts\\transform\\feature engineering\\customer features\\customer_returns.sql",
     "..\\sql scripts\\transform\\feature engineering\\region features\\region_customer.sql",
+    "..\\sql scripts\\transform\\feature engineering\\product features\\product.sql",
+    "..\\sql scripts\\transform\\feature engineering\\ship mode features\\shipment.sql",
 ]
 
 for script in scripts:

@@ -8,10 +8,13 @@ conn = pyodbc.connect(
     "Trusted_Connection=yes;"
 )
 
-query = """ 
-    SELECT * 
-    FROM dbo.customer_features
-"""
+tables = pd.read_sql("SELECT table_name FROM information_schema.tables", conn)['table_name'].tolist()
 
-df = pd.read_sql(query, conn)
-df.to_csv("customer_features.csv", index=False)
+for tb in tables:
+    if tb == "staging_orders":
+        continue
+    
+    df = pd.read_sql(f"SELECT * FROM dbo.{tb}", conn)
+    df.to_csv(f"C:\\Users\\takue\\Documents\\Data Science\\Predictive Marketing\\final data\\{tb}.csv", index=False)
+    print(f"{tb} successfully saved to final data")
+

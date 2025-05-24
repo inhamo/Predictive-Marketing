@@ -1,0 +1,3133 @@
+customer_key,customer_id,customer_name,customer_segment,start_date,end_date,is_current,customer_group
+1,2,Janice Fletcher,Corporate,2012-05-28,,True,B2B
+2,3,Bonnie Potter,Corporate,2010-07-07,,True,B2B
+3,5,Ronnie Proctor,Home Office,2010-12-13,,True,B2C
+4,6,Dwight Hwang,Home Office,2011-05-26,,True,B2C
+5,7,Leon Gill,Home Office,2012-10-30,,True,B2C
+6,8,Melanie Garner,Home Office,2012-12-25,,True,B2C
+7,9,Lorraine Houston,Home Office,2012-12-25,,True,B2C
+8,10,Meredith Norris Thomas,Home Office,2011-10-04,,True,B2C
+9,11,Marcus Dunlap,Home Office,2010-08-15,,True,B2C
+10,12,Kara Pace,Home Office,2012-02-24,,True,B2C
+11,14,Gwendolyn F Tyson,Small Business,2010-05-12,,True,B2B
+12,15,Timothy Reese,Small Business,2010-04-08,,True,B2B
+13,16,Sarah Ramsey,Small Business,2010-02-12,,True,B2B
+14,17,Florence Hsu Schwarz,Small Business,2011-04-20,,True,B2B
+15,18,Laurie Hanna,Small Business,2010-05-15,,True,B2B
+16,19,Jim Rodgers,Small Business,2010-05-21,,True,B2B
+17,20,Marion Nolan Kaplan,Small Business,2012-05-31,,True,B2B
+18,21,Tony Wilkins Winters,Small Business,2010-05-15,,True,B2B
+19,23,Lynn Moss,Corporate,2011-11-11,,True,B2B
+20,24,Edna Thomas,Corporate,2010-01-28,,True,B2B
+21,25,Virginia Hardison,Corporate,2012-04-18,,True,B2B
+22,26,Marguerite Kane,Corporate,2012-06-27,,True,B2B
+23,27,Guy Gallagher,Corporate,2010-11-02,,True,B2B
+24,28,Ronnie McNamara,Corporate,2011-01-22,,True,B2B
+25,29,Elizabeth Walker,Corporate,2011-01-30,,True,B2B
+26,31,Alice Capps,Corporate,2012-08-11,,True,B2B
+27,32,Matthew Berman,Corporate,2010-02-22,,True,B2B
+28,33,Ricky Hensley,Corporate,2010-06-15,,True,B2B
+29,35,Milton Bland,Small Business,2012-11-27,,True,B2B
+30,36,Ray Morgan,Small Business,2012-11-27,,True,B2B
+31,37,Stacy Chandler,Small Business,2012-11-27,,True,B2B
+32,39,Ian L O'Donnell,Corporate,2011-07-03,,True,B2B
+33,40,Seth Grimes,Corporate,2013-03-21,,True,B2B
+34,42,Alexandra Fuller,Consumer,2012-11-05,,True,B2C
+35,43,Theodore Moran,Consumer,2010-11-10,,True,B2C
+36,45,Melinda Sloan,Home Office,2012-02-24,,True,B2C
+37,46,Anne Nguyen,Home Office,2012-09-23,,True,B2C
+38,48,Geoffrey Hewitt,Corporate,2011-08-15,,True,B2B
+39,49,Terri Lyons,Corporate,2011-03-29,,True,B2B
+40,50,Dawn Bailey,Corporate,2011-03-29,,True,B2B
+41,52,Lorraine Kelly,Corporate,2010-09-10,,True,B2B
+42,53,Sidney Russell Austin,Corporate,2010-07-28,,True,B2B
+43,55,Marvin Hawley,Consumer,2011-10-20,,True,B2C
+44,55,Marvin Hawley,Home Office,2011-10-06,2011-10-19,False,
+45,56,Randall Montgomery,Consumer,2010-10-20,,True,B2C
+46,57,Kimberly Epstein,Consumer,2012-01-21,,True,B2C
+47,59,Rose Lassiter,Corporate,2013-03-14,,True,B2B
+48,59,Rose Lassiter,Small Business,2013-02-23,2013-03-13,False,
+49,60,Sheila Warren,Corporate,2013-07-21,,True,B2B
+50,60,Sheila Warren,Small Business,2012-06-10,2013-07-20,False,
+51,61,Charlotte Stanton,Corporate,2012-10-07,,True,B2B
+52,61,Charlotte Stanton,Small Business,2011-11-18,2012-10-06,False,
+53,62,Pam Gilbert,Corporate,2010-11-09,,True,B2B
+54,63,Gene Diaz,Corporate,2013-03-07,,True,B2B
+55,64,Lynn Morrow,Corporate,2013-08-26,,True,B2B
+56,64,Lynn Morrow,Small Business,2010-03-02,2013-08-25,False,
+57,65,Jenny Sanchez,Corporate,2012-05-02,,True,B2B
+58,66,Arlene Rouse,Corporate,2012-05-02,,True,B2B
+59,67,Ellen McCormick,Corporate,2010-01-02,,True,B2B
+60,68,Scott Bunn,Corporate,2010-01-02,,True,B2B
+61,69,Carrie House,Corporate,2012-05-02,,True,B2B
+62,70,Annette Boone,Corporate,2010-02-02,,True,B2B
+63,72,Amanda Hardy Singleton,Small Business,2012-08-12,,True,B2B
+64,73,April Winters,Small Business,2013-10-28,,True,B2B
+65,74,Mark Manning,Small Business,2012-12-10,,True,B2B
+66,75,Tamara Yates,Small Business,2012-04-11,,True,B2B
+67,76,Glen Weeks,Small Business,2012-04-11,,True,B2B
+68,77,Jan Kaufman Parrish,Small Business,2012-04-11,,True,B2B
+69,78,Hannah Grant,Small Business,2012-04-11,,True,B2B
+70,80,Sam Carlson,Small Business,2011-02-06,,True,B2B
+71,81,Dale Hahn,Small Business,2012-07-16,,True,B2B
+72,83,Edgar Stone,Corporate,2010-03-15,,True,B2B
+73,84,Helen Stein,Consumer,2010-02-02,2010-09-29,False,
+74,84,Helen Stein,Corporate,2010-09-30,,True,B2B
+75,85,Hazel Graham,Consumer,2013-04-14,,True,B2C
+76,85,Hazel Graham,Corporate,2011-04-10,2013-04-13,False,
+77,87,Norman Shields,Corporate,2010-06-03,,True,B2B
+78,88,Phillip Clapp,Corporate,2011-12-13,,True,B2B
+79,90,Katie Watson,Corporate,2012-02-07,,True,B2B
+80,91,Wallace Werner,Corporate,2010-09-04,,True,B2B
+81,91,Wallace Werner,Home Office,2010-05-17,2010-09-03,False,
+82,92,Victoria Baker Hoover,Corporate,2010-12-07,,True,B2B
+83,92,Victoria Baker Hoover,Home Office,2010-05-17,2010-12-06,False,
+84,93,Vicki Shannon,Corporate,2011-11-22,,True,B2B
+85,94,Eddie House Mueller,Corporate,2012-10-08,,True,B2B
+86,94,Eddie House Mueller,Home Office,2010-11-03,2012-10-07,False,
+87,95,Kristin Hunt,Corporate,2012-10-08,2013-03-18,False,
+88,95,Kristin Hunt,Home Office,2013-03-19,,True,B2C
+89,96,Vincent Lindsay,Home Office,2011-08-21,,True,B2C
+90,97,Max McKenna,Home Office,2010-11-03,,True,B2C
+91,98,Sarah Cooke Anthony,Home Office,2013-04-12,,True,B2C
+92,99,Theresa Hansen,Consumer,2011-02-23,,True,B2C
+93,100,Monica Daly,Consumer,2013-02-14,,True,B2C
+94,101,Claudia Boyle,Consumer,2010-06-22,,True,B2C
+95,102,Caroline Johnston,Consumer,2010-04-06,,True,B2C
+96,103,Alexander Hendricks,Consumer,2011-02-23,,True,B2C
+97,104,Annette Ferrell,Consumer,2011-02-23,,True,B2C
+98,105,Oscar Monroe,Consumer,2013-02-23,,True,B2C
+99,106,Harry Faulkner,Consumer,2011-03-09,,True,B2C
+100,107,Lois Hamilton,Consumer,2010-04-06,,True,B2C
+101,108,Fred Sharma,Consumer,2011-06-29,,True,B2C
+102,109,Tom McFarland,Consumer,2010-06-22,,True,B2C
+103,110,Stanley Kessler,Consumer,2011-02-23,,True,B2C
+104,111,Claire Quinn,Consumer,2013-02-14,,True,B2C
+105,112,Louis Adkins,Consumer,2011-06-29,,True,B2C
+106,113,Kathryn Norton,Consumer,2011-03-09,,True,B2C
+107,114,Ron Newton,Home Office,2010-01-03,,True,B2C
+108,115,Dwight M Carr,Home Office,2010-04-09,,True,B2C
+109,116,Frances Grant,Home Office,2013-04-09,,True,B2C
+110,117,Linda Weiss,Home Office,2010-01-03,,True,B2C
+111,119,Judy Kennedy,Corporate,2011-12-17,,True,B2B
+112,120,Helen H Murphy,Corporate,2010-07-12,,True,B2B
+113,122,Miriam Proctor,Home Office,2012-04-11,,True,B2C
+114,123,Shawn Stern,Home Office,2010-10-09,,True,B2C
+115,125,Linda Faulkner,Consumer,2012-10-06,,True,B2C
+116,126,James Osborne,Consumer,2011-09-10,,True,B2C
+117,127,Ross Wang Bates,Consumer,2013-05-07,,True,B2C
+118,129,Kara Allison,Small Business,2010-07-27,,True,B2B
+119,130,Norman Owens,Small Business,2012-06-03,,True,B2B
+120,132,Ron Dillon,Corporate,2011-09-20,,True,B2B
+121,133,Gayle Keith,Corporate,2012-03-05,,True,B2B
+122,133,Gayle Keith,Home Office,2011-03-14,2012-03-04,False,
+123,134,Natalie Raynor,Corporate,2013-11-30,,True,B2B
+124,136,Dale Gillespie,Small Business,2010-11-16,,True,B2B
+125,137,Kristen Hinton,Small Business,2012-10-26,,True,B2B
+126,138,Kevin Schmidt,Small Business,2013-02-09,,True,B2B
+127,139,Elsie Hewitt,Small Business,2012-12-31,,True,B2B
+128,141,Toni Daly,Corporate,2011-01-14,2012-01-23,False,
+129,141,Toni Daly,Small Business,2012-01-24,,True,B2B
+130,142,Brooke Weeks Taylor,Small Business,2010-06-02,,True,B2B
+131,143,Leigh Ivey,Small Business,2012-01-24,,True,B2B
+132,144,Marguerite Moss,Small Business,2010-06-02,,True,B2B
+133,145,Rhonda Ivey,Corporate,2012-03-15,,True,B2B
+134,145,Rhonda Ivey,Home Office,2010-09-16,2012-03-14,False,
+135,145,Rhonda Ivey,Small Business,2010-01-15,2010-09-15,False,
+136,146,Yvonne Fox,Corporate,2010-10-23,,True,B2B
+137,146,Yvonne Fox,Small Business,2010-09-12,2010-10-22,False,
+138,147,Bryan Pate,Small Business,2013-06-02,,True,B2B
+139,148,Sidney Cox,Small Business,2012-07-22,,True,B2B
+140,149,Stuart Chan,Small Business,2011-09-24,,True,B2B
+141,151,Geoffrey Zhu,Home Office,2010-01-22,2012-10-03,False,
+142,151,Geoffrey Zhu,Small Business,2012-10-04,,True,B2B
+143,152,Kent Kerr,Consumer,2010-01-15,2010-04-18,False,
+144,152,Kent Kerr,Home Office,2010-04-19,2010-12-17,False,
+145,152,Kent Kerr,Small Business,2010-12-18,,True,B2B
+146,153,Glenda Rosen,Consumer,2012-04-23,2012-10-12,False,
+147,153,Glenda Rosen,Small Business,2012-10-13,,True,B2B
+148,154,Marion Jordan,Home Office,2013-08-28,,True,B2C
+149,154,Marion Jordan,Small Business,2012-09-04,2013-08-27,False,
+150,156,Diana Xu,Corporate,2010-05-14,,True,B2B
+151,157,Terry Benson,Corporate,2013-01-21,,True,B2B
+152,159,Gail Welch,Consumer,2011-06-04,,True,B2C
+153,161,Edgar Oakley,Small Business,2013-05-26,,True,B2B
+154,162,Erin Erickson,Home Office,2013-01-16,,True,B2C
+155,163,Jeff Bunn,Home Office,2011-11-04,,True,B2C
+156,164,Robin Kramer Vaughn,Home Office,2010-07-02,2012-06-28,False,
+157,164,Robin Kramer Vaughn,Small Business,2012-06-29,,True,B2B
+158,166,Vicki Hauser,Consumer,2010-01-11,,True,B2C
+159,167,Carla Braun,Consumer,2011-06-23,,True,B2C
+160,169,Janice Cole,Corporate,2010-01-03,,True,B2B
+161,170,Christopher Carlton,Corporate,2011-03-16,,True,B2B
+162,171,Christina Matthews,Corporate,2010-04-13,,True,B2B
+163,172,Norman Sawyer,Corporate,2011-07-14,,True,B2B
+164,174,Amanda Huang,Corporate,2011-07-17,,True,B2B
+165,175,Angela Bernstein,Corporate,2011-04-20,,True,B2B
+166,177,Brent Walters,Small Business,2011-03-09,,True,B2B
+167,178,Sheryl Alexander,Small Business,2011-02-26,,True,B2B
+168,180,Harold Briggs,Consumer,2012-12-24,,True,B2C
+169,181,Wesley Waller,Corporate,2010-11-22,,True,B2B
+170,181,Wesley Waller,Small Business,2010-02-21,2010-11-21,False,
+171,182,Ryan Mann,Small Business,2012-03-21,,True,B2B
+172,183,Dan Carver,Corporate,2013-12-23,,True,B2B
+173,184,Phillip Holmes,Small Business,2010-02-21,,True,B2B
+174,185,Carolyn Blackwell,Small Business,2012-01-16,,True,B2B
+175,186,Johnny Finley,Small Business,2011-11-03,,True,B2B
+176,187,Yvonne Faircloth,Small Business,2011-03-19,,True,B2B
+177,188,Alex Harrell,Corporate,2010-11-22,,True,B2B
+178,190,Lloyd Norris,Corporate,2010-08-12,,True,B2B
+179,191,Gerald Kearney,Corporate,2010-08-12,,True,B2B
+180,193,Danny Hong,Corporate,2010-01-03,,True,B2B
+181,194,Tammy Goldman,Corporate,2010-01-10,,True,B2B
+182,195,Jason Knox,Corporate,2011-06-04,,True,B2B
+183,196,Holly Chu,Small Business,2011-01-05,,True,B2B
+184,197,Samantha Weaver,Small Business,2010-10-02,,True,B2B
+185,198,Leroy Blanchard,Small Business,2010-10-02,,True,B2B
+186,200,Martha Pridgen,Home Office,2012-01-27,,True,B2C
+187,202,Max Small,Corporate,2010-04-27,,True,B2B
+188,204,Bob Epstein,Corporate,2011-05-16,,True,B2B
+189,205,Priscilla Owen,Corporate,2012-08-30,,True,B2B
+190,207,Toni Olsen,Consumer,2012-01-21,,True,B2C
+191,208,Tammy Brandon,Consumer,2013-03-01,,True,B2C
+192,210,Floyd Dale,Consumer,2012-10-20,,True,B2C
+193,210,Floyd Dale,Home Office,2010-07-17,2012-10-19,False,
+194,211,Anna Wood,Consumer,2010-07-06,2010-12-01,False,
+195,211,Anna Wood,Corporate,2013-07-18,,True,B2B
+196,211,Anna Wood,Home Office,2010-12-02,2013-07-17,False,
+197,212,Milton Clarke,Consumer,2011-02-21,2011-07-26,False,
+198,212,Milton Clarke,Home Office,2011-07-27,,True,B2C
+199,214,Jose Gates Rodriguez,Consumer,2012-11-27,,True,B2C
+200,214,Jose Gates Rodriguez,Home Office,2011-07-21,2012-11-26,False,
+201,215,Vicki O'Donnell,Consumer,2013-02-19,2013-12-20,False,
+202,215,Vicki O'Donnell,Home Office,2013-12-21,,True,B2C
+203,216,Tonya B Horne,Consumer,2011-06-06,2012-02-21,False,
+204,216,Tonya B Horne,Home Office,2012-02-22,,True,B2C
+205,217,Billy Odom,Consumer,2012-09-15,,True,B2C
+206,217,Billy Odom,Home Office,2011-09-13,2012-09-14,False,
+207,218,Frances Saunders,Consumer,2010-12-09,,True,B2C
+208,220,Jacob Kirby,Home Office,2012-05-06,,True,B2C
+209,221,Colleen Wilcox,Home Office,2011-06-27,,True,B2C
+210,223,Joe Nicholson,Small Business,2012-01-11,,True,B2B
+211,224,Evan Currie,Small Business,2012-02-18,,True,B2B
+212,225,Hazel Britt,Small Business,2012-01-31,,True,B2B
+213,226,Heather Fleming,Small Business,2013-05-12,,True,B2B
+214,227,Stacey Glenn,Small Business,2012-01-31,,True,B2B
+215,228,Colleen Andrews,Small Business,2010-04-02,,True,B2B
+216,230,Jack Horne,Home Office,2012-01-05,,True,B2C
+217,232,Sandy Holmes,Small Business,2011-08-04,,True,B2B
+218,233,Michele Bullard,Small Business,2010-02-20,,True,B2B
+219,234,Don Cameron,Small Business,2010-02-05,,True,B2B
+220,236,Shawn McIntyre,Consumer,2012-09-03,,True,B2C
+221,236,Shawn McIntyre,Corporate,2010-02-22,2012-09-02,False,
+222,237,Amanda Helms,Consumer,2012-03-01,,True,B2C
+223,238,Tamara Fischer,Consumer,2013-05-05,,True,B2C
+224,238,Tamara Fischer,Corporate,2012-08-25,2013-05-04,False,
+225,240,Gilbert Scarborough,Small Business,2010-04-20,,True,B2B
+226,241,Amy Ellis Holder,Small Business,2010-04-20,,True,B2B
+227,242,Betsy Hendricks,Small Business,2011-05-01,,True,B2B
+228,244,Marie Fitzgerald,Corporate,2013-10-18,,True,B2B
+229,245,Julie Pruitt,Corporate,2013-02-19,,True,B2B
+230,247,Marshall Brandt Briggs,Corporate,2010-08-23,,True,B2B
+231,248,Anthony Han,Corporate,2011-04-22,,True,B2B
+232,250,Brenda Nelson Blanchard,Corporate,2010-11-28,,True,B2B
+233,251,Joann Davidson Rich,Corporate,2012-03-12,,True,B2B
+234,252,Steven McDowell,Corporate,2013-12-02,,True,B2B
+235,254,Brett Hawkins,Home Office,2010-12-10,,True,B2C
+236,255,Cheryl Curtis,Home Office,2011-02-20,,True,B2C
+237,256,Irene Li,Home Office,2010-01-31,,True,B2C
+238,258,Allan Shields,Consumer,2010-07-02,2012-03-09,False,
+239,258,Allan Shields,Corporate,2012-03-10,,True,B2B
+240,259,Edward Pugh,Consumer,2010-01-19,,True,B2C
+241,260,Brenda Gonzalez,Corporate,2011-04-24,,True,B2B
+242,262,Leah MacDonald,Home Office,2011-01-26,,True,B2C
+243,263,Carlos Hess,Home Office,2011-07-25,,True,B2C
+244,263,Carlos Hess,Small Business,2010-01-21,2011-07-24,False,
+245,264,Erik Harmon,Home Office,2013-05-07,,True,B2C
+246,266,Ross Frederick,Corporate,2010-05-18,,True,B2B
+247,267,Marilyn Blalock,Corporate,2013-09-05,,True,B2B
+248,268,James Beck,Home Office,2010-04-07,,True,B2C
+249,269,Calvin Boyette,Home Office,2010-12-05,2011-12-18,False,
+250,269,Calvin Boyette,Small Business,2011-12-19,,True,B2B
+251,270,Robyn White,Home Office,2012-01-19,,True,B2C
+252,270,Robyn White,Small Business,2011-07-04,2012-01-18,False,
+253,271,Sam Rouse,Home Office,2011-04-04,,True,B2C
+254,271,Sam Rouse,Small Business,2010-03-30,2011-04-03,False,
+255,272,Eleanor Swain,Home Office,2010-04-07,2011-07-03,False,
+256,272,Eleanor Swain,Small Business,2011-07-04,,True,B2B
+257,274,Valerie Rice,Corporate,2012-02-13,,True,B2B
+258,275,Roger Blalock Cassidy,Corporate,2010-07-24,,True,B2B
+259,276,Lucille Rankin,Corporate,2010-05-21,,True,B2B
+260,277,Hazel Herman,Corporate,2013-06-11,,True,B2B
+261,278,Marc Hoover,Corporate,2012-06-29,,True,B2B
+262,279,Kevin Melvin,Corporate,2012-06-29,,True,B2B
+263,280,Greg Walsh,Corporate,2012-02-13,,True,B2B
+264,281,Fred H Proctor,Corporate,2012-03-26,,True,B2B
+265,282,Vickie Andrews,Corporate,2010-05-21,,True,B2B
+266,283,Pauline Boyette,Corporate,2010-12-17,,True,B2B
+267,284,Jerome Cummings,Corporate,2012-02-13,,True,B2B
+268,286,Virginia Gay,Small Business,2010-06-17,,True,B2B
+269,287,Bruce Norton,Small Business,2011-01-18,,True,B2B
+270,288,Patricia Cole Blair,Small Business,2010-07-16,,True,B2B
+271,290,Sara O'Connor,Small Business,2010-09-25,,True,B2B
+272,291,Norma Oliver,Small Business,2012-06-08,,True,B2B
+273,292,Brian Meadows,Small Business,2012-06-08,,True,B2B
+274,294,Rose Reed,Corporate,2012-07-14,,True,B2B
+275,295,Gloria Quinn,Corporate,2011-11-29,,True,B2B
+276,296,Seth Rosenberg,Corporate,2013-12-19,,True,B2B
+277,297,Stacy Price,Corporate,2011-11-29,,True,B2B
+278,298,Eugene Terrell,Corporate,2012-07-14,,True,B2B
+279,299,Joshua Underwood,Corporate,2011-09-10,,True,B2B
+280,300,Larry W Lehman,Corporate,2013-08-07,,True,B2B
+281,301,Valerie Whitfield,Corporate,2013-09-06,,True,B2B
+282,303,Bill Bowers Li,Consumer,2013-02-08,,True,B2C
+283,304,Alexandra Duke,Consumer,2013-02-27,,True,B2C
+284,304,Alexandra Duke,Small Business,2013-02-27,,True,B2B
+285,305,Gayle Christian,Consumer,2011-05-11,2011-09-18,False,
+286,305,Gayle Christian,Small Business,2011-09-19,,True,B2B
+287,306,Thomas McAllister,Consumer,2012-06-06,,True,B2C
+288,306,Thomas McAllister,Small Business,2010-08-14,2012-06-05,False,
+289,307,Roy Love,Consumer,2011-05-26,,True,B2C
+290,308,Glen Caldwell,Consumer,2011-05-11,,True,B2C
+291,308,Glen Caldwell,Small Business,2010-08-14,2011-05-10,False,
+292,310,Florence Clayton,Consumer,2011-05-11,,True,B2C
+293,311,Caroline Ingram,Consumer,2011-05-11,,True,B2C
+294,313,Ruth Stout,Corporate,2011-07-21,,True,B2B
+295,314,Ruby Gibbons,Corporate,2010-03-20,,True,B2B
+296,315,Benjamin Kaufman,Corporate,2010-03-20,,True,B2B
+297,317,Katherine Kearney,Corporate,2010-06-17,,True,B2B
+298,318,Timothy Barker,Corporate,2012-11-24,,True,B2B
+299,319,Jenny Henry,Corporate,2013-05-14,,True,B2B
+300,321,Arthur Lowe Nash,Consumer,2010-10-04,,True,B2C
+301,322,Regina Kelley,Home Office,2013-02-11,,True,B2C
+302,324,Lester Stuart,Corporate,2011-08-09,,True,B2B
+303,326,Brenda May,Consumer,2010-12-09,,True,B2C
+304,327,Sherri McKinney,Consumer,2011-09-25,,True,B2C
+305,329,Faye Dyer,Home Office,2010-04-14,,True,B2C
+306,330,Victoria Reed,Home Office,2012-10-25,,True,B2C
+307,331,Bradley Pollock,Home Office,2010-04-14,,True,B2C
+308,332,Rhonda Cummings,Home Office,2012-10-25,,True,B2C
+309,333,Karl Holloway,Home Office,2013-08-28,,True,B2C
+310,335,Curtis O'Connell,Corporate,2010-05-04,,True,B2B
+311,336,Emma Sparks,Corporate,2011-09-05,,True,B2B
+312,337,Jonathan Cheng,Corporate,2013-08-09,,True,B2B
+313,339,Bobby Clements,Corporate,2010-09-17,,True,B2B
+314,340,Wanda Link Fuller,Corporate,2013-12-06,,True,B2B
+315,341,Donna Ross,Corporate,2013-10-28,,True,B2B
+316,342,Jacqueline Noble,Corporate,2010-11-04,,True,B2B
+317,343,Lynn Epstein,Corporate,2010-07-31,,True,B2B
+318,344,Rosemary English,Corporate,2010-11-04,,True,B2B
+319,345,Theresa Haynes,Corporate,2013-02-15,,True,B2B
+320,346,Walter Jensen,Corporate,2013-03-08,,True,B2B
+321,347,Alexandra Lambert,Corporate,2013-10-28,,True,B2B
+322,348,Justin Kennedy,Corporate,2013-02-15,,True,B2B
+323,349,Kim Weiss,Home Office,2010-06-09,,True,B2C
+324,350,Holly Carey,Home Office,2012-04-13,,True,B2C
+325,351,Juanita Coley Knox,Home Office,2010-06-09,,True,B2C
+326,353,Bonnie Chambers,Home Office,2010-05-14,,True,B2C
+327,354,Joanna Hill,Home Office,2011-10-03,,True,B2C
+328,355,Grace Vaughn,Home Office,2011-11-26,,True,B2C
+329,357,Barbara McNamara,Corporate,2010-11-24,,True,B2B
+330,358,Chris F Brandt,Corporate,2010-01-09,,True,B2B
+331,360,Lindsay Shepherd,Small Business,2011-01-01,,True,B2B
+332,361,Veronica Francis,Small Business,2011-10-07,,True,B2B
+333,362,Warren Gibbs,Small Business,2013-05-13,,True,B2B
+334,363,Erica Lyon,Small Business,2011-03-25,,True,B2B
+335,364,Evan Snow,Small Business,2013-05-13,,True,B2B
+336,365,Chris Bernstein,Small Business,2013-05-13,,True,B2B
+337,366,Patrick Rosenthal,Small Business,2010-01-17,,True,B2B
+338,367,Richard Keller,Small Business,2013-04-09,,True,B2B
+339,369,Troy Moon,Corporate,2010-10-11,,True,B2B
+340,370,Sam Oh,Corporate,2010-05-27,,True,B2B
+341,371,Roberta Mullins Peters,Corporate,2010-05-27,,True,B2B
+342,372,Doris Tyson,Corporate,2012-10-18,,True,B2B
+343,373,Jeanne Werner,Small Business,2010-03-14,,True,B2B
+344,374,Kathy Cooke,Small Business,2012-10-09,,True,B2B
+345,375,Sandra Sharma,Small Business,2010-03-14,,True,B2B
+346,377,Sylvia Bush,Consumer,2010-10-17,,True,B2C
+347,378,Cindy Ennis,Consumer,2012-05-17,,True,B2C
+348,380,Marian Bryant,Corporate,2011-07-31,,True,B2B
+349,381,Danielle Watts,Corporate,2010-05-01,,True,B2B
+350,382,Wesley Dudley,Corporate,2011-05-25,,True,B2B
+351,383,Renee Alston,Corporate,2010-03-19,,True,B2B
+352,385,Jose High,Corporate,2011-12-07,2013-01-20,False,
+353,385,Jose High,Small Business,2013-01-21,,True,B2B
+354,386,Sue Nichols,Corporate,2011-12-07,,True,B2B
+355,387,Angela Howe,Corporate,2010-12-12,,True,B2B
+356,388,Roger Schwartz,Corporate,2010-01-03,2013-04-21,False,
+357,388,Roger Schwartz,Small Business,2013-04-22,,True,B2B
+358,389,Joel Buckley,Corporate,2010-02-06,2013-10-12,False,
+359,389,Joel Buckley,Small Business,2013-10-13,,True,B2B
+360,391,Suzanne Shannon,Corporate,2011-11-09,,True,B2B
+361,392,Erica R Fuller,Corporate,2010-03-05,,True,B2B
+362,393,Shawn Combs,Corporate,2010-02-15,,True,B2B
+363,394,Kristin Simpson,Corporate,2012-02-10,,True,B2B
+364,395,Monica McCormick,Corporate,2010-12-18,,True,B2B
+365,397,Denise Carver,Corporate,2010-02-02,,True,B2B
+366,398,Bruce Stark,Corporate,2010-11-23,,True,B2B
+367,399,Sheryl Law,Corporate,2012-03-19,,True,B2B
+368,401,Teresa Brewer,Small Business,2011-04-03,,True,B2B
+369,402,Andrew Todd,Small Business,2012-10-01,,True,B2B
+370,403,Toni Christian,Small Business,2011-04-03,,True,B2B
+371,404,Laura Carver Branch,Small Business,2013-03-28,,True,B2B
+372,405,Ricky Hess,Small Business,2013-03-28,,True,B2B
+373,406,June Frank Hammond,Small Business,2010-05-21,,True,B2B
+374,408,Calvin Parsons Walter,Corporate,2010-11-02,,True,B2B
+375,409,Diane Shah,Corporate,2011-02-15,,True,B2B
+376,411,Carolyn Proctor,Consumer,2010-05-04,,True,B2C
+377,412,Paige Bowden,Consumer,2011-05-14,,True,B2C
+378,413,Mildred Mullen,Consumer,2011-06-01,,True,B2C
+379,414,Terry Christian,Consumer,2011-06-01,,True,B2C
+380,415,Jimmy Woodward,Consumer,2011-05-14,,True,B2C
+381,417,Mike Pollard,Small Business,2012-03-16,,True,B2B
+382,418,Lester Cho,Small Business,2011-01-17,,True,B2B
+383,419,Amy Hale,Small Business,2011-01-17,,True,B2B
+384,420,Bernard Block Petersen,Small Business,2012-08-24,,True,B2B
+385,421,Scott Feldman,Small Business,2010-02-06,,True,B2B
+386,422,Gretchen Zimmerman,Small Business,2013-10-10,,True,B2B
+387,423,Alexander Baker,Small Business,2011-10-10,,True,B2B
+388,424,Marion Kaplan,Small Business,2012-08-24,,True,B2B
+389,426,Marc Cochran,Corporate,2013-03-23,,True,B2B
+390,427,Annie McLaughlin,Consumer,2013-01-25,,True,B2C
+391,427,Annie McLaughlin,Corporate,2011-06-06,2013-01-24,False,
+392,428,Ernest Barber,Consumer,2013-11-15,,True,B2C
+393,428,Ernest Barber,Corporate,2010-07-15,2013-11-14,False,
+394,430,Harvey Barrett,Corporate,2012-09-03,,True,B2B
+395,430,Harvey Barrett,Small Business,2011-11-05,2012-09-02,False,
+396,431,Claude Meyer,Corporate,2012-12-03,,True,B2B
+397,431,Claude Meyer,Small Business,2012-11-21,2012-12-02,False,
+398,432,Peter Creech,Small Business,2012-09-23,,True,B2B
+399,433,Brenda Klein,Small Business,2013-07-19,,True,B2B
+400,434,Melinda Ross,Small Business,2011-06-10,,True,B2B
+401,435,Elisabeth Bullock,Small Business,2012-09-23,,True,B2B
+402,436,Lauren Lanier,Small Business,2013-07-19,,True,B2B
+403,437,Alice Berger McIntyre,Small Business,2010-06-22,,True,B2B
+404,438,Edwin Winters,Corporate,2013-12-09,,True,B2B
+405,439,Jay Parker,Corporate,2013-12-09,,True,B2B
+406,440,Cheryl Lester Coley,Corporate,2013-12-09,,True,B2B
+407,441,Jack Durham,Small Business,2011-06-10,,True,B2B
+408,443,Chris High,Small Business,2013-04-25,,True,B2B
+409,444,Thelma Abrams,Small Business,2010-11-25,,True,B2B
+410,445,Judy Barrett,Small Business,2010-04-11,,True,B2B
+411,447,Valerie Moon,Corporate,2010-06-25,,True,B2B
+412,448,Maria B Hanna,Corporate,2012-02-13,,True,B2B
+413,450,Arlene Poe,Corporate,2012-08-20,,True,B2B
+414,450,Arlene Poe,Home Office,2011-12-27,2012-08-19,False,
+415,451,Joyce Murray,Home Office,2010-04-10,,True,B2C
+416,452,Leslie Rowland,Home Office,2010-05-27,,True,B2C
+417,453,George Terry,Corporate,2010-05-08,2011-12-15,False,
+418,453,George Terry,Home Office,2011-12-16,,True,B2C
+419,454,Gayle Waller,Corporate,2013-08-12,,True,B2B
+420,454,Gayle Waller,Home Office,2012-05-31,2013-08-11,False,
+421,455,Jessica Garcia,Corporate,2013-11-01,,True,B2B
+422,456,Eugene Womble,Corporate,2013-06-10,,True,B2B
+423,457,Dan Barton,Corporate,2013-11-01,,True,B2B
+424,458,Leslie Patton Combs,Home Office,2013-05-14,,True,B2C
+425,459,Gail B Weinstein,Home Office,2011-06-04,,True,B2C
+426,460,Anne Armstrong,Home Office,2010-11-23,,True,B2C
+427,461,Glenn Jones,Corporate,2013-11-01,,True,B2B
+428,463,Debbie Stevenson,Small Business,2010-07-14,,True,B2B
+429,464,Patrick Rhodes,Small Business,2011-10-18,,True,B2B
+430,465,Ricky Johnston,Small Business,2011-12-13,,True,B2B
+431,466,Marc Nash,Small Business,2010-01-11,,True,B2B
+432,467,Maria Thomas,Small Business,2010-01-11,,True,B2B
+433,468,Craig Bennett,Small Business,2010-01-11,,True,B2B
+434,469,Marion Bowling,Small Business,2010-01-11,,True,B2B
+435,470,Tony Doyle,Small Business,2010-01-11,,True,B2B
+436,471,Ross Simpson,Consumer,2010-02-08,2012-05-08,False,
+437,471,Ross Simpson,Corporate,2012-05-09,,True,B2B
+438,472,Donna Craven,Consumer,2010-02-08,2012-05-08,False,
+439,472,Donna Craven,Corporate,2012-05-09,,True,B2B
+440,474,Rita Kahn Ward,Small Business,2011-05-30,,True,B2B
+441,475,Rita Spivey,Small Business,2012-02-14,,True,B2B
+442,476,Julian Skinner,Corporate,2013-11-08,,True,B2B
+443,476,Julian Skinner,Small Business,2012-11-26,2013-11-07,False,
+444,477,Randall Schneider,Small Business,2011-11-18,,True,B2B
+445,478,Michael Wiggins,Home Office,2011-10-29,,True,B2C
+446,478,Michael Wiggins,Small Business,2011-02-08,2011-10-28,False,
+447,479,Tim Moore,Small Business,2011-02-08,,True,B2B
+448,480,Max Ross Finch,Home Office,2011-10-29,2012-11-28,False,
+449,480,Max Ross Finch,Small Business,2012-11-29,,True,B2B
+450,482,Marion Stephenson,Corporate,2012-07-04,,True,B2B
+451,483,Edgar McKenzie,Corporate,2010-07-27,,True,B2B
+452,485,Edward Leonard,Corporate,2010-03-18,,True,B2B
+453,486,Tracey Gross,Corporate,2011-09-20,,True,B2B
+454,487,Molly Vincent,Corporate,2010-05-18,,True,B2B
+455,488,Ronnie Creech,Corporate,2010-05-18,,True,B2B
+456,489,Eileen Cheek,Corporate,2010-05-18,,True,B2B
+457,490,Jeff Lassiter,Corporate,2013-10-30,,True,B2B
+458,491,Toni Swanson,Consumer,2010-05-15,,True,B2C
+459,492,Courtney Weber,Consumer,2011-09-10,,True,B2C
+460,493,Douglas Buck,Consumer,2010-07-20,,True,B2C
+461,494,Jimmy Alston Holder,Consumer,2010-05-15,,True,B2C
+462,496,Douglas Gay,Small Business,2011-02-11,,True,B2B
+463,497,Steve McKee,Small Business,2010-11-14,,True,B2B
+464,499,Anne Coates,Corporate,2012-04-09,,True,B2B
+465,500,Brenda Cowan,Corporate,2012-11-02,,True,B2B
+466,501,Jacob Duncan,Corporate,2013-08-09,,True,B2B
+467,503,Jeanne Woodruff,Small Business,2012-10-12,,True,B2B
+468,505,Neil Arnold Kidd,Corporate,2013-01-07,,True,B2B
+469,506,Teresa Boyette,Corporate,2013-03-04,,True,B2B
+470,507,Carol Saunders,Corporate,2010-10-18,,True,B2B
+471,508,Cameron Owens,Corporate,2010-02-23,,True,B2B
+472,510,Gregory Rao,Consumer,2011-07-25,,True,B2C
+473,510,Gregory Rao,Corporate,2010-01-13,2011-07-24,False,
+474,511,Zachary Wu,Consumer,2012-11-11,,True,B2C
+475,512,Tim Joseph Dennis,Corporate,2012-04-02,,True,B2B
+476,513,Annette Sharpe,Consumer,2012-11-11,,True,B2C
+477,514,Meredith Brandon,Consumer,2011-03-24,,True,B2C
+478,515,Rosemary Foster,Consumer,2012-11-11,,True,B2C
+479,516,Kristine Powell,Corporate,2012-04-02,,True,B2B
+480,518,Mark Ritchie,Home Office,2010-12-05,,True,B2C
+481,519,Beverly Keith,Home Office,2012-07-12,,True,B2C
+482,521,Donald Montgomery,Small Business,2011-12-31,,True,B2B
+483,522,Aaron Riggs,Small Business,2010-12-22,,True,B2B
+484,524,Gina McKnight,Consumer,2010-07-20,,True,B2C
+485,526,April Hu,Home Office,2010-05-25,,True,B2C
+486,527,Victor Stevens,Home Office,2012-04-21,,True,B2C
+487,528,Martha Jenkins,Home Office,2011-05-11,,True,B2C
+488,530,Ian Bean,Corporate,2011-06-04,,True,B2B
+489,531,Raymond Hampton,Corporate,2013-04-10,,True,B2B
+490,533,Jamie Dixon,Corporate,2011-03-23,,True,B2B
+491,534,Geoffrey Ayers,Corporate,2011-09-05,,True,B2B
+492,535,Jill Clements,Corporate,2010-10-21,,True,B2B
+493,537,Nelson Coley,Corporate,2012-10-10,,True,B2B
+494,539,Alice Coley,Small Business,2010-11-14,,True,B2B
+495,540,Ruth Lamm,Corporate,2013-08-02,,True,B2B
+496,540,Ruth Lamm,Small Business,2010-11-14,2013-08-01,False,
+497,542,Jim Shah,Home Office,2011-05-10,,True,B2C
+498,543,Theodore Goldstein,Home Office,2012-06-03,,True,B2C
+499,544,Doris Starr,Home Office,2011-07-27,,True,B2C
+500,546,Pam Francis,Corporate,2011-07-29,,True,B2B
+501,547,Henry Ball,Corporate,2010-12-14,,True,B2B
+502,549,Dennis Boykin Townsend,Corporate,2010-07-20,,True,B2B
+503,550,Edna Monroe Talley,Corporate,2010-07-30,,True,B2B
+504,551,Peggy Chan,Corporate,2010-07-30,,True,B2B
+505,552,Roger Liu,Corporate,2011-08-13,,True,B2B
+506,553,Kristine Connolly,Corporate,2010-08-21,,True,B2B
+507,553,Kristine Connolly,Home Office,2010-01-28,2010-08-20,False,
+508,554,Lillian Baldwin,Home Office,2011-09-19,,True,B2C
+509,555,Walter Young,Corporate,2010-08-21,,True,B2B
+510,556,Kristina Sanders,Corporate,2011-07-24,,True,B2B
+511,556,Kristina Sanders,Home Office,2010-01-28,2011-07-23,False,
+512,558,Lucy Pennington,Home Office,2012-09-17,,True,B2C
+513,559,Harvey McDonald,Home Office,2011-12-24,2013-03-15,False,
+514,559,Harvey McDonald,Small Business,2013-03-16,,True,B2B
+515,560,Hazel Walters,Small Business,2013-04-22,,True,B2B
+516,561,Bruce Morton,Corporate,2012-06-17,,True,B2B
+517,561,Bruce Morton,Home Office,2011-08-24,2012-06-16,False,
+518,562,Keith Fowler,Home Office,2011-01-25,,True,B2C
+519,563,Marjorie Pope,Corporate,2012-06-17,,True,B2B
+520,563,Marjorie Pope,Home Office,2011-01-25,2012-06-16,False,
+521,565,Andrea Oakley,Corporate,2012-03-09,,True,B2B
+522,566,Stephanie Pruitt,Corporate,2011-01-14,,True,B2B
+523,568,Peter McConnell,Consumer,2010-03-04,,True,B2C
+524,569,Andrew Warren,Consumer,2011-10-09,,True,B2C
+525,570,Katharine Bass,Consumer,2010-07-13,,True,B2C
+526,572,Nancy White,Home Office,2012-09-05,,True,B2C
+527,573,Vanessa Winstead,Corporate,2010-08-26,,True,B2B
+528,573,Vanessa Winstead,Home Office,2010-03-13,2010-08-25,False,
+529,574,Bernice Stanley,Corporate,2013-07-03,,True,B2B
+530,576,Gordon Lyon,Corporate,2010-07-13,,True,B2B
+531,577,Malcolm Kent,Corporate,2011-03-13,,True,B2B
+532,578,Evan K Bullard,Corporate,2010-05-13,,True,B2B
+533,579,Marlene Abrams,Corporate,2010-05-13,,True,B2B
+534,580,Kathryn Patrick,Corporate,2010-05-13,,True,B2B
+535,581,Eugene Curry,Corporate,2013-06-24,,True,B2B
+536,582,Heather Rich McClure,Corporate,2011-09-26,,True,B2B
+537,583,Michelle Allison,Corporate,2011-03-09,,True,B2B
+538,584,Timothy Currie,Corporate,2010-07-21,,True,B2B
+539,585,William Larson,Consumer,2011-11-14,,True,B2C
+540,585,William Larson,Corporate,2010-05-13,2011-11-13,False,
+541,586,Katherine Stokes,Corporate,2012-08-26,,True,B2B
+542,587,Herbert Barbour,Corporate,2012-08-26,,True,B2B
+543,588,Sean Garner,Corporate,2011-03-13,,True,B2B
+544,589,Kay Hendricks,Corporate,2013-06-24,,True,B2B
+545,591,Evelyn Blair,Consumer,2011-08-28,,True,B2C
+546,592,Eva Silverman,Consumer,2011-03-12,,True,B2C
+547,592,Eva Silverman,Small Business,2010-01-17,2011-03-11,False,
+548,593,Joel Huffman,Consumer,2011-04-15,,True,B2C
+549,593,Joel Huffman,Small Business,2010-01-17,2011-04-14,False,
+550,594,Charlie Moore,Consumer,2010-09-15,,True,B2C
+551,595,Dana Desai,Consumer,2013-06-28,,True,B2C
+552,595,Dana Desai,Small Business,2011-12-30,2013-06-27,False,
+553,596,Doris Fitzpatrick,Consumer,2010-02-15,,True,B2C
+554,597,Alexandra Wise,Consumer,2012-03-11,,True,B2C
+555,597,Alexandra Wise,Small Business,2010-12-10,2012-03-10,False,
+556,599,Beverly Barnett,Corporate,2011-06-28,,True,B2B
+557,600,Vickie Morse,Corporate,2010-03-13,,True,B2B
+558,602,Randall Bynum,Home Office,2013-05-18,,True,B2C
+559,602,Randall Bynum,Small Business,2011-02-11,2013-05-17,False,
+560,603,Gretchen Ball,Home Office,2010-02-03,2011-02-10,False,
+561,603,Gretchen Ball,Small Business,2011-02-11,,True,B2B
+562,604,Lindsay P Ashley,Corporate,2010-03-14,2010-07-23,False,
+563,604,Lindsay P Ashley,Home Office,2010-07-24,,True,B2C
+564,605,Alison Peters Wooten,Corporate,2010-03-14,2012-02-27,False,
+565,605,Alison Peters Wooten,Home Office,2012-02-28,,True,B2C
+566,606,Tamara Cowan,Home Office,2011-01-11,,True,B2C
+567,607,Clara Hauser,Corporate,2011-01-29,,True,B2B
+568,608,Daniel Jones,Corporate,2011-03-01,,True,B2B
+569,609,Shawn Adler,Corporate,2011-09-14,,True,B2B
+570,611,Cathy Weber,Home Office,2012-02-24,,True,B2C
+571,613,Lynda Martinez,Home Office,2011-09-17,,True,B2C
+572,614,Ricky Kaufman,Home Office,2011-01-12,,True,B2C
+573,615,Steven Herring,Home Office,2011-04-11,,True,B2C
+574,617,Brett Schultz,Consumer,2010-10-29,,True,B2C
+575,618,Robert Cowan,Consumer,2010-09-24,,True,B2C
+576,619,Howard Rogers,Consumer,2010-07-07,,True,B2C
+577,621,Heather Stern,Home Office,2010-02-26,,True,B2C
+578,622,Hazel Khan,Home Office,2010-02-26,,True,B2C
+579,623,Jenny Petty,Home Office,2010-10-01,,True,B2C
+580,624,Terry Klein,Home Office,2010-10-01,,True,B2C
+581,626,Ricky Whitley,Corporate,2011-10-24,,True,B2B
+582,627,Scott McKenna,Corporate,2010-10-21,,True,B2B
+583,629,Alan Griffith,Small Business,2011-02-06,,True,B2B
+584,631,Eddie Riggs,Small Business,2012-10-28,,True,B2B
+585,632,Patsy Kane Gardner,Small Business,2012-03-23,,True,B2B
+586,633,Gene Harper Herring,Small Business,2012-03-23,,True,B2B
+587,635,Juan Justice,Corporate,2010-10-05,,True,B2B
+588,636,Gretchen Wiggins,Corporate,2011-01-18,,True,B2B
+589,637,Christopher Bryant,Consumer,2010-03-20,,True,B2C
+590,638,Brooke Shepherd,Consumer,2010-04-30,,True,B2C
+591,639,Lois Rowland,Consumer,2010-02-14,,True,B2C
+592,640,Neal Wolfe,Consumer,2010-02-14,,True,B2C
+593,642,Jan Cross,Corporate,2011-07-14,,True,B2B
+594,643,Phillip Wright,Corporate,2013-06-26,,True,B2B
+595,645,Jessie Pugh,Corporate,2012-01-14,,True,B2B
+596,646,Robin High,Corporate,2010-06-17,,True,B2B
+597,648,Steve O'Brien,Home Office,2010-06-21,,True,B2C
+598,649,Roger Meyer,Home Office,2010-11-29,,True,B2C
+599,651,Leah Clapp,Consumer,2010-01-07,,True,B2C
+600,653,Ann Katz,Consumer,2010-04-16,,True,B2C
+601,654,Stacy Briggs,Consumer,2011-03-16,,True,B2C
+602,655,Meredith B Sherrill,Consumer,2011-12-19,,True,B2C
+603,656,Emma Hayes,Consumer,2013-12-19,,True,B2C
+604,657,Derek McCormick,Consumer,2010-01-19,,True,B2C
+605,658,Laurence Martinez Rodriguez,Consumer,2013-10-03,,True,B2C
+606,659,Marjorie Arthur,Consumer,2010-01-19,,True,B2C
+607,661,Emma Leach,Consumer,2011-06-08,,True,B2C
+608,663,Hilda Bennett,Home Office,2010-11-29,,True,B2C
+609,664,Denise Chapman,Home Office,2013-04-09,,True,B2C
+610,665,Miriam Mueller,Corporate,2010-01-16,,True,B2B
+611,666,Emily Sims,Corporate,2010-04-22,,True,B2B
+612,667,Allison Kirby,Corporate,2010-01-16,,True,B2B
+613,669,Amy Shea,Home Office,2010-09-20,,True,B2C
+614,670,Lewis Baldwin,Home Office,2010-03-05,,True,B2C
+615,672,Brian Leach,Small Business,2010-02-05,,True,B2B
+616,673,Paula Joyce Browning,Small Business,2012-07-28,,True,B2B
+617,674,Albert Frost,Small Business,2010-07-02,,True,B2B
+618,675,Dolores Sigmon,Small Business,2011-08-05,,True,B2B
+619,676,Kerry Small,Small Business,2013-08-05,,True,B2B
+620,678,Edward McKenzie,Corporate,2010-04-22,,True,B2B
+621,679,Katie Dougherty,Corporate,2010-09-04,,True,B2B
+622,680,Laurence Poe,Corporate,2010-09-04,,True,B2B
+623,681,Allison Cooke,Corporate,2013-10-18,,True,B2B
+624,683,Seth Merrill,Small Business,2010-04-07,,True,B2B
+625,685,Norman Burnette,Small Business,2011-06-05,,True,B2B
+626,686,Pamela Levin,Small Business,2012-01-10,,True,B2B
+627,688,Ashley Reese,Small Business,2010-05-16,,True,B2B
+628,689,Tommy Honeycutt,Small Business,2010-02-04,,True,B2B
+629,691,Alicia Curtis,Consumer,2012-01-03,,True,B2C
+630,691,Alicia Curtis,Home Office,2010-03-21,2012-01-02,False,
+631,693,Richard McClure,Small Business,2010-03-25,,True,B2B
+632,694,Cecil Bray Bush,Home Office,2012-09-23,,True,B2C
+633,694,Cecil Bray Bush,Small Business,2011-04-25,2012-09-22,False,
+634,695,Alison Jacobson,Small Business,2011-06-07,,True,B2B
+635,696,Johnny Reid,Corporate,2010-03-27,,True,B2B
+636,697,Adam G Sawyer,Corporate,2010-03-27,,True,B2B
+637,698,Nelson Hensley,Corporate,2010-03-27,,True,B2B
+638,699,Jenny Gold,Consumer,2010-04-23,,True,B2C
+639,700,Joseph Grossman,Consumer,2010-11-20,,True,B2C
+640,701,Christine Gardner,Consumer,2011-07-09,,True,B2C
+641,702,Kelly O'Connor,Consumer,2010-04-23,,True,B2C
+642,703,Victor Knox,Consumer,2011-12-15,,True,B2C
+643,704,Leo Jennings,Consumer,2013-04-22,,True,B2C
+644,705,Laura Lyon,Consumer,2011-10-22,,True,B2C
+645,706,Patrick Reilly,Consumer,2013-04-22,,True,B2C
+646,707,William Raynor,Consumer,2012-08-06,,True,B2C
+647,708,Marianne Sutton,Consumer,2013-04-22,,True,B2C
+648,709,Benjamin Creech,Consumer,2013-07-29,,True,B2C
+649,710,Glen Denton,Consumer,2013-07-29,,True,B2C
+650,711,Pam Anthony,Consumer,2010-06-06,,True,B2C
+651,712,Katie Wood,Consumer,2011-07-23,,True,B2C
+652,713,Cecil Nicholson,Consumer,2011-07-23,,True,B2C
+653,714,Seth Stanton,Consumer,2013-06-06,,True,B2C
+654,716,Norma Kendall,Corporate,2011-04-10,,True,B2B
+655,717,Calvin Strickland,Corporate,2011-02-11,,True,B2B
+656,718,Jimmy Hsu,Corporate,2011-02-11,,True,B2B
+657,719,Stephen Lam,Corporate,2010-08-31,,True,B2B
+658,721,Melvin Duke,Corporate,2010-06-24,,True,B2B
+659,722,Kara Tyler,Corporate,2013-09-18,,True,B2B
+660,724,Beverly Cooke Brooks,Consumer,2010-03-15,,True,B2C
+661,725,April Bond,Consumer,2011-10-16,,True,B2C
+662,726,Elisabeth Joyner,Consumer,2011-04-29,,True,B2C
+663,727,Lindsay Link,Consumer,2010-03-15,,True,B2C
+664,728,Constance Vogel,Consumer,2013-06-07,,True,B2C
+665,729,Toni Mayo,Consumer,2012-12-08,,True,B2C
+666,730,Vickie Monroe,Consumer,2011-04-29,,True,B2C
+667,731,June Herbert,Consumer,2010-10-26,,True,B2C
+668,732,Jamie Combs,Consumer,2012-12-08,,True,B2C
+669,733,James Mercer,Consumer,2011-04-29,,True,B2C
+670,734,Esther Gill Norman,Consumer,2012-08-21,,True,B2C
+671,735,Kristen Wells,Consumer,2012-08-21,,True,B2C
+672,736,Meredith Walters,Consumer,2010-06-15,,True,B2C
+673,737,Danny Vaughn,Consumer,2010-06-07,,True,B2C
+674,738,Peggy Rowe,Consumer,2010-06-15,,True,B2C
+675,739,Herbert Gentry,Consumer,2012-08-21,,True,B2C
+676,740,Sean Pratt,Consumer,2011-10-16,,True,B2C
+677,741,Stacey Hale,Consumer,2010-06-15,,True,B2C
+678,742,Robin Mathews,Consumer,2012-08-21,,True,B2C
+679,744,Joy Maxwell,Consumer,2010-07-17,,True,B2C
+680,744,Joy Maxwell,Corporate,2010-01-28,2010-07-16,False,
+681,745,Mary Page,Consumer,2010-07-17,2012-08-07,False,
+682,745,Mary Page,Corporate,2012-08-08,,True,B2B
+683,746,Lindsay York,Consumer,2013-11-19,,True,B2C
+684,746,Lindsay York,Corporate,2011-08-19,2013-11-18,False,
+685,749,Seth Berry,Corporate,2012-11-10,,True,B2B
+686,750,Jordan Wilkinson,Corporate,2010-01-12,,True,B2B
+687,751,David Wrenn,Corporate,2010-02-27,,True,B2B
+688,753,Elisabeth Massey,Corporate,2010-09-11,,True,B2B
+689,754,Helen Lyons,Consumer,2010-10-12,,True,B2C
+690,754,Helen Lyons,Corporate,2010-06-04,2010-10-11,False,
+691,756,Sandra Howe,Home Office,2011-05-14,,True,B2C
+692,757,Neil Hogan,Home Office,2010-08-11,,True,B2C
+693,759,Bernice F Day,Small Business,2010-05-29,,True,B2B
+694,760,Ben Reid Bland,Small Business,2011-02-02,,True,B2B
+695,762,Stuart Holloway,Small Business,2010-10-27,,True,B2B
+696,764,Judy Kirk,Consumer,2013-04-16,,True,B2C
+697,765,Ruby Goodwin,Consumer,2013-05-12,,True,B2C
+698,767,Jeffrey Mueller,Corporate,2010-01-30,,True,B2B
+699,768,Nathan Lowry Shea,Corporate,2011-12-07,,True,B2B
+700,770,Geraldine Puckett,Small Business,2010-09-19,,True,B2B
+701,771,Deborah Paul,Small Business,2010-09-19,,True,B2B
+702,772,Jean Webster,Small Business,2010-01-14,,True,B2B
+703,773,Erica Bynum,Small Business,2012-06-03,,True,B2B
+704,775,Faye Woods,Home Office,2013-03-01,,True,B2C
+705,776,Holly Love Butler,Home Office,2011-10-03,,True,B2C
+706,777,Zachary Yu,Home Office,2011-08-16,,True,B2C
+707,778,Debra Stone,Home Office,2011-08-16,,True,B2C
+708,779,Marvin Roberson,Home Office,2011-08-16,,True,B2C
+709,780,Elisabeth Thompson,Home Office,2012-10-26,,True,B2C
+710,782,Sarah N Becker,Small Business,2010-04-29,,True,B2B
+711,783,Carlos Byrd,Small Business,2010-01-06,,True,B2B
+712,784,Marshall Riddle,Small Business,2013-03-03,,True,B2B
+713,786,Jason Bray,Home Office,2010-04-06,,True,B2C
+714,787,Kristen Callahan,Home Office,2011-12-17,,True,B2C
+715,788,Laurie Boyd,Home Office,2013-03-03,,True,B2C
+716,790,Calvin Harrison,Corporate,2012-02-25,,True,B2B
+717,791,Samuel Moss,Corporate,2012-02-25,,True,B2B
+718,792,Holly Pate,Corporate,2010-06-21,,True,B2B
+719,794,Vincent Kenney,Corporate,2013-05-21,,True,B2B
+720,796,Amanda Conner,Corporate,2010-03-11,2012-06-28,False,
+721,796,Amanda Conner,Small Business,2012-06-29,,True,B2B
+722,797,Eileen Riddle,Corporate,2010-06-01,2013-04-04,False,
+723,797,Eileen Riddle,Small Business,2013-04-05,,True,B2B
+724,799,Lee McKenna Gregory,Consumer,2010-01-06,,True,B2C
+725,800,Cheryl Guthrie,Consumer,2010-09-28,,True,B2C
+726,801,Leonard Daly,Consumer,2012-04-23,,True,B2C
+727,803,Marianne Goldstein,Small Business,2010-10-29,,True,B2B
+728,804,Kim Ellington,Small Business,2012-07-13,,True,B2B
+729,805,Ralph Harding,Small Business,2011-05-04,,True,B2B
+730,806,Judy Singer,Small Business,2010-07-09,,True,B2B
+731,807,Edgar McLeod,Small Business,2012-03-16,,True,B2B
+732,808,Ken Woodward,Small Business,2013-07-09,,True,B2B
+733,810,Jesse Atkinson,Consumer,2011-01-28,,True,B2C
+734,811,Brett Sparks,Corporate,2012-09-09,,True,B2B
+735,812,Stanley Lowe,Corporate,2013-05-12,,True,B2B
+736,813,Stacy Wilkinson,Corporate,2012-12-29,,True,B2B
+737,814,Eddie Chandler,Consumer,2011-08-17,,True,B2C
+738,815,Stacy Reddy,Corporate,2011-10-16,,True,B2B
+739,816,Joel Willard,Consumer,2012-09-19,,True,B2C
+740,817,Rhonda Wong,Consumer,2011-08-17,,True,B2C
+741,819,Keith Forbes,Small Business,2012-12-27,,True,B2B
+742,820,Catherine Mullins,Small Business,2010-05-21,,True,B2B
+743,822,Sara Perkins,Small Business,2013-11-26,,True,B2B
+744,823,Christian Albright,Small Business,2010-07-12,,True,B2B
+745,824,Joann Moser,Home Office,2011-07-18,,True,B2C
+746,824,Joann Moser,Small Business,2010-07-12,2011-07-17,False,
+747,825,Marvin Hunt,Home Office,2010-11-21,2012-01-26,False,
+748,825,Marvin Hunt,Small Business,2012-01-27,,True,B2B
+749,826,Ronnie Shaffer,Home Office,2013-04-01,,True,B2C
+750,826,Ronnie Shaffer,Small Business,2013-01-20,2013-03-31,False,
+751,827,Sheryl Marsh,Home Office,2010-11-25,,True,B2C
+752,829,Monica Law Thompson,Corporate,2010-08-22,,True,B2B
+753,830,Douglas Sutton,Corporate,2010-01-24,,True,B2B
+754,831,Lindsay McGuire,Corporate,2012-04-21,,True,B2B
+755,831,Lindsay McGuire,Home Office,2011-04-01,2012-04-20,False,
+756,833,Gerald Love,Corporate,2010-01-09,,True,B2B
+757,834,Michael Carr,Corporate,2013-07-26,,True,B2B
+758,835,Mitchell Hubbard,Corporate,2012-01-13,,True,B2B
+759,836,Glen Stein,Corporate,2013-04-24,,True,B2B
+760,838,Gary Walton,Consumer,2011-08-08,,True,B2C
+761,840,Kevin Daly,Corporate,2011-04-12,,True,B2B
+762,841,Cameron Page,Corporate,2012-08-23,,True,B2B
+763,842,Judith Stanton,Corporate,2013-10-22,,True,B2B
+764,843,Jamie Watkins,Corporate,2013-06-19,,True,B2B
+765,844,Eddie Li,Corporate,2012-08-23,,True,B2B
+766,845,Maureen Bradley,Corporate,2013-10-22,,True,B2B
+767,846,Kyle Goodman,Corporate,2012-08-23,,True,B2B
+768,847,Bill O'Neill,Corporate,2013-06-19,,True,B2B
+769,848,Jennifer Brandon,Corporate,2012-12-14,,True,B2B
+770,850,Jesse Hutchinson,Corporate,2010-09-07,2012-07-15,False,
+771,850,Jesse Hutchinson,Small Business,2012-07-16,,True,B2B
+772,851,Helen H Heller,Corporate,2010-02-25,,True,B2B
+773,852,Virginia Mason Klein,Small Business,2013-10-04,,True,B2B
+774,853,Leah Davenport,Corporate,2012-05-22,,True,B2B
+775,853,Leah Davenport,Small Business,2010-09-16,2012-05-21,False,
+776,854,Karen Hendricks,Corporate,2010-10-31,,True,B2B
+777,855,Jacob Lanier,Corporate,2010-10-31,,True,B2B
+778,856,Carla S Austin,Small Business,2013-10-04,,True,B2B
+779,857,Mildred Peacock,Small Business,2013-08-27,,True,B2B
+780,858,Arthur Brady,Corporate,2010-10-31,,True,B2B
+781,859,Denise Arthur,Small Business,2013-08-27,,True,B2B
+782,860,Eugene Simmons,Small Business,2013-08-27,,True,B2B
+783,862,Vivian Hodge,Corporate,2011-09-14,,True,B2B
+784,863,Sharon Dickinson,Corporate,2012-09-07,,True,B2B
+785,865,Dana Burgess,Corporate,2010-05-27,,True,B2B
+786,866,Joyce Knowles,Corporate,2011-03-02,,True,B2B
+787,868,Sharon Ellis,Corporate,2010-02-25,,True,B2B
+788,870,Hugh Brock,Home Office,2011-10-29,,True,B2C
+789,871,Sandy Ellington,Home Office,2010-03-15,,True,B2C
+790,873,Robyn Goodwin,Small Business,2013-04-14,,True,B2B
+791,874,Andrew Beard,Small Business,2011-03-30,,True,B2B
+792,875,Erika Fink,Small Business,2010-08-21,,True,B2B
+793,877,Christian Branch,Corporate,2013-03-14,,True,B2B
+794,878,Alan Briggs,Corporate,2013-09-28,,True,B2B
+795,880,Ellen Beck,Small Business,2010-03-25,,True,B2B
+796,881,Jerry Barnes Nelson,Small Business,2011-05-24,,True,B2B
+797,883,Alex Harding,Consumer,2013-09-20,,True,B2C
+798,883,Alex Harding,Home Office,2011-09-15,2013-09-19,False,
+799,884,Kristina Grimes,Corporate,2013-05-16,,True,B2B
+800,885,Malcolm Robertson,Consumer,2013-05-20,,True,B2C
+801,885,Malcolm Robertson,Corporate,2010-11-24,2013-05-19,False,
+802,886,Betty Barbour,Consumer,2013-02-05,,True,B2C
+803,886,Betty Barbour,Corporate,2011-12-12,2013-02-04,False,
+804,886,Betty Barbour,Home Office,2011-08-17,2011-12-11,False,
+805,887,Cindy Hinton,Consumer,2013-08-14,2013-11-08,False,
+806,887,Cindy Hinton,Corporate,2012-09-15,2013-08-13,False,
+807,887,Cindy Hinton,Home Office,2013-11-09,,True,B2C
+808,888,Phyllis Adcock,Consumer,2011-08-14,,True,B2C
+809,889,Elsie G Ferguson,Consumer,2013-01-26,,True,B2C
+810,889,Elsie G Ferguson,Corporate,2011-03-05,2013-01-25,False,
+811,889,Elsie G Ferguson,Home Office,2011-02-21,2011-03-04,False,
+812,890,Billie Fowler,Consumer,2010-01-05,2012-10-31,False,
+813,890,Billie Fowler,Home Office,2012-11-01,,True,B2C
+814,892,Marilyn Baxter,Consumer,2013-05-19,,True,B2C
+815,893,Mike Wilder,Consumer,2012-05-19,,True,B2C
+816,894,Gail Rankin Cole,Corporate,2010-01-10,,True,B2B
+817,895,Gordon Sutherland,Corporate,2012-05-01,,True,B2B
+818,896,Jennifer Siegel,Corporate,2010-01-10,,True,B2B
+819,897,Daniel Sigmon,Small Business,2013-04-02,,True,B2B
+820,898,Harriet Hodges,Small Business,2010-07-12,,True,B2B
+821,899,Jordan Berry,Small Business,2010-07-12,,True,B2B
+822,901,Lester Wilcox,Consumer,2011-05-17,,True,B2C
+823,902,Diane Blanton,Consumer,2013-09-12,,True,B2C
+824,903,Francis Spivey,Consumer,2010-09-12,,True,B2C
+825,904,Rebecca Morrow,Consumer,2013-01-10,,True,B2C
+826,905,Julian Richards,Consumer,2013-03-09,,True,B2C
+827,907,Rachel Casey,Home Office,2010-02-26,,True,B2C
+828,908,Becky Page Cline,Home Office,2013-07-29,,True,B2C
+829,910,Carla Hauser,Corporate,2010-05-14,,True,B2B
+830,911,Marsha P Joyner,Corporate,2010-01-31,,True,B2B
+831,913,Warren Carver,Corporate,2012-06-25,2013-12-01,False,
+832,913,Warren Carver,Home Office,2013-12-02,,True,B2C
+833,914,Marianne Cochran,Corporate,2013-07-07,,True,B2B
+834,914,Marianne Cochran,Home Office,2011-11-24,2013-07-06,False,
+835,915,Carol Sherrill,Corporate,2013-07-04,,True,B2B
+836,915,Carol Sherrill,Home Office,2010-01-04,2013-07-03,False,
+837,916,Marion Wilcox,Corporate,2010-07-04,,True,B2B
+838,918,Kerry Jernigan,Consumer,2010-04-12,2010-11-19,False,
+839,918,Kerry Jernigan,Corporate,2010-11-20,,True,B2B
+840,919,Tracy Livingston,Consumer,2010-04-12,2012-02-19,False,
+841,919,Tracy Livingston,Corporate,2012-02-20,,True,B2B
+842,920,Jessie Kelly,Consumer,2010-04-12,,True,B2C
+843,920,Jessie Kelly,Corporate,2010-03-27,2010-04-11,False,
+844,922,Dolores Abrams,Small Business,2010-05-20,,True,B2B
+845,923,Dana Heller,Small Business,2011-05-28,,True,B2B
+846,924,Sue Stevenson,Small Business,2013-05-28,,True,B2B
+847,925,Ruth Dudley,Small Business,2010-04-06,,True,B2B
+848,926,Rose Starr,Small Business,2011-10-31,,True,B2B
+849,927,Alvin Frost,Small Business,2012-12-30,,True,B2B
+850,928,Jan Massey,Small Business,2011-01-13,,True,B2B
+851,929,Calvin Conway,Small Business,2010-04-06,,True,B2B
+852,930,Ethel Curry,Small Business,2013-04-06,,True,B2B
+853,931,Norma Hull,Small Business,2013-07-19,,True,B2B
+854,932,Bobby Walker,Small Business,2011-10-31,,True,B2B
+855,933,Mark Puckett,Small Business,2012-12-30,,True,B2B
+856,934,Greg McKinney,Small Business,2011-10-31,,True,B2B
+857,936,Robyn Garner,Corporate,2010-02-17,,True,B2B
+858,937,Kelly Shaw,Corporate,2010-12-27,,True,B2B
+859,939,Jessie Goldberg,Home Office,2013-09-03,,True,B2C
+860,940,Albert Maxwell,Home Office,2010-04-14,,True,B2C
+861,941,Nicole Jacobson,Consumer,2013-02-05,2013-08-22,False,
+862,941,Nicole Jacobson,Home Office,2013-08-23,,True,B2C
+863,942,Jackie Neal,Home Office,2011-10-19,,True,B2C
+864,943,Howard Elliott,Home Office,2011-11-25,,True,B2C
+865,945,Stephanie Sun Perry,Home Office,2010-09-06,,True,B2C
+866,946,Denise Parks,Home Office,2010-09-01,,True,B2C
+867,947,Dorothy Buchanan,Home Office,2010-07-11,,True,B2C
+868,948,Rosemary Giles Case,Home Office,2011-07-20,,True,B2C
+869,949,Ernest Oh,Consumer,2010-01-02,,True,B2C
+870,950,Jane Shah,Consumer,2010-01-02,,True,B2C
+871,951,Adam Barton,Consumer,2011-04-01,,True,B2C
+872,953,Josephine Smith,Small Business,2013-02-26,,True,B2B
+873,954,Tony Chandler,Small Business,2010-02-12,,True,B2B
+874,956,Tom Wiley,Consumer,2011-02-25,,True,B2C
+875,957,Brooke M Wood,Consumer,2012-01-20,,True,B2C
+876,959,Sally House,Corporate,2010-03-22,,True,B2B
+877,960,Phillip Chappell,Home Office,2010-02-04,,True,B2C
+878,961,Benjamin Chan,Home Office,2010-08-24,,True,B2C
+879,962,Yvonne Clarke,Home Office,2010-02-04,,True,B2C
+880,964,Virginia Rivera,Home Office,2011-12-30,,True,B2C
+881,965,Martin Page,Consumer,2011-05-15,,True,B2C
+882,966,Jacqueline Chung,Home Office,2011-07-26,,True,B2C
+883,967,Brandon C Yates,Home Office,2013-06-24,,True,B2C
+884,968,Yvonne D McLeod,Home Office,2012-12-25,,True,B2C
+885,969,Joel Abrams,Consumer,2011-05-15,,True,B2C
+886,970,Lynn Payne,Consumer,2010-10-20,2011-03-08,False,
+887,970,Lynn Payne,Home Office,2011-03-09,,True,B2C
+888,972,Gregory Holden,Corporate,2010-08-29,,True,B2B
+889,973,Victor Godfrey,Corporate,2012-03-14,,True,B2B
+890,974,Herman Pritchard,Corporate,2012-02-21,,True,B2B
+891,975,Francis Evans,Corporate,2010-10-04,,True,B2B
+892,976,Jonathan Higgins,Corporate,2012-02-21,,True,B2B
+893,977,Todd Wiggins,Corporate,2013-08-05,,True,B2B
+894,978,Norman Tyler,Corporate,2013-10-04,,True,B2B
+895,979,Francis Peterson,Corporate,2012-01-06,,True,B2B
+896,980,Howard Burnett,Corporate,2010-08-05,,True,B2B
+897,981,Jacob Archer,Corporate,2011-11-14,,True,B2B
+898,983,Sue Drake,Corporate,2010-04-27,2012-03-14,False,
+899,983,Sue Drake,Small Business,2012-03-15,,True,B2B
+900,984,Paul Cooper,Small Business,2011-04-08,,True,B2B
+901,985,Kristin Richmond,Small Business,2013-01-11,,True,B2B
+902,986,Herman Ray,Small Business,2012-01-24,,True,B2B
+903,987,Sidney Matthews,Small Business,2013-01-11,,True,B2B
+904,988,Charlene Zhou,Small Business,2011-01-11,,True,B2B
+905,989,Keith Zhou,Corporate,2013-01-03,,True,B2B
+906,990,Gladys Barnes,Corporate,2011-03-19,,True,B2B
+907,991,Jesse Pennington,Small Business,2013-01-11,,True,B2B
+908,993,Gail Currin,Small Business,2010-02-19,,True,B2B
+909,994,Neal Weber,Small Business,2010-09-14,,True,B2B
+910,995,Lloyd Spencer,Small Business,2010-11-10,,True,B2B
+911,996,Karen Mayo,Small Business,2012-09-07,,True,B2B
+912,997,Phillip Pollard,Small Business,2010-01-24,,True,B2B
+913,998,Charlene Day,Small Business,2013-10-21,,True,B2B
+914,999,Rita Barton,Small Business,2010-09-14,,True,B2B
+915,1000,Lynn Bell,Small Business,2010-09-14,,True,B2B
+916,1002,Kathleen S Erickson,Home Office,2011-05-25,,True,B2C
+917,1003,Jessie Coble,Home Office,2013-02-17,,True,B2C
+918,1005,Lloyd Dickson,Small Business,2010-03-04,,True,B2B
+919,1006,Wallace Warner,Small Business,2011-01-26,,True,B2B
+920,1008,Priscilla Frank,Home Office,2010-05-25,,True,B2C
+921,1009,Kristin George,Corporate,2010-12-19,2013-01-22,False,
+922,1009,Kristin George,Home Office,2013-01-23,,True,B2C
+923,1010,Alexandra Frazier,Home Office,2011-01-07,,True,B2C
+924,1011,Denise Sumner,Home Office,2013-07-02,,True,B2C
+925,1012,Marion L Fitzgerald,Home Office,2012-08-17,,True,B2C
+926,1014,Theresa Winters,Home Office,2010-03-01,,True,B2C
+927,1015,Beverly Cameron,Home Office,2010-09-18,,True,B2C
+928,1016,Francis Sherrill,Home Office,2010-06-12,,True,B2C
+929,1017,Wallace Bridges,Home Office,2012-10-01,,True,B2C
+930,1018,Meredith Humphrey,Home Office,2010-10-08,,True,B2C
+931,1020,Julie Porter,Consumer,2011-08-04,,True,B2C
+932,1020,Julie Porter,Small Business,2010-03-07,2011-08-03,False,
+933,1021,Helen Poole,Small Business,2012-11-30,,True,B2B
+934,1022,Maxine Myers,Small Business,2013-10-29,,True,B2B
+935,1023,Glen Newman,Small Business,2010-05-15,,True,B2B
+936,1025,Patrick Hendrix,Small Business,2011-09-03,,True,B2B
+937,1026,Eugene Kerr,Small Business,2010-08-07,,True,B2B
+938,1027,Brian Bennett,Small Business,2010-03-12,,True,B2B
+939,1028,Marguerite Rodgers,Small Business,2010-09-29,,True,B2B
+940,1030,Christine Wilkerson,Corporate,2013-01-19,,True,B2B
+941,1030,Christine Wilkerson,Small Business,2012-04-20,2013-01-18,False,
+942,1031,Neal Helms,Corporate,2011-02-02,,True,B2B
+943,1031,Neal Helms,Small Business,2011-01-02,2011-02-01,False,
+944,1032,Robert Willis,Corporate,2013-07-17,,True,B2B
+945,1032,Robert Willis,Small Business,2011-01-02,2013-07-16,False,
+946,1033,Sean Sparks,Corporate,2012-12-25,2013-10-12,False,
+947,1033,Sean Sparks,Small Business,2013-10-13,,True,B2B
+948,1035,Kent Burton,Home Office,2010-03-13,,True,B2C
+949,1036,Jessica Huffman,Home Office,2010-03-13,,True,B2C
+950,1038,Jon Hale,Corporate,2010-12-16,,True,B2B
+951,1039,Christian Tilley,Corporate,2012-02-02,,True,B2B
+952,1041,Mildred Chase,Small Business,2010-04-17,,True,B2B
+953,1042,Jerome Burch,Small Business,2010-05-16,,True,B2B
+954,1043,Ethel Coley,Small Business,2012-10-21,,True,B2B
+955,1044,Erin Ballard,Home Office,2010-06-14,,True,B2C
+956,1045,Judy Burnett,Home Office,2011-09-08,,True,B2C
+957,1046,Lorraine C Wooten,Home Office,2012-03-20,,True,B2C
+958,1047,Gayle Pearson,Home Office,2010-08-27,,True,B2C
+959,1048,Mary Gray,Home Office,2013-06-14,,True,B2C
+960,1049,Craig S Fletcher,Home Office,2013-03-26,,True,B2C
+961,1050,Ronald Goldman Francis,Home Office,2013-06-14,,True,B2C
+962,1052,Dennis Barbee Reynolds,Corporate,2012-02-17,,True,B2B
+963,1053,George Bowen,Corporate,2011-05-24,,True,B2B
+964,1054,Keith R Atkinson,Corporate,2010-05-25,,True,B2B
+965,1056,Lewis Herman,Small Business,2011-01-14,,True,B2B
+966,1057,Jean Hardy,Small Business,2011-01-14,,True,B2B
+967,1058,Adam McKinney,Small Business,2012-09-10,,True,B2B
+968,1059,Elaine Bass,Small Business,2011-04-26,,True,B2B
+969,1060,Gene Gilliam,Small Business,2010-03-24,,True,B2B
+970,1061,Earl Melton,Small Business,2013-01-08,,True,B2B
+971,1062,Willie Robinson,Small Business,2010-03-24,,True,B2B
+972,1063,Catherine Woodard,Small Business,2013-01-08,,True,B2B
+973,1065,Vicki Bond,Corporate,2010-08-18,,True,B2B
+974,1066,Stacey Bowers,Corporate,2013-08-28,,True,B2B
+975,1068,Erik Barr,Home Office,2010-09-16,,True,B2C
+976,1069,Pam Bennett,Home Office,2010-11-14,,True,B2C
+977,1071,Hilda Diaz,Corporate,2013-03-01,,True,B2B
+978,1072,Marion Owens,Corporate,2010-03-27,,True,B2B
+979,1074,Sherry Brantley,Home Office,2011-02-26,,True,B2C
+980,1075,Theodore Tyson,Home Office,2010-03-09,,True,B2C
+981,1077,Elsie Byers,Corporate,2013-05-07,,True,B2B
+982,1079,Jimmy Xu,Corporate,2011-03-08,,True,B2B
+983,1080,Colleen Fletcher,Corporate,2010-11-08,,True,B2B
+984,1081,Nancy Schwartz Peacock,Corporate,2013-12-21,,True,B2B
+985,1082,Joy Park,Corporate,2011-05-19,,True,B2B
+986,1083,Hazel Dale,Corporate,2010-03-31,,True,B2B
+987,1085,Ted Dunlap,Corporate,2010-05-13,,True,B2B
+988,1085,Ted Dunlap,Home Office,2010-01-05,2010-05-12,False,
+989,1086,Leon Peele,Corporate,2011-03-31,,True,B2B
+990,1086,Leon Peele,Home Office,2010-04-24,2011-03-30,False,
+991,1088,Jeremy Orr,Corporate,2011-04-12,2012-10-08,False,
+992,1088,Jeremy Orr,Small Business,2012-10-09,,True,B2B
+993,1089,Jon Padgett,Corporate,2011-01-16,2012-10-08,False,
+994,1089,Jon Padgett,Small Business,2012-10-09,,True,B2B
+995,1090,Seth Davies,Corporate,2011-03-07,2013-12-30,False,
+996,1090,Seth Davies,Small Business,2013-12-31,,True,B2B
+997,1091,Joshua Keller,Small Business,2012-11-05,,True,B2B
+998,1092,Ron Singh,Corporate,2013-07-09,,True,B2B
+999,1093,Roy Briggs,Corporate,2011-01-16,,True,B2B
+1000,1095,Joseph Allison,Home Office,2011-03-03,,True,B2C
+1001,1096,Kerry Elliott Parrish,Home Office,2011-12-09,,True,B2C
+1002,1097,Michele Meadows,Home Office,2013-09-09,,True,B2C
+1003,1098,Gregory Barefoot,Home Office,2013-09-09,,True,B2C
+1004,1099,Judy Simpson,Home Office,2013-04-24,,True,B2C
+1005,1101,Kimberly McCarthy,Small Business,2010-11-05,,True,B2B
+1006,1102,Jeffrey Pearson,Small Business,2011-12-04,,True,B2B
+1007,1103,Sidney Bowling,Home Office,2010-04-10,,True,B2C
+1008,1104,Timothy Ross,Home Office,2010-04-10,,True,B2C
+1009,1105,Janet Bryant,Home Office,2011-05-19,,True,B2C
+1010,1106,Maxine Collier Grady,Consumer,2010-12-06,,True,B2C
+1011,1106,Maxine Collier Grady,Small Business,2010-05-20,2010-12-05,False,
+1012,1107,Joanna Keith,Small Business,2010-11-21,,True,B2B
+1013,1108,Dwight Bishop,Consumer,2011-03-22,,True,B2C
+1014,1108,Dwight Bishop,Small Business,2010-05-20,2011-03-21,False,
+1015,1109,Dennis Welch,Consumer,2010-06-29,2012-08-27,False,
+1016,1109,Dennis Welch,Small Business,2012-08-28,,True,B2B
+1017,1110,Kevin Roth,Small Business,2012-08-28,,True,B2B
+1018,1112,Luis Kerr,Corporate,2010-10-02,,True,B2B
+1019,1113,Julia Reynolds,Corporate,2010-10-06,,True,B2B
+1020,1115,Jill Foster,Consumer,2012-08-21,,True,B2C
+1021,1116,Meredith Bland,Consumer,2013-08-20,,True,B2C
+1022,1116,Meredith Bland,Home Office,2013-02-18,2013-08-19,False,
+1023,1117,Samantha Koch,Home Office,2010-08-05,,True,B2C
+1024,1118,Jesse Williams Katz,Consumer,2012-11-07,,True,B2C
+1025,1118,Jesse Williams Katz,Home Office,2011-11-13,2012-11-06,False,
+1026,1119,Cecil Berger,Consumer,2012-08-30,,True,B2C
+1027,1119,Cecil Berger,Home Office,2012-02-14,2012-08-29,False,
+1028,1120,Rita Vaughn,Home Office,2011-09-26,,True,B2C
+1029,1121,Tonya Proctor,Consumer,2010-02-07,2011-10-25,False,
+1030,1121,Tonya Proctor,Home Office,2011-10-26,,True,B2C
+1031,1123,Peggy Lanier,Small Business,2010-09-15,,True,B2B
+1032,1124,Randy Jiang,Small Business,2010-12-20,,True,B2B
+1033,1126,Arlene Lutz,Consumer,2011-01-22,,True,B2C
+1034,1127,Ray Grady,Consumer,2010-08-24,,True,B2C
+1035,1128,Kurt O'Connor,Consumer,2010-12-22,,True,B2C
+1036,1129,Pam Patton,Corporate,2010-03-29,,True,B2B
+1037,1129,Pam Patton,Home Office,2010-02-16,2010-03-28,False,
+1038,1130,Stacy Benton,Corporate,2012-03-16,,True,B2B
+1039,1130,Stacy Benton,Home Office,2011-01-10,2012-03-15,False,
+1040,1131,Benjamin Strauss,Corporate,2011-02-20,,True,B2B
+1041,1131,Benjamin Strauss,Home Office,2010-05-21,2011-02-19,False,
+1042,1132,Michael Robbins,Corporate,2010-02-10,2010-02-15,False,
+1043,1132,Michael Robbins,Home Office,2010-02-16,,True,B2C
+1044,1133,Marjorie Owens,Corporate,2012-10-07,,True,B2B
+1045,1133,Marjorie Owens,Home Office,2010-07-26,2012-10-06,False,
+1046,1135,Daniel Webb Stephens,Consumer,2011-12-09,,True,B2C
+1047,1136,Carmen McPherson,Consumer,2010-07-02,,True,B2C
+1048,1138,Malcolm Floyd,Home Office,2010-08-16,,True,B2C
+1049,1139,Stacey Davenport,Home Office,2013-05-06,,True,B2C
+1050,1140,Miriam Snow,Home Office,2013-03-26,2013-11-17,False,
+1051,1140,Miriam Snow,Small Business,2013-11-18,,True,B2B
+1052,1141,Nancy Bennett,Home Office,2012-06-16,,True,B2C
+1053,1141,Nancy Bennett,Small Business,2011-09-30,2012-06-15,False,
+1054,1142,Russell Chan,Home Office,2010-07-04,2011-09-29,False,
+1055,1142,Russell Chan,Small Business,2011-09-30,,True,B2B
+1056,1143,Phyllis Jacobson,Home Office,2011-01-22,,True,B2C
+1057,1145,Alvin B Winstead,Consumer,2011-10-21,,True,B2C
+1058,1146,Jay Shaffer Desai,Consumer,2012-07-17,,True,B2C
+1059,1148,Eleanor Erickson,Corporate,2012-07-16,,True,B2B
+1060,1149,Edgar Vogel,Corporate,2013-09-29,,True,B2B
+1061,1150,Rose Schultz,Corporate,2012-12-29,,True,B2B
+1062,1151,Edna Huang,Corporate,2010-12-09,2012-12-20,False,
+1063,1151,Edna Huang,Home Office,2012-12-21,,True,B2C
+1064,1152,Brett Douglas,Corporate,2012-12-29,,True,B2B
+1065,1153,Molly Branch,Corporate,2011-08-28,2013-08-28,False,
+1066,1153,Molly Branch,Home Office,2013-08-29,,True,B2C
+1067,1155,Alex Nicholson,Consumer,2010-01-02,,True,B2C
+1068,1156,Edith Forbes,Consumer,2010-08-14,,True,B2C
+1069,1157,Jon Stephens,Consumer,2011-08-11,,True,B2C
+1070,1158,Todd Pennington,Consumer,2012-04-28,,True,B2C
+1071,1159,Arlene Weeks,Consumer,2010-05-20,,True,B2C
+1072,1161,Brooke Arnold,Corporate,2012-10-14,,True,B2B
+1073,1162,Sidney Cherry,Corporate,2011-11-24,,True,B2B
+1074,1163,Clifford Morrow,Corporate,2011-02-01,,True,B2B
+1075,1164,Glenn Burnette,Corporate,2013-04-10,,True,B2B
+1076,1165,Jason L Doyle,Corporate,2012-12-07,,True,B2B
+1077,1166,Pamela C Kane,Corporate,2012-12-07,,True,B2B
+1078,1167,Marc Randall,Corporate,2013-04-10,,True,B2B
+1079,1168,Angela Wooten,Corporate,2012-02-25,,True,B2B
+1080,1170,Jessie Houston,Consumer,2010-06-02,,True,B2C
+1081,1171,Floyd Hill Dorsey,Consumer,2011-01-02,,True,B2C
+1082,1172,Bill Hudson,Consumer,2012-08-08,,True,B2C
+1083,1173,Kara Capps,Home Office,2013-05-05,,True,B2C
+1084,1174,Calvin Hutchinson,Home Office,2012-03-03,,True,B2C
+1085,1175,Vickie Hendricks,Home Office,2013-04-22,,True,B2C
+1086,1176,Barbara Saunders,Home Office,2011-05-05,,True,B2C
+1087,1178,Sandy Hunt,Consumer,2010-04-09,,True,B2C
+1088,1180,Bernard Strauss,Home Office,2013-02-27,,True,B2C
+1089,1181,Tommy Feldman,Home Office,2013-11-28,,True,B2C
+1090,1182,Jesse Williamson,Home Office,2010-05-23,,True,B2C
+1091,1183,Becky O'Brien,Home Office,2010-06-29,,True,B2C
+1092,1185,Lee Xu,Consumer,2010-03-21,,True,B2C
+1093,1186,Glenda Herbert,Consumer,2010-04-09,,True,B2C
+1094,1187,Dale Carroll,Consumer,2011-06-10,,True,B2C
+1095,1188,Kevin Marks,Consumer,2011-06-10,,True,B2C
+1096,1189,Dwight Stephenson,Consumer,2010-06-17,2011-05-04,False,
+1097,1189,Dwight Stephenson,Small Business,2011-05-05,,True,B2B
+1098,1190,Judith Jacobs,Consumer,2011-03-22,,True,B2C
+1099,1190,Judith Jacobs,Small Business,2011-01-10,2011-03-21,False,
+1100,1191,John Morse,Small Business,2010-12-28,,True,B2B
+1101,1192,Ernest McBride,Consumer,2012-03-20,,True,B2C
+1102,1193,Louis Parrish,Consumer,2010-06-17,2010-10-31,False,
+1103,1193,Louis Parrish,Small Business,2010-11-01,,True,B2B
+1104,1194,Sidney Brewer,Small Business,2010-11-01,,True,B2B
+1105,1195,Kara Payne,Consumer,2011-06-15,,True,B2C
+1106,1196,Jan Hubbard Richards,Small Business,2011-01-15,,True,B2B
+1107,1197,Grace McNeill Hunt,Small Business,2010-03-18,,True,B2B
+1108,1198,Lester Sykes,Consumer,2013-04-06,,True,B2C
+1109,1199,Edward Lamm,Consumer,2010-08-25,,True,B2C
+1110,1200,Beth English,Consumer,2010-08-25,,True,B2C
+1111,1201,Dianne Kaufman,Small Business,2013-05-27,,True,B2B
+1112,1202,Faye Wolf,Consumer,2010-08-25,,True,B2C
+1113,1203,Judy Merritt,Small Business,2010-12-28,,True,B2B
+1114,1204,Jon Simmons,Consumer,2011-01-12,,True,B2C
+1115,1206,Dana Jain,Small Business,2011-01-06,,True,B2B
+1116,1208,Michele Morrow Marsh,Home Office,2011-04-07,,True,B2C
+1117,1209,Betsy Bean,Home Office,2013-02-09,,True,B2C
+1118,1211,Debra Proctor,Corporate,2010-02-01,,True,B2B
+1119,1212,Eileen Fletcher,Corporate,2010-07-15,2013-08-06,False,
+1120,1212,Eileen Fletcher,Small Business,2013-08-07,,True,B2B
+1121,1213,Jeremy Pratt,Corporate,2010-02-04,,True,B2B
+1122,1215,Evelyn Meyer,Small Business,2012-12-07,,True,B2B
+1123,1216,Angela Larson,Small Business,2011-01-15,,True,B2B
+1124,1217,Billy Perry Browning,Small Business,2010-04-28,,True,B2B
+1125,1218,Ethel Barton,Small Business,2012-12-21,,True,B2B
+1126,1219,Sam Graham Christian,Small Business,2013-10-30,,True,B2B
+1127,1220,Kathy Reese,Small Business,2012-06-12,,True,B2B
+1128,1221,Vickie Frost,Small Business,2011-05-08,,True,B2B
+1129,1222,Gladys Wilkinson,Small Business,2012-03-22,,True,B2B
+1130,1223,Marcia Bernstein Horn,Small Business,2012-12-21,,True,B2B
+1131,1224,Larry Spencer,Small Business,2013-10-30,,True,B2B
+1132,1225,Beverly Leonard,Small Business,2012-06-12,,True,B2B
+1133,1226,Ken Cash,Small Business,2010-04-28,,True,B2B
+1134,1227,Elsie Hwang,Small Business,2010-04-28,,True,B2B
+1135,1228,Hazel Jennings,Small Business,2010-02-16,,True,B2B
+1136,1229,Patrick Byrne,Small Business,2010-02-16,,True,B2B
+1137,1230,Joan Hardin,Small Business,2011-02-02,,True,B2B
+1138,1231,Jim Roberson,Small Business,2012-07-05,,True,B2B
+1139,1233,Gary Hester,Consumer,2010-10-09,,True,B2C
+1140,1234,Vickie Howe Lawrence,Consumer,2012-02-16,,True,B2C
+1141,1236,Lynne Pace,Corporate,2011-10-26,,True,B2B
+1142,1237,Eva Simpson,Corporate,2010-07-31,,True,B2B
+1143,1238,April Bowers,Corporate,2010-07-31,,True,B2B
+1144,1239,Martin Fink,Corporate,2011-05-25,,True,B2B
+1145,1241,Bradley Schroeder,Corporate,2010-09-16,2010-09-24,False,
+1146,1241,Bradley Schroeder,Small Business,2010-09-25,,True,B2B
+1147,1242,Dan Hoover,Corporate,2011-02-02,2013-02-22,False,
+1148,1242,Dan Hoover,Small Business,2013-02-23,,True,B2B
+1149,1244,Victor Pace,Home Office,2011-07-22,,True,B2C
+1150,1245,Jimmy Strauss,Home Office,2011-05-14,,True,B2C
+1151,1246,Lois Hansen,Home Office,2010-04-05,,True,B2C
+1152,1247,Henry O'Connell,Home Office,2010-04-05,,True,B2C
+1153,1248,Connie W Sutton,Home Office,2013-05-22,,True,B2C
+1154,1250,Kara Patton,Corporate,2010-10-09,2011-05-05,False,
+1155,1250,Kara Patton,Home Office,2011-05-06,,True,B2C
+1156,1251,Leah Huff,Corporate,2012-04-02,2013-05-11,False,
+1157,1251,Leah Huff,Home Office,2013-05-12,,True,B2C
+1158,1253,Vickie Coates,Home Office,2010-04-23,,True,B2C
+1159,1254,Anne Bland,Home Office,2010-05-21,,True,B2C
+1160,1255,Craig Crabtree,Home Office,2013-05-13,,True,B2C
+1161,1257,Ryan Foster,Home Office,2010-05-22,,True,B2C
+1162,1258,Mildred English,Home Office,2011-07-29,,True,B2C
+1163,1259,Keith Hobbs,Home Office,2010-04-20,,True,B2C
+1164,1261,Vickie Gonzalez,Home Office,2010-11-07,,True,B2C
+1165,1262,Lindsay Zhou,Home Office,2011-02-05,,True,B2C
+1166,1263,Gloria Lewis,Home Office,2013-08-17,,True,B2C
+1167,1264,Billy Bullock,Home Office,2013-01-03,,True,B2C
+1168,1265,Danielle Kramer,Home Office,2010-06-11,,True,B2C
+1169,1267,Rosemary Branch,Corporate,2010-02-10,,True,B2B
+1170,1268,Stuart Bruce,Corporate,2013-08-08,,True,B2B
+1171,1269,Janice Page,Corporate,2012-08-13,,True,B2B
+1172,1271,Joanne Church,Corporate,2010-04-09,,True,B2B
+1173,1272,Thelma Benson,Corporate,2011-11-25,,True,B2B
+1174,1273,Lois Bloom,Corporate,2013-12-09,,True,B2B
+1175,1274,Christina McNeill,Corporate,2012-03-21,,True,B2B
+1176,1275,Vanessa Bowers,Corporate,2013-12-09,,True,B2B
+1177,1276,Claude Dixon,Corporate,2011-11-25,,True,B2B
+1178,1277,Joan Walters,Corporate,2013-12-11,,True,B2B
+1179,1278,Veronica Lehman,Corporate,2011-08-10,,True,B2B
+1180,1279,Josephine Rao,Corporate,2010-03-01,,True,B2B
+1181,1280,Harold Albright,Corporate,2010-03-01,,True,B2B
+1182,1281,Pauline Denton,Small Business,2010-01-24,,True,B2B
+1183,1282,Dana Sharpe,Small Business,2010-01-24,,True,B2B
+1184,1283,Greg Malone,Small Business,2013-04-21,,True,B2B
+1185,1285,Philip Coates,Corporate,2011-06-30,,True,B2B
+1186,1286,Sandra Moran,Corporate,2012-05-21,,True,B2B
+1187,1287,Cheryl Burnette,Corporate,2011-06-30,,True,B2B
+1188,1288,Joann Hensley,Corporate,2013-08-22,,True,B2B
+1189,1289,Andrew Levin,Corporate,2012-06-14,,True,B2B
+1190,1290,Martin Weeks,Corporate,2013-10-27,,True,B2B
+1191,1291,Maria Jackson,Small Business,2011-03-15,,True,B2B
+1192,1292,Marcus Berg,Small Business,2012-03-17,,True,B2B
+1193,1293,Martin Underwood,Small Business,2011-03-15,,True,B2B
+1194,1295,Zachary Potter,Small Business,2012-01-09,,True,B2B
+1195,1296,Harvey Wong Bates,Small Business,2012-11-03,,True,B2B
+1196,1298,Herbert Beard,Home Office,2010-02-12,,True,B2C
+1197,1299,Vincent Swanson,Home Office,2011-03-20,,True,B2C
+1198,1300,Paula Ellis McGee,Home Office,2012-04-08,,True,B2C
+1199,1301,Hilda Porter,Home Office,2011-05-15,,True,B2C
+1200,1303,Cindy Harvey,Consumer,2010-02-19,2011-10-29,False,
+1201,1303,Cindy Harvey,Corporate,2011-10-30,,True,B2B
+1202,1304,Sherri McIntosh,Consumer,2010-04-23,2011-02-13,False,
+1203,1304,Sherri McIntosh,Corporate,2011-02-14,,True,B2B
+1204,1305,Chris Pritchard,Consumer,2010-02-17,,True,B2C
+1205,1307,Teresa Hill,Small Business,2010-06-30,,True,B2B
+1206,1309,Emma Bullock,Corporate,2011-04-29,,True,B2B
+1207,1310,Ricky C Sumner,Corporate,2013-03-02,,True,B2B
+1208,1311,Veronica O'Connor,Corporate,2011-09-24,,True,B2B
+1209,1312,Arlene Weber,Corporate,2011-05-05,,True,B2B
+1210,1313,Katherine Knight,Corporate,2011-05-05,,True,B2B
+1211,1314,Keith Marsh,Home Office,2010-03-30,,True,B2C
+1212,1315,Adam Saunders Gray,Home Office,2010-03-30,,True,B2C
+1213,1316,Marion Lindsey,Home Office,2010-03-30,,True,B2C
+1214,1317,Sandra Shaw,Home Office,2011-03-21,,True,B2C
+1215,1318,Vickie Becker,Home Office,2011-10-04,,True,B2C
+1216,1319,Phillip Wilkerson,Home Office,2011-12-19,,True,B2C
+1217,1320,Brian Dougherty,Home Office,2011-10-04,,True,B2C
+1218,1322,Mark Joyner,Small Business,2011-09-17,,True,B2B
+1219,1323,Martin Bowman,Small Business,2011-07-16,,True,B2B
+1220,1324,Frances Ray,Small Business,2011-11-30,,True,B2B
+1221,1325,Laura A Whitaker,Small Business,2013-05-12,,True,B2B
+1222,1326,Henry Khan,Small Business,2011-07-16,,True,B2B
+1223,1327,Troy Patterson,Small Business,2011-07-16,,True,B2B
+1224,1328,Geraldine Martinez Bray,Small Business,2013-05-13,,True,B2B
+1225,1329,Heather Shannon,Small Business,2011-07-16,,True,B2B
+1226,1330,Edwin Riddle,Small Business,2013-01-15,,True,B2B
+1227,1331,Ted Bowden,Small Business,2013-09-06,,True,B2B
+1228,1332,Sally Steele,Small Business,2013-05-13,,True,B2B
+1229,1333,Dolores McClure,Small Business,2011-05-12,,True,B2B
+1230,1334,Lorraine O'Donnell,Small Business,2012-07-27,,True,B2B
+1231,1335,Ron Patrick,Small Business,2012-07-15,,True,B2B
+1232,1336,Dorothy Cates,Small Business,2013-05-13,,True,B2B
+1233,1337,Jackie Davenport,Small Business,2012-07-15,,True,B2B
+1234,1338,Denise McIntosh,Home Office,2010-08-10,,True,B2C
+1235,1339,James Perez,Home Office,2011-06-05,,True,B2C
+1236,1340,Marie Bass,Home Office,2010-08-10,,True,B2C
+1237,1341,Edward Bynum,Home Office,2010-08-10,,True,B2C
+1238,1343,Frank Holden,Consumer,2012-04-08,,True,B2C
+1239,1344,Kathleen McKinney McIntosh,Consumer,2011-08-04,,True,B2C
+1240,1346,Florence Walters,Home Office,2011-01-17,,True,B2C
+1241,1347,Vivian Goldstein,Home Office,2010-10-30,,True,B2C
+1242,1348,Calvin J Marcus,Home Office,2011-06-11,,True,B2C
+1243,1350,Jackie Burke,Home Office,2010-10-17,,True,B2C
+1244,1351,Janet McCullough,Home Office,2010-07-27,,True,B2C
+1245,1352,Vivian Clarke,Home Office,2010-10-30,,True,B2C
+1246,1354,Aaron Dillon,Consumer,2010-08-11,,True,B2C
+1247,1355,Joyce O'Neill,Consumer,2011-07-21,,True,B2C
+1248,1357,Marguerite Yu,Home Office,2010-06-03,,True,B2C
+1249,1358,Eleanor Barbour,Home Office,2011-02-22,,True,B2C
+1250,1360,Arlene Gibbons,Consumer,2010-01-26,,True,B2C
+1251,1361,Kristina Collier,Consumer,2010-01-26,,True,B2C
+1252,1363,Earl Roy,Consumer,2010-02-04,2012-09-12,False,
+1253,1363,Earl Roy,Home Office,2012-09-13,,True,B2C
+1254,1364,Chris Ford,Consumer,2012-11-19,,True,B2C
+1255,1364,Chris Ford,Home Office,2010-03-17,2012-11-18,False,
+1256,1365,Edward Hampton,Consumer,2011-07-03,,True,B2C
+1257,1367,James Hunter,Consumer,2010-01-07,2011-09-10,False,
+1258,1367,James Hunter,Small Business,2011-09-11,,True,B2B
+1259,1368,Patsy Harmon,Consumer,2010-03-23,2013-11-18,False,
+1260,1368,Patsy Harmon,Small Business,2013-11-19,,True,B2B
+1261,1369,Joe D Dean,Consumer,2010-03-23,,True,B2C
+1262,1371,Valerie Moss,Corporate,2012-04-22,,True,B2B
+1263,1372,Thomas Evans,Corporate,2011-03-21,,True,B2B
+1264,1374,Earl Buck,Home Office,2010-06-07,,True,B2C
+1265,1375,Louis Riddle,Home Office,2013-01-05,,True,B2C
+1266,1376,Bobby Harmon,Home Office,2011-05-06,,True,B2C
+1267,1377,Gilbert P Sun,Home Office,2013-09-22,,True,B2C
+1268,1378,Derek Shah,Home Office,2013-09-22,,True,B2C
+1269,1378,Derek Shah,Small Business,2011-05-31,2013-09-21,False,
+1270,1379,Gilbert Lang,Home Office,2013-01-05,,True,B2C
+1271,1380,Jeanne Walker,Home Office,2010-12-27,,True,B2C
+1272,1381,Wayne Lindsay,Home Office,2011-05-06,,True,B2C
+1273,1383,Christina Hanna,Consumer,2010-05-01,,True,B2C
+1274,1384,George McLamb,Consumer,2010-06-30,,True,B2C
+1275,1386,Miriam Drake,Home Office,2011-08-20,,True,B2C
+1276,1387,Matthew Kearney,Home Office,2013-05-17,,True,B2C
+1277,1389,Jean Khan,Consumer,2010-06-03,,True,B2C
+1278,1389,Jean Khan,Corporate,2010-01-25,2010-05-12,False,
+1279,1389,Jean Khan,Small Business,2010-05-13,2010-06-02,False,
+1280,1390,Hazel Jones,Corporate,2010-11-16,2012-09-14,False,
+1281,1390,Hazel Jones,Small Business,2012-09-15,,True,B2B
+1282,1391,Carolyn Greer,Consumer,2010-04-24,2010-11-02,False,
+1283,1391,Carolyn Greer,Corporate,2011-06-25,,True,B2B
+1284,1391,Carolyn Greer,Small Business,2010-11-03,2011-06-24,False,
+1285,1392,Leroy Boswell,Consumer,2013-01-12,,True,B2C
+1286,1392,Leroy Boswell,Corporate,2011-06-25,2013-01-11,False,
+1287,1393,Theodore Sanchez,Small Business,2013-06-11,,True,B2B
+1288,1394,Tommy Kidd,Consumer,2011-10-15,,True,B2C
+1289,1395,Peter Conway,Consumer,2011-10-15,,True,B2C
+1290,1396,Kate Foley,Corporate,2012-07-27,,True,B2B
+1291,1397,Ryan Chu,Consumer,2011-10-15,,True,B2C
+1292,1398,Harry McCall,Consumer,2011-07-24,,True,B2C
+1293,1399,Lloyd Rich,Corporate,2012-07-27,,True,B2B
+1294,1400,Joann Perry,Consumer,2011-10-15,,True,B2C
+1295,1401,Bill Hoyle,Corporate,2013-01-10,,True,B2B
+1296,1402,Wesley Tate,Corporate,2010-01-15,2010-07-20,False,
+1297,1402,Wesley Tate,Home Office,2010-07-21,,True,B2C
+1298,1403,Chad Campbell,Corporate,2013-03-18,,True,B2B
+1299,1404,Clara Bullock,Corporate,2012-11-18,2013-05-09,False,
+1300,1404,Clara Bullock,Home Office,2013-05-10,,True,B2C
+1301,1405,Crystal Floyd,Corporate,2010-01-15,2010-07-20,False,
+1302,1405,Crystal Floyd,Home Office,2010-07-21,,True,B2C
+1303,1406,Tara Warren,Corporate,2011-10-09,,True,B2B
+1304,1408,Ron Bullock,Consumer,2012-12-09,,True,B2C
+1305,1409,Frederick Lehman,Consumer,2012-11-16,,True,B2C
+1306,1410,Charles Ward,Corporate,2010-04-07,,True,B2B
+1307,1411,Larry Neal,Corporate,2011-01-14,,True,B2B
+1308,1412,Marc Ray,Corporate,2010-08-02,,True,B2B
+1309,1413,Pamela Wiley,Corporate,2010-04-07,,True,B2B
+1310,1414,Melvin Hsu,Corporate,2013-02-14,,True,B2B
+1311,1416,Betsy Gibson,Corporate,2011-03-29,,True,B2B
+1312,1416,Betsy Gibson,Small Business,2010-05-06,2011-03-28,False,
+1313,1417,Dorothy Huff,Corporate,2011-04-28,2011-08-05,False,
+1314,1417,Dorothy Huff,Small Business,2011-08-06,,True,B2B
+1315,1418,Rebecca Lindsey,Corporate,2012-03-26,,True,B2B
+1316,1418,Rebecca Lindsey,Small Business,2010-07-01,2012-03-25,False,
+1317,1419,Brooke Lancaster,Small Business,2010-12-25,,True,B2B
+1318,1421,Alison Starr,Home Office,2011-09-17,,True,B2C
+1319,1422,Christian Lucas,Home Office,2011-09-17,,True,B2C
+1320,1424,Robyn Zhou,Home Office,2010-01-12,,True,B2C
+1321,1425,Gregory Crane,Home Office,2013-02-10,,True,B2C
+1322,1425,Gregory Crane,Small Business,2010-07-01,2013-02-09,False,
+1323,1427,Stacy Gould,Home Office,2010-08-05,,True,B2C
+1324,1429,Denise Crabtree,Home Office,2012-06-16,,True,B2C
+1325,1430,Rebecca Rhodes,Home Office,2011-12-11,,True,B2C
+1326,1432,Kerry Green,Corporate,2010-03-05,,True,B2B
+1327,1433,Frances Jackson,Corporate,2010-03-05,,True,B2B
+1328,1434,Herman Decker,Corporate,2011-06-14,,True,B2B
+1329,1435,Jerry Creech,Corporate,2012-02-08,,True,B2B
+1330,1437,Nancy Hunt,Corporate,2013-05-04,,True,B2B
+1331,1438,Jean Weiss Diaz,Corporate,2010-01-22,,True,B2B
+1332,1439,Kyle Kaufman,Corporate,2010-04-28,,True,B2B
+1333,1441,Florence Herman,Corporate,2011-11-21,,True,B2B
+1334,1442,Rodney Field,Corporate,2010-06-25,,True,B2B
+1335,1443,Frances Epstein,Corporate,2012-02-04,,True,B2B
+1336,1445,Victor Hansen,Home Office,2013-09-05,,True,B2C
+1337,1445,Victor Hansen,Small Business,2011-04-03,2013-09-04,False,
+1338,1446,Eileen R Braun,Home Office,2013-06-02,,True,B2C
+1339,1446,Eileen R Braun,Small Business,2013-03-24,2013-06-01,False,
+1340,1447,Glenda Carlton,Home Office,2013-04-09,,True,B2C
+1341,1447,Glenda Carlton,Small Business,2011-07-30,2013-04-08,False,
+1342,1448,Aaron Fuller Davidson,Small Business,2011-07-30,,True,B2B
+1343,1450,Veronica Peck,Consumer,2010-05-24,2011-08-31,False,
+1344,1450,Veronica Peck,Corporate,2011-09-01,,True,B2B
+1345,1451,Karen Stout,Consumer,2011-03-15,,True,B2C
+1346,1452,Jessica Teague,Corporate,2011-05-17,,True,B2B
+1347,1453,Paul Hensley,Corporate,2013-01-05,,True,B2B
+1348,1454,Claude Silver,Corporate,2011-08-03,,True,B2B
+1349,1455,Jessica McLean,Corporate,2013-01-05,,True,B2B
+1350,1456,Randy Collier,Corporate,2013-01-05,,True,B2B
+1351,1457,Jerome Stevens,Corporate,2013-01-05,,True,B2B
+1352,1458,Charlene Grant,Consumer,2013-05-12,,True,B2C
+1353,1458,Charlene Grant,Corporate,2011-01-10,2013-05-11,False,
+1354,1459,Steve Raynor,Consumer,2010-04-05,2011-02-26,False,
+1355,1459,Steve Raynor,Corporate,2011-02-27,,True,B2B
+1356,1461,Norman Adams,Consumer,2010-12-02,2011-10-25,False,
+1357,1461,Norman Adams,Home Office,2011-10-26,,True,B2C
+1358,1462,Billie Hensley,Consumer,2013-03-15,,True,B2C
+1359,1462,Billie Hensley,Home Office,2012-04-29,2013-03-14,False,
+1360,1463,Ellen Kirkland,Consumer,2011-09-29,2012-12-06,False,
+1361,1463,Ellen Kirkland,Home Office,2012-12-07,,True,B2C
+1362,1464,Evelyn Galloway,Consumer,2011-02-12,,True,B2C
+1363,1466,Wesley Reid,Small Business,2010-06-11,,True,B2B
+1364,1467,Lillian Davis,Small Business,2013-12-18,,True,B2B
+1365,1468,Neil Hahn,Small Business,2012-07-02,,True,B2B
+1366,1469,Vicki Zhu Daniels,Small Business,2010-06-12,,True,B2B
+1367,1471,Danielle Daniel,Home Office,2010-03-21,,True,B2C
+1368,1472,Tommy Ellis Ritchie,Home Office,2010-06-30,,True,B2C
+1369,1473,Paul Puckett,Home Office,2010-01-21,,True,B2C
+1370,1475,Edna Willis,Corporate,2011-11-07,,True,B2B
+1371,1476,Bill Terrell,Corporate,2012-07-30,,True,B2B
+1372,1478,Jason Donovan,Consumer,2011-06-19,,True,B2C
+1373,1479,Roy Wade,Consumer,2011-11-14,,True,B2C
+1374,1480,Yvonne Ryan,Consumer,2012-05-04,,True,B2C
+1375,1481,Marvin MacDonald,Corporate,2010-03-27,,True,B2B
+1376,1482,Michael Tanner,Corporate,2010-03-27,,True,B2B
+1377,1484,Alison Stewart,Home Office,2010-03-11,,True,B2C
+1378,1485,Wayne Sutherland,Home Office,2010-08-20,,True,B2C
+1379,1486,Stacy Barbour,Home Office,2011-09-25,,True,B2C
+1380,1487,Joshua Lancaster,Home Office,2011-05-03,,True,B2C
+1381,1488,Anthony Goodwin,Home Office,2011-05-03,,True,B2C
+1382,1490,Leslie Duffy,Corporate,2011-11-13,,True,B2B
+1383,1491,Katherine Mills,Corporate,2013-03-07,,True,B2B
+1384,1492,Don Beard,Corporate,2010-12-16,,True,B2B
+1385,1494,Kate Lehman,Corporate,2010-09-11,2012-04-27,False,
+1386,1494,Kate Lehman,Home Office,2012-04-28,,True,B2C
+1387,1495,Theodore Petty,Home Office,2012-01-29,,True,B2C
+1388,1496,Milton Phillips,Home Office,2011-12-17,,True,B2C
+1389,1497,Gloria Jacobs,Corporate,2010-09-11,2011-12-19,False,
+1390,1497,Gloria Jacobs,Home Office,2011-12-20,,True,B2C
+1391,1499,Charlotte L Doyle,Home Office,2010-02-04,,True,B2C
+1392,1500,Miriam Francis,Home Office,2013-06-05,,True,B2C
+1393,1502,Renee Huang,Small Business,2010-11-07,,True,B2B
+1394,1503,Leo Riley,Small Business,2012-06-04,,True,B2B
+1395,1505,Kay Schultz,Small Business,2010-06-13,,True,B2B
+1396,1507,Bonnie Hampton,Small Business,2011-02-27,,True,B2B
+1397,1509,Brent Graves,Corporate,2013-09-10,,True,B2B
+1398,1510,Gayle Lawson,Corporate,2011-05-05,,True,B2B
+1399,1511,Joseph Dawson,Corporate,2010-12-22,,True,B2B
+1400,1512,Lawrence Koch,Corporate,2011-02-12,,True,B2B
+1401,1514,Gregory Bridges,Corporate,2013-02-23,,True,B2B
+1402,1515,Glenn MacDonald,Corporate,2013-02-23,,True,B2B
+1403,1517,Louise Powell Dillon,Consumer,2013-11-10,,True,B2C
+1404,1518,Sam Raynor,Consumer,2013-11-10,,True,B2C
+1405,1519,Randall Boykin,Consumer,2010-12-14,,True,B2C
+1406,1520,Lois Barnett,Consumer,2013-09-02,,True,B2C
+1407,1521,Harry McKee,Consumer,2013-11-10,,True,B2C
+1408,1522,Earl Watts,Consumer,2010-12-14,,True,B2C
+1409,1523,Rodney Reed,Consumer,2013-09-02,,True,B2C
+1410,1525,Diana Rosenthal,Home Office,2013-08-23,,True,B2C
+1411,1525,Diana Rosenthal,Small Business,2011-12-26,2013-08-22,False,
+1412,1526,Larry Hall,Home Office,2010-02-10,2011-12-25,False,
+1413,1526,Larry Hall,Small Business,2011-12-26,,True,B2B
+1414,1527,Neil Parker,Home Office,2010-09-30,,True,B2C
+1415,1527,Neil Parker,Small Business,2010-07-09,2010-09-29,False,
+1416,1528,Brad Stark,Home Office,2011-09-09,,True,B2C
+1417,1528,Brad Stark,Small Business,2010-07-09,2011-09-08,False,
+1418,1530,Seth Sweeney,Consumer,2012-07-07,,True,B2C
+1419,1531,Jon Ayers,Consumer,2010-07-17,,True,B2C
+1420,1533,Nicole Reid,Corporate,2010-08-06,,True,B2B
+1421,1534,Charlie H Jennings,Corporate,2013-05-28,,True,B2B
+1422,1536,Milton Padgett,Consumer,2011-11-06,,True,B2C
+1423,1537,Paul Cowan,Consumer,2013-01-19,,True,B2C
+1424,1538,Ryan Rosen,Consumer,2012-04-29,,True,B2C
+1425,1540,Charlene Reynolds,Corporate,2011-08-04,,True,B2B
+1426,1541,Glenda Taylor Strauss,Corporate,2013-05-09,,True,B2B
+1427,1542,Janet Snow,Corporate,2011-09-23,,True,B2B
+1428,1544,Joanna Beatty,Corporate,2011-10-11,,True,B2B
+1429,1545,Willie Boone,Corporate,2011-05-21,,True,B2B
+1430,1546,Tommy Mullins,Corporate,2011-10-11,,True,B2B
+1431,1547,Jean Bryan,Corporate,2011-04-11,,True,B2B
+1432,1548,John Bray,Corporate,2010-12-23,,True,B2B
+1433,1550,Mary Larson,Consumer,2012-04-03,2012-04-29,False,
+1434,1550,Mary Larson,Home Office,2012-04-30,2012-08-01,False,
+1435,1550,Mary Larson,Small Business,2012-08-02,,True,B2B
+1436,1551,Laurence Flowers,Consumer,2010-12-25,,True,B2C
+1437,1552,Gary Koch,Consumer,2012-06-17,2013-04-17,False,
+1438,1552,Gary Koch,Home Office,2013-04-18,,True,B2C
+1439,1552,Gary Koch,Small Business,2010-07-01,2012-06-16,False,
+1440,1553,Tara Powers Underwood,Home Office,2011-08-07,,True,B2C
+1441,1553,Tara Powers Underwood,Small Business,2010-03-22,2011-08-06,False,
+1442,1554,Joan Floyd,Consumer,2010-08-13,2012-01-07,False,
+1443,1554,Joan Floyd,Home Office,2012-01-08,,True,B2C
+1444,1554,Joan Floyd,Small Business,2010-05-18,2010-08-12,False,
+1445,1556,Carol Wood,Consumer,2010-06-01,,True,B2C
+1446,1557,James Nicholson,Consumer,2010-09-25,,True,B2C
+1447,1558,Kathy Norman,Consumer,2011-05-12,,True,B2C
+1448,1559,Zachary Maynard,Consumer,2010-04-15,,True,B2C
+1449,1561,Edwin Coley,Corporate,2010-03-01,,True,B2B
+1450,1562,Kristin Snyder,Corporate,2012-03-04,,True,B2B
+1451,1563,Natalie McIntyre,Corporate,2013-02-27,,True,B2B
+1452,1565,Carl Solomon,Small Business,2012-09-19,,True,B2B
+1453,1566,Vanessa Casey Jones,Small Business,2013-10-19,,True,B2B
+1454,1568,Jeanette Boswell,Corporate,2011-06-24,,True,B2B
+1455,1569,Marie Daniel,Corporate,2011-07-03,,True,B2B
+1456,1571,Pat Bowden,Corporate,2012-08-17,,True,B2B
+1457,1572,Patricia Carver Fink,Corporate,2012-08-17,,True,B2B
+1458,1574,Sherry Hurley,Consumer,2010-08-09,,True,B2C
+1459,1575,Kyle Bloom,Consumer,2011-12-17,,True,B2C
+1460,1577,Betty Buckley,Corporate,2013-02-11,,True,B2B
+1461,1578,Samuel Dougherty,Corporate,2013-04-29,,True,B2B
+1462,1579,Carlos Bynum,Corporate,2013-01-27,,True,B2B
+1463,1580,Ronnie Nolan,Corporate,2010-08-16,,True,B2B
+1464,1581,Allison Gunter,Corporate,2011-09-12,,True,B2B
+1465,1582,Lillian Henson,Corporate,2013-02-10,,True,B2B
+1466,1583,Evan Shore,Corporate,2011-09-12,,True,B2B
+1467,1584,Milton Davenport,Corporate,2012-05-04,,True,B2B
+1468,1585,Claire Barton,Corporate,2011-10-27,,True,B2B
+1469,1587,Tim Skinner,Corporate,2012-12-04,,True,B2B
+1470,1588,Terri Justice Gardner,Corporate,2012-05-07,,True,B2B
+1471,1590,Lucille Buchanan,Corporate,2010-10-04,2011-09-30,False,
+1472,1590,Lucille Buchanan,Home Office,2011-10-01,,True,B2C
+1473,1591,Raymond Hernandez,Corporate,2012-01-03,,True,B2B
+1474,1592,Melvin Hull,Corporate,2011-03-21,2012-09-05,False,
+1475,1592,Melvin Hull,Home Office,2012-09-06,,True,B2C
+1476,1593,Ronald O'Neill,Corporate,2010-10-04,2013-08-16,False,
+1477,1593,Ronald O'Neill,Home Office,2013-08-17,,True,B2C
+1478,1595,Chad Henson,Corporate,2010-11-11,,True,B2B
+1479,1596,Chris Rowland,Corporate,2012-05-06,,True,B2B
+1480,1597,Warren Ball,Corporate,2012-04-17,,True,B2B
+1481,1599,Hugh Mills,Small Business,2011-12-12,,True,B2B
+1482,1600,Leo Wright,Small Business,2012-05-14,,True,B2B
+1483,1602,Frank Hess,Home Office,2010-10-10,2012-08-03,False,
+1484,1602,Frank Hess,Small Business,2012-08-04,,True,B2B
+1485,1603,Alex Watkins,Small Business,2010-01-16,,True,B2B
+1486,1604,Kimberly Matthews,Small Business,2013-08-10,,True,B2B
+1487,1606,Don Rogers,Home Office,2010-01-07,,True,B2C
+1488,1607,Kathleen Huang Hall,Home Office,2010-04-15,,True,B2C
+1489,1609,Jerry Ennis,Consumer,2010-05-11,,True,B2C
+1490,1610,Daniel S Glover,Consumer,2013-10-16,,True,B2C
+1491,1611,Dolores Herring,Consumer,2012-09-15,,True,B2C
+1492,1612,Jeanne Donnelly,Consumer,2012-09-15,,True,B2C
+1493,1613,Gregory Craig,Consumer,2012-09-15,,True,B2C
+1494,1614,Wayne Lutz,Consumer,2010-04-08,,True,B2C
+1495,1616,Shawn Beasley,Small Business,2012-05-11,,True,B2B
+1496,1618,June Roberts,Consumer,2010-04-06,,True,B2C
+1497,1619,Ross O'Donnell,Consumer,2011-12-04,,True,B2C
+1498,1620,Gerald Petty,Consumer,2010-04-06,,True,B2C
+1499,1622,Sue Boykin,Small Business,2011-12-14,,True,B2B
+1500,1623,Patrick Adcock,Small Business,2010-11-24,,True,B2B
+1501,1625,Molly Browning,Corporate,2012-10-05,,True,B2B
+1502,1625,Molly Browning,Home Office,2010-03-27,2012-10-04,False,
+1503,1626,Joy Spivey,Corporate,2013-01-31,,True,B2B
+1504,1627,Aaron Day,Corporate,2010-11-28,,True,B2B
+1505,1628,Christy Watkins,Home Office,2011-03-08,,True,B2C
+1506,1629,Francis Bender,Home Office,2013-02-27,,True,B2C
+1507,1630,Jimmy Han,Home Office,2011-03-08,,True,B2C
+1508,1632,Lori Wolfe,Home Office,2010-01-15,,True,B2C
+1509,1633,Gerald Raynor,Home Office,2010-08-10,,True,B2C
+1510,1634,Katherine W Epstein,Home Office,2010-10-09,,True,B2C
+1511,1636,Sidney Greenberg,Home Office,2010-01-14,,True,B2C
+1512,1637,Rodney Christian Callahan,Home Office,2011-04-20,,True,B2C
+1513,1638,Amanda Shore,Home Office,2011-12-20,,True,B2C
+1514,1639,Marvin Rollins,Home Office,2010-02-26,,True,B2C
+1515,1640,Terri Morton,Home Office,2013-09-01,,True,B2C
+1516,1641,Betsy Ross Robbins,Home Office,2013-04-03,,True,B2C
+1517,1642,Sandy Byers,Home Office,2013-09-01,,True,B2C
+1518,1644,Sam Woodward,Small Business,2010-12-14,,True,B2B
+1519,1646,Eugene Brewer Knox,Small Business,2010-09-15,,True,B2B
+1520,1648,Nina Bowles,Corporate,2010-09-25,,True,B2B
+1521,1649,Roy Hardison,Corporate,2010-02-24,,True,B2B
+1522,1650,Dan Lamm,Corporate,2010-05-09,,True,B2B
+1523,1651,Toni Larson,Corporate,2011-04-15,,True,B2B
+1524,1653,Charles Cline,Corporate,2010-07-24,,True,B2B
+1525,1654,Bob Jiang,Corporate,2012-10-20,,True,B2B
+1526,1657,Janet Carroll,Small Business,2011-06-13,,True,B2B
+1527,1658,Jim Mathews,Small Business,2012-06-28,,True,B2B
+1528,1660,Keith Liu Duncan,Small Business,2011-02-24,,True,B2B
+1529,1662,James Brennan,Home Office,2011-07-17,,True,B2C
+1530,1663,Ruby Tate,Home Office,2013-01-04,,True,B2C
+1531,1665,Elsie Pridgen,Consumer,2010-02-26,,True,B2C
+1532,1667,Brad Pearce,Consumer,2012-01-21,,True,B2C
+1533,1668,Marian Anthony,Consumer,2013-04-13,,True,B2C
+1534,1670,Carolyn Bowling,Small Business,2010-04-24,,True,B2B
+1535,1671,Mitchell Ross,Small Business,2010-08-09,,True,B2B
+1536,1672,Sidney Scarborough,Small Business,2010-06-07,,True,B2B
+1537,1673,Robert Li,Small Business,2011-06-17,,True,B2B
+1538,1675,Elizabeth Herman,Small Business,2012-04-13,,True,B2B
+1539,1676,Terry Langston,Small Business,2012-04-08,,True,B2B
+1540,1677,Benjamin Bates,Small Business,2012-07-25,,True,B2B
+1541,1679,Jeanne Nguyen,Consumer,2010-09-20,,True,B2C
+1542,1680,Esther Whitaker,Consumer,2010-05-03,,True,B2C
+1543,1681,Shawn Dunn,Consumer,2012-07-07,,True,B2C
+1544,1682,Julie Edwards,Consumer,2010-08-14,,True,B2C
+1545,1683,Wesley Corbett,Consumer,2010-08-14,,True,B2C
+1546,1684,Glenda Holder,Consumer,2011-05-11,,True,B2C
+1547,1686,Lynn O'Donnell,Corporate,2010-03-03,,True,B2B
+1548,1687,Ernest Dawson,Corporate,2011-03-31,,True,B2B
+1549,1689,Larry Church,Corporate,2010-09-24,,True,B2B
+1550,1690,Neil Bailey,Corporate,2010-07-24,,True,B2B
+1551,1692,Rhonda Schroeder,Consumer,2010-01-23,,True,B2C
+1552,1693,Melinda Thornton,Consumer,2010-01-23,,True,B2C
+1553,1695,Debra Cochran,Home Office,2012-06-11,,True,B2C
+1554,1696,Bonnie G Keith,Home Office,2011-07-17,,True,B2C
+1555,1697,Holly Osborne,Home Office,2010-01-16,,True,B2C
+1556,1699,Joseph Hurst,Small Business,2010-03-25,,True,B2B
+1557,1701,Renee Ellington,Home Office,2011-12-26,,True,B2C
+1558,1702,Sandra Berry,Home Office,2010-01-17,,True,B2C
+1559,1704,Marlene Elmore,Corporate,2011-05-20,,True,B2B
+1560,1705,Nicole Cannon,Corporate,2011-04-22,,True,B2B
+1561,1707,Rebecca Frazier Foley,Consumer,2012-10-29,,True,B2C
+1562,1707,Rebecca Frazier Foley,Small Business,2011-03-03,2012-10-28,False,
+1563,1708,Lillian Day,Consumer,2011-07-21,,True,B2C
+1564,1708,Lillian Day,Small Business,2010-07-17,2011-07-20,False,
+1565,1709,Dennis Bowen,Consumer,2010-07-21,2010-11-09,False,
+1566,1709,Dennis Bowen,Small Business,2010-11-10,,True,B2B
+1567,1711,Sharon Long,Corporate,2010-03-16,,True,B2B
+1568,1712,Regina Langley,Corporate,2010-10-11,,True,B2B
+1569,1713,Rosemary Stark,Corporate,2010-05-29,,True,B2B
+1570,1715,Marcus May,Corporate,2011-01-27,,True,B2B
+1571,1716,April Whitehead,Corporate,2013-02-07,,True,B2B
+1572,1718,Kathy Shah,Consumer,2010-03-08,,True,B2C
+1573,1719,Russell W Melton,Corporate,2010-01-17,,True,B2B
+1574,1720,William Pace,Corporate,2011-04-30,,True,B2B
+1575,1721,Jennifer Zimmerman,Corporate,2010-11-16,,True,B2B
+1576,1722,Ashley C Bridges,Corporate,2011-08-26,,True,B2B
+1577,1723,Constance Flowers,Corporate,2010-01-31,,True,B2B
+1578,1725,Linda Blake,Corporate,2010-05-07,2012-02-10,False,
+1579,1725,Linda Blake,Small Business,2012-02-11,,True,B2B
+1580,1726,Robyn Buchanan,Corporate,2011-03-07,2011-06-28,False,
+1581,1726,Robyn Buchanan,Small Business,2011-06-29,,True,B2B
+1582,1727,Juanita Ballard,Corporate,2013-04-12,,True,B2B
+1583,1727,Juanita Ballard,Small Business,2010-07-21,2013-04-11,False,
+1584,1728,Carrie Lewis,Corporate,2010-08-22,,True,B2B
+1585,1730,Kerry Wilkerson,Small Business,2010-10-07,,True,B2B
+1586,1731,Craig Bryan,Small Business,2012-09-04,,True,B2B
+1587,1732,Kate Glover,Small Business,2011-11-08,,True,B2B
+1588,1733,Nina Horne Kelly,Small Business,2010-10-04,,True,B2B
+1589,1734,Christopher Meadows,Small Business,2010-10-04,,True,B2B
+1590,1735,Eric West,Small Business,2010-12-28,,True,B2B
+1591,1737,Danielle Myers,Corporate,2010-06-03,,True,B2B
+1592,1738,Dean Solomon,Corporate,2010-03-28,,True,B2B
+1593,1739,Edna Pierce,Corporate,2010-11-03,,True,B2B
+1594,1740,Edna Goodwin,Corporate,2011-01-31,,True,B2B
+1595,1741,Carl Hobbs,Corporate,2012-12-16,,True,B2B
+1596,1743,Paige Jacobs,Consumer,2010-08-12,,True,B2C
+1597,1744,Leon Doyle,Consumer,2012-02-06,,True,B2C
+1598,1745,Herbert Holden,Consumer,2010-12-12,,True,B2C
+1599,1745,Herbert Holden,Home Office,2010-01-09,2010-12-11,False,
+1600,1746,Beth McKenzie,Home Office,2013-07-11,,True,B2C
+1601,1747,Lewis House Stokes,Home Office,2012-12-31,,True,B2C
+1602,1748,Helen Simpson,Consumer,2010-12-12,2012-07-02,False,
+1603,1748,Helen Simpson,Home Office,2012-07-03,,True,B2C
+1604,1749,Sherri P Stephens,Consumer,2013-08-16,,True,B2C
+1605,1749,Sherri P Stephens,Home Office,2010-01-09,2013-08-15,False,
+1606,1750,Constance Britt,Consumer,2011-02-02,,True,B2C
+1607,1750,Constance Britt,Home Office,2011-01-02,2011-02-01,False,
+1608,1751,Emma Harvey,Home Office,2011-02-09,,True,B2C
+1609,1752,Stacey Deal,Home Office,2011-02-09,,True,B2C
+1610,1754,Nelson Hong,Consumer,2010-08-27,,True,B2C
+1611,1755,Brett Boykin,Consumer,2012-06-07,,True,B2C
+1612,1756,Cecil Alford,Consumer,2013-12-03,,True,B2C
+1613,1757,Lee Finch,Consumer,2012-05-08,,True,B2C
+1614,1758,Elaine McMahon Talley,Consumer,2013-12-03,,True,B2C
+1615,1759,Erika Hardison,Consumer,2012-05-08,,True,B2C
+1616,1760,Christy Dunn,Consumer,2012-02-14,,True,B2C
+1617,1762,Alan Atkins,Consumer,2012-03-22,,True,B2C
+1618,1763,Lucy Levine,Consumer,2012-03-22,2012-05-19,False,
+1619,1763,Lucy Levine,Corporate,2012-05-20,,True,B2B
+1620,1764,Michele Bradshaw,Consumer,2010-07-22,,True,B2C
+1621,1765,Ralph Woods Scott,Consumer,2010-11-04,2011-08-21,False,
+1622,1765,Ralph Woods Scott,Corporate,2011-08-22,,True,B2B
+1623,1767,Robert Rollins,Home Office,2010-09-26,,True,B2C
+1624,1769,Judith French,Home Office,2012-11-12,,True,B2C
+1625,1770,Samantha Allen,Home Office,2011-08-26,,True,B2C
+1626,1771,Jeff Spivey,Home Office,2010-03-06,,True,B2C
+1627,1772,Glenn Jain,Corporate,2011-07-16,,True,B2B
+1628,1773,Nicole Harris,Corporate,2011-07-16,,True,B2B
+1629,1775,Marlene Kirk,Consumer,2010-12-14,2012-07-29,False,
+1630,1775,Marlene Kirk,Corporate,2012-07-30,,True,B2B
+1631,1776,Charlotte Patterson,Consumer,2010-08-04,,True,B2C
+1632,1777,Miriam Greenberg,Consumer,2010-04-22,2010-10-01,False,
+1633,1777,Miriam Greenberg,Corporate,2010-10-02,,True,B2B
+1634,1778,Ray Oakley,Consumer,2010-11-10,2012-09-12,False,
+1635,1778,Ray Oakley,Corporate,2012-09-13,,True,B2B
+1636,1779,Samantha Hall,Consumer,2011-05-28,,True,B2C
+1637,1781,Jackie Capps,Corporate,2010-06-12,2010-07-06,False,
+1638,1781,Jackie Capps,Home Office,2010-07-07,,True,B2C
+1639,1782,Lawrence Dennis,Home Office,2010-01-06,,True,B2C
+1640,1783,Erin Y Stewart,Corporate,2012-04-25,,True,B2B
+1641,1783,Erin Y Stewart,Home Office,2011-10-14,2012-04-24,False,
+1642,1784,Pam Riley,Corporate,2013-12-12,,True,B2B
+1643,1785,Gayle Peterson,Corporate,2013-12-12,,True,B2B
+1644,1786,Erik Schwarz,Corporate,2013-12-12,,True,B2B
+1645,1788,Valerie Siegel,Consumer,2010-07-21,,True,B2C
+1646,1789,Allan Green,Consumer,2011-08-17,,True,B2C
+1647,1790,Norman Benton,Consumer,2012-08-23,,True,B2C
+1648,1792,Curtis C Andrews,Corporate,2012-03-17,,True,B2B
+1649,1793,Derek Jernigan,Consumer,2013-06-11,,True,B2C
+1650,1793,Derek Jernigan,Home Office,2010-01-06,2012-11-18,False,
+1651,1793,Derek Jernigan,Small Business,2012-11-19,2013-06-10,False,
+1652,1794,Linda Gates,Consumer,2012-10-27,,True,B2C
+1653,1796,Carlos Johnson,Corporate,2011-04-10,2013-08-01,False,
+1654,1796,Carlos Johnson,Small Business,2013-08-02,,True,B2B
+1655,1798,Annette Cline,Corporate,2012-10-22,,True,B2B
+1656,1799,Jordan Marsh,Corporate,2011-08-26,,True,B2B
+1657,1800,Bradley Brantley,Corporate,2011-03-19,,True,B2B
+1658,1802,Jack Morse,Corporate,2010-06-01,,True,B2B
+1659,1803,Katie Oh,Corporate,2013-01-07,,True,B2B
+1660,1804,Bobby Rankin,Corporate,2013-01-18,,True,B2B
+1661,1805,Luis Henry,Corporate,2013-08-15,,True,B2B
+1662,1807,Sarah McCormick,Home Office,2011-01-04,,True,B2C
+1663,1808,Joyce Knox,Home Office,2010-03-17,,True,B2C
+1664,1809,Marguerite Reed,Corporate,2011-06-06,,True,B2B
+1665,1810,Denise Albright,Corporate,2011-06-06,,True,B2B
+1666,1811,Timothy S Connolly,Corporate,2012-09-15,,True,B2B
+1667,1813,Dwight Banks,Home Office,2011-02-10,,True,B2C
+1668,1814,Albert Tyson,Home Office,2010-05-23,,True,B2C
+1669,1815,Marvin Yang,Home Office,2010-08-11,,True,B2C
+1670,1816,Danielle Schneider,Consumer,2010-08-05,,True,B2C
+1671,1817,Michele Bennett,Consumer,2012-09-24,,True,B2C
+1672,1818,Ian Hall,Consumer,2010-10-15,,True,B2C
+1673,1819,LeRoy Khan,Consumer,2011-02-17,,True,B2C
+1674,1820,Mary Wood,Consumer,2011-08-07,,True,B2C
+1675,1821,Vanessa Boyer,Consumer,2010-08-05,,True,B2C
+1676,1822,Caroline Morton,Corporate,2011-01-10,,True,B2B
+1677,1823,Molly Bolton,Corporate,2012-02-03,,True,B2B
+1678,1824,Bobby Dorsey,Corporate,2011-01-10,,True,B2B
+1679,1826,Kate Peck,Corporate,2010-04-18,,True,B2B
+1680,1827,Vincent Hale,Corporate,2010-02-19,,True,B2B
+1681,1828,Stacey Lucas,Corporate,2010-02-19,,True,B2B
+1682,1829,Suzanne Cochran,Corporate,2010-03-25,,True,B2B
+1683,1831,Audrey Hendricks,Corporate,2011-11-26,,True,B2B
+1684,1833,Maxine Middleton,Corporate,2012-01-21,,True,B2B
+1685,1834,Katharine Lewis,Corporate,2013-03-09,,True,B2B
+1686,1836,Dwight Albright Huffman,Corporate,2010-10-19,2011-03-24,False,
+1687,1836,Dwight Albright Huffman,Home Office,2011-03-25,,True,B2C
+1688,1837,Herbert Williamson,Corporate,2010-10-19,2012-07-09,False,
+1689,1837,Herbert Williamson,Home Office,2012-07-10,,True,B2C
+1690,1838,Fred Yu,Corporate,2013-04-04,,True,B2B
+1691,1839,Alfred Barr,Corporate,2013-04-04,,True,B2B
+1692,1840,Clifford Webb,Home Office,2010-09-30,,True,B2C
+1693,1842,Kristin Hodge,Consumer,2011-01-29,,True,B2C
+1694,1843,Melinda Leonard,Consumer,2012-08-14,,True,B2C
+1695,1845,Jordan Banks,Home Office,2013-05-19,,True,B2C
+1696,1846,Scott Taylor,Home Office,2013-05-19,,True,B2C
+1697,1847,Glen Horowitz,Corporate,2011-07-28,2012-05-23,False,
+1698,1847,Glen Horowitz,Home Office,2012-05-24,,True,B2C
+1699,1849,Michelle Steele,Consumer,2010-04-01,,True,B2C
+1700,1850,Jimmy Boswell,Consumer,2011-04-19,,True,B2C
+1701,1852,Joy Kaplan McNeill,Corporate,2011-04-10,,True,B2B
+1702,1852,Joy Kaplan McNeill,Home Office,2010-09-19,2011-04-09,False,
+1703,1853,Katie Mayo,Home Office,2013-07-13,,True,B2C
+1704,1854,Erika Morgan,Corporate,2012-11-16,,True,B2B
+1705,1854,Erika Morgan,Home Office,2010-09-19,2012-11-15,False,
+1706,1855,Jerome Block,Corporate,2011-11-06,,True,B2B
+1707,1856,Dan McBride,Corporate,2013-06-02,,True,B2B
+1708,1857,Roberta Meyer,Corporate,2012-11-16,,True,B2B
+1709,1858,Randall Bridges,Corporate,2013-06-02,,True,B2B
+1710,1859,Eugene T Duffy,Corporate,2012-11-16,,True,B2B
+1711,1860,Gina B Hess,Home Office,2010-06-15,,True,B2C
+1712,1861,Melissa McCullough,Home Office,2012-01-29,,True,B2C
+1713,1862,Lauren Bolton,Corporate,2012-01-02,,True,B2B
+1714,1863,Marian B Lyons,Home Office,2012-11-06,,True,B2C
+1715,1864,Jeff Bennett,Home Office,2012-06-23,,True,B2C
+1716,1865,Diane Barnes,Corporate,2011-05-06,,True,B2B
+1717,1866,Edward Byers,Home Office,2012-06-23,,True,B2C
+1718,1867,Roger Barnett Goodman,Corporate,2013-08-21,,True,B2B
+1719,1869,Roberta Daniel,Consumer,2010-05-03,,True,B2C
+1720,1870,Marvin Butler,Consumer,2013-02-23,,True,B2C
+1721,1872,Jill Barefoot,Corporate,2013-05-12,,True,B2B
+1722,1873,Lisa Kim,Corporate,2010-01-17,,True,B2B
+1723,1875,Martin Kirk,Consumer,2010-01-29,,True,B2C
+1724,1876,Tim Blackburn,Consumer,2013-08-14,,True,B2C
+1725,1877,Phillip Cochran Ashley,Consumer,2013-06-18,,True,B2C
+1726,1879,Kyle Pritchard,Home Office,2012-11-30,,True,B2C
+1727,1880,Henry Eaton,Home Office,2013-06-02,,True,B2C
+1728,1881,Gary Kaufman,Home Office,2013-06-02,,True,B2C
+1729,1882,Anita Kent,Home Office,2010-09-01,,True,B2C
+1730,1883,Kyle Sullivan,Home Office,2012-11-30,,True,B2C
+1731,1884,Heidi Cobb,Home Office,2013-06-02,,True,B2C
+1732,1885,Jacob Hirsch,Home Office,2010-09-01,,True,B2C
+1733,1886,Megan Bender,Home Office,2013-05-02,,True,B2C
+1734,1888,Charlie Blalock,Corporate,2013-06-29,,True,B2B
+1735,1888,Charlie Blalock,Home Office,2012-10-01,2013-06-28,False,
+1736,1889,Oscar Bowers,Corporate,2011-11-09,,True,B2B
+1737,1889,Oscar Bowers,Home Office,2010-10-17,2011-11-08,False,
+1738,1890,Marcia Bullock,Corporate,2011-03-01,2013-06-05,False,
+1739,1890,Marcia Bullock,Home Office,2013-06-06,,True,B2C
+1740,1891,Gretchen Levine,Corporate,2011-12-03,,True,B2B
+1741,1891,Gretchen Levine,Home Office,2010-10-05,2011-12-02,False,
+1742,1893,Melanie Burgess,Consumer,2010-04-26,,True,B2C
+1743,1894,Maureen Herbert Hood,Consumer,2010-09-18,,True,B2C
+1744,1894,Maureen Herbert Hood,Home Office,2010-02-24,2010-09-17,False,
+1745,1896,Allen Garrett,Corporate,2012-03-02,,True,B2B
+1746,1898,Anthony Vogel,Consumer,2013-02-15,,True,B2C
+1747,1899,Willie Gray,Consumer,2011-12-01,,True,B2C
+1748,1900,Deborah Bradshaw,Consumer,2011-12-01,,True,B2C
+1749,1901,Jose Levin,Consumer,2013-02-15,,True,B2C
+1750,1902,Sara Sykes Davies,Consumer,2011-04-06,,True,B2C
+1751,1903,Rick Bland,Consumer,2011-12-01,,True,B2C
+1752,1904,Dan McGee,Consumer,2011-01-29,,True,B2C
+1753,1906,Penny Tuttle,Corporate,2010-11-17,,True,B2B
+1754,1907,Amy Hall,Corporate,2010-11-17,2011-04-28,False,
+1755,1907,Amy Hall,Small Business,2011-04-29,,True,B2B
+1756,1908,Sharon Sellers,Corporate,2011-07-21,2012-12-17,False,
+1757,1908,Sharon Sellers,Small Business,2012-12-18,,True,B2B
+1758,1910,Sean Stephenson,Home Office,2010-07-01,,True,B2C
+1759,1912,Kerry Clapp,Corporate,2011-10-30,,True,B2B
+1760,1913,Susan Barr,Corporate,2011-07-26,,True,B2B
+1761,1914,Ellen Avery,Corporate,2013-06-08,,True,B2B
+1762,1916,Marcia Feldman,Home Office,2010-02-27,,True,B2C
+1763,1917,Tracy Buckley,Home Office,2010-03-27,,True,B2C
+1764,1918,Hannah Tyson,Home Office,2010-10-04,,True,B2C
+1765,1919,Nathan Jenkins,Home Office,2010-08-24,,True,B2C
+1766,1921,Eugene Hess,Small Business,2011-06-21,,True,B2B
+1767,1922,Kathy Hale,Small Business,2011-06-27,,True,B2B
+1768,1923,Theodore Cannon Godwin,Small Business,2011-06-21,,True,B2B
+1769,1924,Sheryl Kirk,Small Business,2011-06-27,,True,B2B
+1770,1925,Lisa Humphrey Yu,Corporate,2013-01-10,,True,B2B
+1771,1925,Lisa Humphrey Yu,Small Business,2011-07-03,2013-01-09,False,
+1772,1927,Earl Alston,Home Office,2010-02-06,,True,B2C
+1773,1928,Gregory R Snow,Home Office,2010-07-21,,True,B2C
+1774,1930,LeRoy Welch,Consumer,2011-09-13,,True,B2C
+1775,1931,Elisabeth Rao,Consumer,2012-07-27,,True,B2C
+1776,1933,William Crawford,Corporate,2010-04-19,2012-09-11,False,
+1777,1933,William Crawford,Home Office,2012-09-12,,True,B2C
+1778,1934,Scott Moore,Home Office,2010-11-30,,True,B2C
+1779,1935,Diana Coble Hubbard,Corporate,2010-04-08,2010-11-29,False,
+1780,1935,Diana Coble Hubbard,Home Office,2010-11-30,,True,B2C
+1781,1936,Carlos Berman,Corporate,2013-03-20,,True,B2B
+1782,1938,Franklin Spencer,Corporate,2010-03-22,,True,B2B
+1783,1939,Ruby Hawkins,Corporate,2012-02-21,,True,B2B
+1784,1940,Eileen McDonald,Corporate,2010-03-22,,True,B2B
+1785,1942,Bruce Murray,Consumer,2012-02-23,,True,B2C
+1786,1943,Larry Hahn,Consumer,2011-01-26,,True,B2C
+1787,1945,Oscar Swain,Consumer,2013-07-12,,True,B2C
+1788,1946,Teresa Wallace,Consumer,2010-01-26,2011-11-30,False,
+1789,1946,Teresa Wallace,Home Office,2011-12-01,,True,B2C
+1790,1948,Angela Alston,Corporate,2011-04-20,,True,B2B
+1791,1949,Dana Waller,Corporate,2013-07-03,,True,B2B
+1792,1949,Dana Waller,Small Business,2010-08-01,2013-07-02,False,
+1793,1950,Leslie Shannon,Corporate,2013-07-03,,True,B2B
+1794,1950,Leslie Shannon,Small Business,2010-07-06,2013-07-02,False,
+1795,1952,Elsie Dodson,Corporate,2012-05-28,,True,B2B
+1796,1953,Penny Rose,Corporate,2012-02-16,,True,B2B
+1797,1955,Billy Bowden,Consumer,2011-11-08,,True,B2C
+1798,1956,Justin Frank,Consumer,2010-12-19,,True,B2C
+1799,1957,Ted Crowder,Consumer,2010-10-07,,True,B2C
+1800,1958,Vickie Martinez,Consumer,2010-12-18,,True,B2C
+1801,1959,Bonnie Matthews Rowland,Consumer,2012-10-09,,True,B2C
+1802,1959,Bonnie Matthews Rowland,Corporate,2010-01-22,2010-10-17,False,
+1803,1959,Bonnie Matthews Rowland,Home Office,2010-10-18,2012-10-08,False,
+1804,1960,June Nichols,Home Office,2011-12-25,,True,B2C
+1805,1961,Jacqueline McMahon,Corporate,2013-05-04,,True,B2B
+1806,1961,Jacqueline McMahon,Home Office,2011-12-25,2013-05-03,False,
+1807,1962,Sean Burton,Corporate,2013-01-22,,True,B2B
+1808,1962,Sean Burton,Home Office,2010-10-18,2013-01-21,False,
+1809,1963,Ruby Tan,Consumer,2012-10-09,,True,B2C
+1810,1963,Ruby Tan,Corporate,2011-07-21,2012-04-04,False,
+1811,1963,Ruby Tan,Home Office,2012-04-05,2012-10-08,False,
+1812,1964,Don Herndon,Consumer,2013-10-16,,True,B2C
+1813,1966,Rose McCarthy,Home Office,2011-09-30,,True,B2C
+1814,1967,Carolyn Hoffman,Home Office,2012-04-03,,True,B2C
+1815,1967,Carolyn Hoffman,Small Business,2010-03-18,2012-04-02,False,
+1816,1968,Paula Koch,Home Office,2012-11-02,,True,B2C
+1817,1968,Paula Koch,Small Business,2012-11-01,2012-11-01,False,
+1818,1970,Milton G Hoyle,Corporate,2011-11-24,,True,B2B
+1819,1971,Marsha Roy,Corporate,2010-01-18,,True,B2B
+1820,1972,Priscilla Brandon,Corporate,2010-01-18,2012-11-04,False,
+1821,1972,Priscilla Brandon,Small Business,2012-11-05,,True,B2B
+1822,1974,Robert Brantley,Consumer,2010-05-20,,True,B2C
+1823,1975,Jennifer Grant,Consumer,2013-07-09,,True,B2C
+1824,1976,Sherri F Vogel,Consumer,2010-01-10,,True,B2C
+1825,1978,Jessie McDonald,Corporate,2012-12-13,,True,B2B
+1826,1979,Marianne Weiner Ennis,Corporate,2010-11-05,,True,B2B
+1827,1980,Ronnie Mathews,Corporate,2011-07-04,,True,B2B
+1828,1981,Sara Barton,Corporate,2011-07-04,,True,B2B
+1829,1983,Gene Wu Vaughan,Consumer,2013-04-28,,True,B2C
+1830,1984,Lynne Wilcox,Consumer,2010-11-16,,True,B2C
+1831,1986,Lynda Rosenthal,Home Office,2010-11-06,,True,B2C
+1832,1988,Anna Burgess,Home Office,2010-01-03,,True,B2C
+1833,1989,David Weaver,Corporate,2010-05-15,,True,B2B
+1834,1989,David Weaver,Home Office,2010-01-21,2010-05-14,False,
+1835,1990,Eddie Boyd,Corporate,2013-03-03,,True,B2B
+1836,1990,Eddie Boyd,Home Office,2012-05-27,2013-03-02,False,
+1837,1991,Paula Hubbard,Home Office,2010-08-22,,True,B2C
+1838,1993,Jan Ellis,Small Business,2011-04-15,,True,B2B
+1839,1994,Kathy Freedman,Corporate,2013-10-13,,True,B2B
+1840,1994,Kathy Freedman,Small Business,2011-07-15,2013-10-12,False,
+1841,1995,Howard Page,Small Business,2012-06-10,,True,B2B
+1842,1997,Harriet Bowman,Consumer,2010-01-25,,True,B2C
+1843,1998,Judy Frazier,Corporate,2010-12-03,2013-09-07,False,
+1844,1998,Judy Frazier,Home Office,2013-09-08,,True,B2C
+1845,1999,Priscilla Kane,Corporate,2011-05-03,2012-06-21,False,
+1846,1999,Priscilla Kane,Home Office,2012-06-22,,True,B2C
+1847,2000,Dale Yu,Corporate,2011-05-03,,True,B2B
+1848,2001,Herman Leach,Corporate,2011-11-01,2012-06-21,False,
+1849,2001,Herman Leach,Home Office,2012-06-22,,True,B2C
+1850,2002,Nelson House,Corporate,2011-10-18,2013-10-17,False,
+1851,2002,Nelson House,Home Office,2013-10-18,,True,B2C
+1852,2004,James Dickinson Ball,Home Office,2010-10-17,,True,B2C
+1853,2006,Cynthia Khan,Corporate,2011-07-14,,True,B2B
+1854,2006,Cynthia Khan,Home Office,2010-09-05,2011-07-13,False,
+1855,2007,Lauren West,Corporate,2011-07-28,2012-04-21,False,
+1856,2007,Lauren West,Home Office,2012-04-22,,True,B2C
+1857,2009,Claudia Bean,Corporate,2013-04-18,,True,B2B
+1858,2010,Gary Grimes,Corporate,2013-04-18,,True,B2B
+1859,2011,Wayne Bean,Corporate,2010-06-18,,True,B2B
+1860,2012,Gretchen Davis,Corporate,2011-01-14,,True,B2B
+1861,2014,Cathy Simon,Home Office,2010-03-22,,True,B2C
+1862,2015,Claudia Wall,Home Office,2011-12-04,,True,B2C
+1863,2017,Danny Schaefer,Corporate,2012-11-10,,True,B2B
+1864,2017,Danny Schaefer,Home Office,2011-05-13,2012-11-09,False,
+1865,2018,Tracey Garcia,Corporate,2011-02-19,2012-02-09,False,
+1866,2018,Tracey Garcia,Home Office,2012-02-10,,True,B2C
+1867,2019,Billie Glass,Home Office,2012-09-03,,True,B2C
+1868,2020,Erika Jordan,Home Office,2010-02-13,,True,B2C
+1869,2021,Lindsay Hoffman,Corporate,2011-06-09,2011-10-21,False,
+1870,2021,Lindsay Hoffman,Home Office,2011-10-22,,True,B2C
+1871,2023,Dan George,Home Office,2011-09-20,,True,B2C
+1872,2025,Benjamin Harrell,Small Business,2011-01-20,,True,B2B
+1873,2026,Keith Pittman,Small Business,2012-02-20,,True,B2B
+1874,2027,Tracey McCall,Small Business,2011-01-20,,True,B2B
+1875,2029,Michael Howe,Corporate,2013-09-18,,True,B2B
+1876,2030,Lindsay O'Connell,Corporate,2010-09-17,,True,B2B
+1877,2032,Jessie Bray,Consumer,2011-09-14,,True,B2C
+1878,2033,Shirley Garner,Consumer,2011-01-03,,True,B2C
+1879,2034,Douglas English,Consumer,2011-10-31,,True,B2C
+1880,2035,Jon Ward,Consumer,2010-11-18,,True,B2C
+1881,2037,Lynda Herman,Corporate,2013-05-01,,True,B2B
+1882,2037,Lynda Herman,Small Business,2010-03-12,2013-04-30,False,
+1883,2038,Peter Adams,Corporate,2013-08-21,,True,B2B
+1884,2038,Peter Adams,Small Business,2010-04-21,2013-08-20,False,
+1885,2039,Evelyn Garcia,Corporate,2011-04-27,2012-10-25,False,
+1886,2039,Evelyn Garcia,Small Business,2012-10-26,,True,B2B
+1887,2041,Gene Cox,Home Office,2013-07-16,,True,B2C
+1888,2042,Danielle Gray,Home Office,2013-05-20,,True,B2C
+1889,2044,Jay Simon,Corporate,2010-06-24,,True,B2B
+1890,2046,Eileen Schwartz,Corporate,2010-12-12,,True,B2B
+1891,2047,Wallace D McNeill,Corporate,2013-12-20,,True,B2B
+1892,2048,Ricky Dougherty,Consumer,2011-02-14,2012-04-01,False,
+1893,2048,Ricky Dougherty,Corporate,2012-04-02,,True,B2B
+1894,2049,Kenneth Pollock,Corporate,2010-12-21,,True,B2B
+1895,2050,Barbara Whitfield,Consumer,2012-09-06,2013-12-19,False,
+1896,2050,Barbara Whitfield,Corporate,2013-12-20,,True,B2B
+1897,2052,Francis Kendall,Home Office,2010-08-19,,True,B2C
+1898,2053,Kim Byrd,Home Office,2011-09-05,,True,B2C
+1899,2055,Tom Hahn,Home Office,2012-04-20,,True,B2C
+1900,2056,Rita Wagner,Home Office,2013-12-08,,True,B2C
+1901,2058,Louise Webster Sharma,Corporate,2010-08-13,,True,B2B
+1902,2059,Nathan Newton,Corporate,2010-07-17,,True,B2B
+1903,2061,Marianne Carey,Corporate,2010-01-29,,True,B2B
+1904,2062,Alfred Singh,Corporate,2010-01-29,,True,B2B
+1905,2063,Todd D Norris,Corporate,2010-05-08,,True,B2B
+1906,2065,Shannon McPherson,Corporate,2012-07-15,,True,B2B
+1907,2066,Claudia Webb,Corporate,2010-10-19,,True,B2B
+1908,2066,Claudia Webb,Home Office,2010-03-26,2010-10-18,False,
+1909,2067,Theresa Desai,Corporate,2011-03-09,,True,B2B
+1910,2069,Elsie Boykin,Consumer,2010-01-12,2011-05-03,False,
+1911,2069,Elsie Boykin,Corporate,2011-05-04,,True,B2B
+1912,2070,Kelly Collins,Consumer,2012-03-24,,True,B2C
+1913,2070,Kelly Collins,Corporate,2010-11-16,2012-03-23,False,
+1914,2071,Victor Cherry,Corporate,2010-08-01,,True,B2B
+1915,2072,Malcolm S Lanier,Corporate,2010-08-01,,True,B2B
+1916,2073,Evan Kelley,Consumer,2010-10-07,2013-03-22,False,
+1917,2073,Evan Kelley,Corporate,2013-03-23,,True,B2B
+1918,2075,Ronald Park,Corporate,2011-02-21,,True,B2B
+1919,2077,Lee Perkins,Home Office,2011-12-28,,True,B2C
+1920,2078,Ray Horne,Home Office,2011-12-28,,True,B2C
+1921,2079,Martin Henson,Home Office,2012-12-22,,True,B2C
+1922,2080,Karl Nichols,Home Office,2011-12-28,,True,B2C
+1923,2081,Matthew Conway,Corporate,2010-07-03,2013-10-17,False,
+1924,2081,Matthew Conway,Home Office,2013-10-18,,True,B2C
+1925,2082,Kathryn Jenkins,Corporate,2013-08-05,,True,B2B
+1926,2082,Kathryn Jenkins,Home Office,2011-03-25,2013-08-04,False,
+1927,2084,Marc Shapiro,Small Business,2012-07-19,,True,B2B
+1928,2085,Arlene Grimes,Small Business,2011-08-20,,True,B2B
+1929,2087,Edna Schroeder,Corporate,2011-12-19,,True,B2B
+1930,2088,Carrie Boyle,Corporate,2011-12-28,,True,B2B
+1931,2089,Annie Odom,Corporate,2010-12-30,,True,B2B
+1932,2090,Glenda Dougherty,Corporate,2012-05-22,,True,B2B
+1933,2092,Milton Pollock,Consumer,2011-03-12,,True,B2C
+1934,2094,Vernon Hirsch Singleton,Corporate,2010-08-05,,True,B2B
+1935,2095,Frederick Lang,Corporate,2013-09-25,,True,B2B
+1936,2097,Patsy Shea,Home Office,2010-04-18,,True,B2C
+1937,2098,Tracy Dyer,Home Office,2010-04-18,,True,B2C
+1938,2099,Nathan Fox,Home Office,2010-01-08,,True,B2C
+1939,2100,Mike T O'Neill,Home Office,2011-12-22,,True,B2C
+1940,2101,Gail Ellis,Home Office,2012-02-12,,True,B2C
+1941,2103,Chris Williams,Corporate,2012-08-02,,True,B2B
+1942,2104,Max Kirby,Corporate,2013-12-11,,True,B2B
+1943,2105,Arthur Glass,Corporate,2011-09-26,,True,B2B
+1944,2106,Marsha Gibbons,Corporate,2011-05-14,,True,B2B
+1945,2107,Leigh Burnette Hurley,Corporate,2010-12-06,2011-10-11,False,
+1946,2107,Leigh Burnette Hurley,Home Office,2011-10-12,,True,B2C
+1947,2108,Alfred Barber,Corporate,2010-12-06,2012-06-13,False,
+1948,2108,Alfred Barber,Home Office,2012-06-14,,True,B2C
+1949,2109,Evan Gill Roy,Corporate,2012-07-19,,True,B2B
+1950,2110,Clyde Norman,Corporate,2012-07-03,2012-10-11,False,
+1951,2110,Clyde Norman,Home Office,2012-10-12,,True,B2C
+1952,2111,Bob Harrington,Corporate,2013-09-09,,True,B2B
+1953,2111,Bob Harrington,Home Office,2011-10-12,2013-09-08,False,
+1954,2112,Margaret Olsen,Corporate,2011-09-29,2012-03-15,False,
+1955,2112,Margaret Olsen,Home Office,2012-03-16,,True,B2C
+1956,2114,Paige Mason,Corporate,2010-03-26,,True,B2B
+1957,2115,Jeffrey Lloyd,Corporate,2010-10-29,,True,B2B
+1958,2117,Jack Hatcher,Home Office,2010-10-20,,True,B2C
+1959,2118,Sheryl Cole,Home Office,2011-11-25,,True,B2C
+1960,2119,James Goldman,Home Office,2012-06-14,,True,B2C
+1961,2121,Glenda Bowles,Corporate,2011-05-25,,True,B2B
+1962,2122,Carolyn Fisher,Consumer,2010-02-01,2011-10-31,False,
+1963,2122,Carolyn Fisher,Corporate,2011-11-01,,True,B2B
+1964,2123,Pauline Erickson Kirkland,Corporate,2012-09-03,,True,B2B
+1965,2124,Paige Powers,Consumer,2010-07-01,2010-09-25,False,
+1966,2124,Paige Powers,Corporate,2010-09-26,,True,B2B
+1967,2125,Dianne Gibbons,Corporate,2012-12-18,,True,B2B
+1968,2127,Joyce Kern,Home Office,2010-03-18,,True,B2C
+1969,2129,Alan Chase,Home Office,2011-12-12,,True,B2C
+1970,2130,Theodore Garrison,Home Office,2011-12-14,,True,B2C
+1971,2131,Mary Hewitt,Corporate,2013-01-11,,True,B2B
+1972,2131,Mary Hewitt,Home Office,2010-07-03,2013-01-10,False,
+1973,2132,Philip Hawkins,Corporate,2013-01-24,,True,B2B
+1974,2132,Philip Hawkins,Home Office,2010-01-10,2013-01-23,False,
+1975,2133,Harry Cooper,Corporate,2012-09-16,2012-12-08,False,
+1976,2133,Harry Cooper,Home Office,2012-12-09,,True,B2C
+1977,2135,Melvin Kendall,Home Office,2010-08-06,,True,B2C
+1978,2137,Crystal Crabtree,Corporate,2010-01-31,,True,B2B
+1979,2138,Christopher Chambers,Corporate,2011-06-19,,True,B2B
+1980,2139,Jon Kendall,Corporate,2010-04-16,,True,B2B
+1981,2141,Molly Webster,Home Office,2010-08-18,,True,B2C
+1982,2142,Mitchell Clayton,Home Office,2011-01-25,,True,B2C
+1983,2143,Lester Sawyer,Home Office,2010-06-13,,True,B2C
+1984,2145,Kerry Hardy,Corporate,2010-02-10,,True,B2B
+1985,2146,Courtney Boyd,Corporate,2010-01-06,,True,B2B
+1986,2148,Jesse Farrell,Home Office,2011-04-22,,True,B2C
+1987,2149,Rodney Proctor,Home Office,2011-07-19,,True,B2C
+1988,2151,Melinda Rogers,Corporate,2010-01-05,,True,B2B
+1989,2153,Anna Glenn,Home Office,2011-12-26,,True,B2C
+1990,2155,Raymond Clark,Home Office,2011-08-23,,True,B2C
+1991,2156,Kristin Dorsey,Corporate,2011-06-23,2013-04-12,False,
+1992,2156,Kristin Dorsey,Home Office,2013-04-13,,True,B2C
+1993,2157,Tom Hoyle Honeycutt,Corporate,2013-06-23,,True,B2B
+1994,2157,Tom Hoyle Honeycutt,Home Office,2010-09-16,2013-06-22,False,
+1995,2158,Pauline Reed,Corporate,2013-12-12,,True,B2B
+1996,2159,Wesley Field,Corporate,2010-11-20,,True,B2B
+1997,2160,Glenn Goodwin,Corporate,2012-05-28,2012-09-19,False,
+1998,2160,Glenn Goodwin,Home Office,2012-09-20,,True,B2C
+1999,2161,Judith Wallace,Corporate,2012-04-16,,True,B2B
+2000,2161,Judith Wallace,Home Office,2012-01-26,2012-04-15,False,
+2001,2162,Brenda Jain,Corporate,2010-11-20,2013-04-12,False,
+2002,2162,Brenda Jain,Home Office,2013-04-13,,True,B2C
+2003,2164,Harry Sellers,Small Business,2010-01-09,,True,B2B
+2004,2165,Melanie Knight,Small Business,2010-01-09,,True,B2B
+2005,2166,Ronnie D Moon,Small Business,2012-02-02,,True,B2B
+2006,2167,Esther Marcus,Small Business,2012-02-02,,True,B2B
+2007,2168,Katie Blum,Small Business,2013-07-02,,True,B2B
+2008,2169,Linda Waters,Small Business,2013-07-02,,True,B2B
+2009,2171,Stacey Pearson,Home Office,2012-12-12,,True,B2C
+2010,2172,Warren B Dickerson,Home Office,2012-12-12,,True,B2C
+2011,2174,Herbert Hester,Small Business,2011-01-06,,True,B2B
+2012,2175,Lynda K Porter,Small Business,2013-07-25,,True,B2B
+2013,2176,Constance Richmond,Small Business,2011-06-26,,True,B2B
+2014,2177,Malcolm Hill,Small Business,2011-04-15,,True,B2B
+2015,2178,Judy Hall,Small Business,2010-07-27,,True,B2B
+2016,2179,Gretchen Wilder,Small Business,2011-07-25,,True,B2B
+2017,2180,Jessica Quinn,Small Business,2011-04-15,,True,B2B
+2018,2181,Lillian Andrews,Small Business,2012-02-27,,True,B2B
+2019,2183,Sheryl Reese,Home Office,2010-12-15,,True,B2C
+2020,2185,Benjamin Humphrey,Home Office,2012-05-07,,True,B2C
+2021,2186,Brent Bond,Home Office,2013-02-23,,True,B2C
+2022,2187,Joanne Spivey,Corporate,2010-05-08,,True,B2B
+2023,2188,Shelley Grant,Corporate,2012-02-20,,True,B2B
+2024,2189,Frank Cross,Corporate,2010-05-08,,True,B2B
+2025,2190,Marvin Patrick,Home Office,2010-08-14,,True,B2C
+2026,2191,Lori Crowell,Home Office,2013-08-01,,True,B2C
+2027,2192,Julia Haynes,Home Office,2012-07-05,,True,B2C
+2028,2193,Donald Melton,Home Office,2010-08-14,,True,B2C
+2029,2195,Lori Hirsch,Small Business,2012-12-24,,True,B2B
+2030,2196,Gene Heath Cross,Small Business,2010-10-07,,True,B2B
+2031,2197,Karen O'Donnell,Small Business,2010-12-26,,True,B2B
+2032,2198,Lester Woodward Maynard,Small Business,2010-05-22,,True,B2B
+2033,2200,Sarah Huang,Consumer,2011-12-28,,True,B2C
+2034,2200,Sarah Huang,Home Office,2011-10-12,2011-12-27,False,
+2035,2201,David Hoyle,Small Business,2010-09-25,,True,B2B
+2036,2202,Laurie Howe,Home Office,2010-01-31,,True,B2C
+2037,2203,Eddie Walker,Home Office,2010-02-04,2012-09-28,False,
+2038,2203,Eddie Walker,Small Business,2012-09-29,,True,B2B
+2039,2204,Oscar Ford,Consumer,2010-08-10,,True,B2C
+2040,2204,Oscar Ford,Home Office,2010-02-04,2010-08-09,False,
+2041,2206,Bobby Powell,Consumer,2010-01-05,,True,B2C
+2042,2207,Jean Parrish,Consumer,2011-06-26,,True,B2C
+2043,2209,Sharon Thomas,Home Office,2010-07-22,,True,B2C
+2044,2210,Glen Choi,Home Office,2012-11-09,,True,B2C
+2045,2211,Anita Hahn,Home Office,2010-01-01,,True,B2C
+2046,2212,Stacy Chang,Home Office,2010-04-19,,True,B2C
+2047,2213,Edna Welch,Home Office,2011-02-01,,True,B2C
+2048,2215,Christopher High,Corporate,2010-06-23,,True,B2B
+2049,2216,Clara Kaplan,Corporate,2010-06-23,,True,B2B
+2050,2218,Hilda Fletcher,Home Office,2012-02-26,,True,B2C
+2051,2220,Jennifer Stanton,Consumer,2010-08-28,,True,B2C
+2052,2221,Jacob Dale,Consumer,2013-05-22,,True,B2C
+2053,2223,Judy Langley,Small Business,2011-04-07,,True,B2B
+2054,2224,Marilyn Bishop,Small Business,2011-04-15,,True,B2B
+2055,2225,Sean McKenna,Small Business,2010-08-21,,True,B2B
+2056,2227,Wallace Mack,Corporate,2011-12-11,,True,B2B
+2057,2228,Beverly Baker,Corporate,2011-06-16,,True,B2B
+2058,2230,Ross Kent,Consumer,2011-03-02,,True,B2C
+2059,2231,Regina Hewitt,Consumer,2011-03-04,,True,B2C
+2060,2232,Kay Ivey Orr,Consumer,2011-03-04,,True,B2C
+2061,2233,Anna Miles,Consumer,2013-09-14,,True,B2C
+2062,2234,Daniel Phelps,Consumer,2013-09-14,,True,B2C
+2063,2235,Kristina Stewart Weber,Consumer,2011-02-13,,True,B2C
+2064,2236,Victoria Field,Consumer,2011-02-13,,True,B2C
+2065,2237,Renee Conrad,Corporate,2011-05-29,,True,B2B
+2066,2238,Alexandra Kumar,Corporate,2011-05-29,,True,B2B
+2067,2240,Maurice Kelly,Corporate,2010-04-06,,True,B2B
+2068,2241,Gary Hoffman,Corporate,2011-10-18,,True,B2B
+2069,2243,Jesse Cassidy,Corporate,2011-10-30,,True,B2B
+2070,2244,Molly Sanchez,Corporate,2013-01-05,,True,B2B
+2071,2245,Ben P Bowen,Corporate,2011-03-07,,True,B2B
+2072,2247,Amy Thomson,Home Office,2011-09-04,,True,B2C
+2073,2248,Audrey Harmon,Home Office,2012-08-20,,True,B2C
+2074,2249,Priscilla Allred,Home Office,2011-12-02,,True,B2C
+2075,2250,Alvin Hoover,Home Office,2010-10-13,,True,B2C
+2076,2251,Philip Olsen,Home Office,2013-07-26,,True,B2C
+2077,2253,Calvin Ferrell,Corporate,2012-01-04,,True,B2B
+2078,2254,Jeff Meadows,Corporate,2010-07-27,,True,B2B
+2079,2256,Lloyd Levin,Corporate,2010-07-02,,True,B2B
+2080,2257,Bernard Thompson,Corporate,2010-12-12,,True,B2B
+2081,2258,Nicole Pope,Corporate,2010-03-09,,True,B2B
+2082,2260,Geoffrey H Wong,Corporate,2010-08-15,,True,B2B
+2083,2261,Vivian Mayer,Corporate,2013-02-26,,True,B2B
+2084,2262,Alexander Joyner,Corporate,2013-02-11,,True,B2B
+2085,2264,Helen Dickerson,Corporate,2010-07-26,,True,B2B
+2086,2265,James Davenport,Corporate,2010-07-29,2012-11-05,False,
+2087,2265,James Davenport,Small Business,2012-11-06,,True,B2B
+2088,2266,Brandon Beach,Corporate,2010-05-26,2013-07-04,False,
+2089,2266,Brandon Beach,Small Business,2013-07-05,,True,B2B
+2090,2268,Carlos Adkins,Small Business,2010-06-03,,True,B2B
+2091,2269,Sandy Gill,Small Business,2013-07-15,,True,B2B
+2092,2270,Kristine Holden,Small Business,2010-08-06,,True,B2B
+2093,2272,Brett Ingram,Corporate,2010-09-16,,True,B2B
+2094,2273,Debra Block,Corporate,2010-05-05,,True,B2B
+2095,2274,Marlene Harrison,Corporate,2010-05-05,,True,B2B
+2096,2276,Dennis Block Richardson,Consumer,2010-12-31,,True,B2C
+2097,2277,Allison Peacock,Consumer,2012-08-20,,True,B2C
+2098,2279,Lucille McGee,Home Office,2010-06-22,,True,B2C
+2099,2280,Gene Winters,Home Office,2013-04-30,,True,B2C
+2100,2281,Monica Harvey,Home Office,2010-01-27,,True,B2C
+2101,2282,Jimmy Waters,Home Office,2010-08-05,,True,B2C
+2102,2283,Nancy Holden,Home Office,2010-01-24,,True,B2C
+2103,2285,Arnold Floyd Blair,Corporate,2010-09-13,,True,B2B
+2104,2286,Larry Langston,Corporate,2010-02-04,,True,B2B
+2105,2287,Samuel Newman,Corporate,2010-03-25,,True,B2B
+2106,2289,Ryan Herman,Corporate,2013-08-22,,True,B2B
+2107,2289,Ryan Herman,Home Office,2010-11-04,2013-08-21,False,
+2108,2290,Glen Robertson,Corporate,2010-08-04,,True,B2B
+2109,2290,Glen Robertson,Home Office,2010-07-06,2010-08-03,False,
+2110,2291,Maxine Joyner,Corporate,2013-07-19,,True,B2B
+2111,2291,Maxine Joyner,Home Office,2011-09-24,2013-07-18,False,
+2112,2293,Larry Garrison,Corporate,2013-05-13,,True,B2B
+2113,2294,Sandra Atkins,Corporate,2013-05-13,,True,B2B
+2114,2295,Steve Ballard,Corporate,2013-08-31,,True,B2B
+2115,2296,Alice Marks,Corporate,2012-09-22,,True,B2B
+2116,2297,Cameron Livingston,Corporate,2013-05-13,,True,B2B
+2117,2298,Maxine Wilson Best,Corporate,2013-06-27,,True,B2B
+2118,2299,Marsha Shaffer,Corporate,2013-02-10,,True,B2B
+2119,2300,Sheryl Allred,Corporate,2012-09-27,,True,B2B
+2120,2301,Sally Padgett,Corporate,2012-12-30,,True,B2B
+2121,2302,Beth Dolan,Corporate,2010-02-11,,True,B2B
+2122,2303,Joe Baldwin,Corporate,2010-02-11,,True,B2B
+2123,2305,Pat Kinney,Small Business,2010-12-21,,True,B2B
+2124,2306,Ted Harrington,Small Business,2012-03-15,,True,B2B
+2125,2308,Laurence Cummings,Small Business,2010-03-24,,True,B2B
+2126,2309,Brent Coates,Small Business,2011-05-01,,True,B2B
+2127,2310,Paul Perez,Small Business,2012-08-21,,True,B2B
+2128,2311,Ruby Raynor,Small Business,2012-08-21,,True,B2B
+2129,2312,Ricky Klein,Small Business,2012-08-21,,True,B2B
+2130,2313,Hazel Lindsay,Small Business,2011-11-23,,True,B2B
+2131,2314,Michael Summers,Small Business,2013-05-13,,True,B2B
+2132,2316,Sheryl Doyle Block,Small Business,2013-10-09,,True,B2B
+2133,2317,Ricky Hansen,Small Business,2012-02-24,,True,B2B
+2134,2318,Eileen Frye,Small Business,2013-06-16,,True,B2B
+2135,2319,Lucille Franklin,Small Business,2011-02-08,,True,B2B
+2136,2320,Sheila Schultz,Small Business,2012-02-24,,True,B2B
+2137,2321,Harriet Hinson,Small Business,2011-10-10,,True,B2B
+2138,2323,Emma Buckley,Small Business,2010-03-16,,True,B2B
+2139,2324,Maurice Faulkner,Small Business,2013-08-21,,True,B2B
+2140,2325,Jill Chang,Small Business,2013-08-21,,True,B2B
+2141,2326,Chris Justice,Small Business,2011-05-13,,True,B2B
+2142,2327,Gene Hardin,Small Business,2013-08-21,,True,B2B
+2143,2329,Nancy Combs,Home Office,2011-02-05,,True,B2C
+2144,2330,Kara Foster,Home Office,2010-09-24,,True,B2C
+2145,2332,Marguerite Norton,Consumer,2012-11-22,2013-04-23,False,
+2146,2332,Marguerite Norton,Small Business,2013-04-24,,True,B2B
+2147,2333,Megan Woods,Consumer,2011-01-26,,True,B2C
+2148,2333,Megan Woods,Small Business,2010-12-23,2011-01-25,False,
+2149,2334,Stephanie Hawkins,Consumer,2010-04-06,2010-04-08,False,
+2150,2334,Stephanie Hawkins,Home Office,2010-12-02,,True,B2C
+2151,2334,Stephanie Hawkins,Small Business,2010-04-09,2010-12-01,False,
+2152,2335,Kent Young,Consumer,2012-09-10,,True,B2C
+2153,2337,Ann Allen,Home Office,2012-05-21,,True,B2C
+2154,2338,Lynn Hines,Home Office,2010-01-13,,True,B2C
+2155,2339,Gordon Boswell,Home Office,2010-11-25,,True,B2C
+2156,2341,Wanda Stafford,Home Office,2012-12-31,,True,B2C
+2157,2342,Danny Francis Bell,Corporate,2012-06-20,,True,B2B
+2158,2342,Danny Francis Bell,Home Office,2012-03-28,2012-06-19,False,
+2159,2343,Francis Goldberg,Corporate,2013-07-29,,True,B2B
+2160,2343,Francis Goldberg,Home Office,2012-03-28,2013-07-28,False,
+2161,2345,Colleen Marsh,Corporate,2010-03-14,,True,B2B
+2162,2346,Sylvia Kumar,Corporate,2010-01-10,,True,B2B
+2163,2347,Virginia Gill,Corporate,2011-03-21,,True,B2B
+2164,2348,Andrea Barr,Corporate,2011-10-05,,True,B2B
+2165,2350,Charlene Jiang,Consumer,2012-06-03,,True,B2C
+2166,2351,Faye Silver,Consumer,2012-06-03,,True,B2C
+2167,2351,Faye Silver,Corporate,2010-09-30,2012-06-02,False,
+2168,2352,Kerry Beach,Consumer,2010-12-20,2010-12-22,False,
+2169,2352,Kerry Beach,Corporate,2013-08-09,,True,B2B
+2170,2352,Kerry Beach,Home Office,2010-12-23,2013-08-08,False,
+2171,2353,Patrick Lowry,Corporate,2010-10-29,,True,B2B
+2172,2355,Clyde Burnett,Consumer,2010-02-15,,True,B2C
+2173,2356,Emma Bloom,Consumer,2010-09-15,,True,B2C
+2174,2358,Danielle Baird,Corporate,2010-03-04,2010-08-13,False,
+2175,2358,Danielle Baird,Home Office,2010-08-14,,True,B2C
+2176,2359,Annie Horne,Corporate,2011-08-13,,True,B2B
+2177,2359,Annie Horne,Home Office,2010-02-05,2011-08-12,False,
+2178,2360,Troy Hendrix,Corporate,2012-01-15,,True,B2B
+2179,2360,Troy Hendrix,Home Office,2011-03-07,2012-01-14,False,
+2180,2361,Vincent Daniel,Corporate,2010-02-25,,True,B2B
+2181,2363,Jacob Murray,Home Office,2010-10-11,,True,B2C
+2182,2365,Elisabeth Stephenson,Corporate,2012-10-18,,True,B2B
+2183,2366,Emma M Li,Corporate,2012-04-20,,True,B2B
+2184,2368,Ellen Blair,Consumer,2011-09-18,,True,B2C
+2185,2369,Mike G Hartman,Consumer,2010-01-13,,True,B2C
+2186,2371,Cameron Braswell,Corporate,2011-11-04,,True,B2B
+2187,2371,Cameron Braswell,Small Business,2011-01-31,2011-11-03,False,
+2188,2372,Marvin Parrott,Corporate,2010-03-15,,True,B2B
+2189,2373,Eugene Chandler,Corporate,2012-04-11,,True,B2B
+2190,2373,Eugene Chandler,Small Business,2011-01-22,2012-04-10,False,
+2191,2374,Ann Pearson,Corporate,2012-06-07,,True,B2B
+2192,2374,Ann Pearson,Small Business,2012-02-19,2012-06-06,False,
+2193,2376,Debra Batchelor,Corporate,2010-09-05,,True,B2B
+2194,2377,Ryan Taylor,Corporate,2011-07-29,,True,B2B
+2195,2378,Edith Norton,Corporate,2011-03-05,2013-09-11,False,
+2196,2378,Edith Norton,Small Business,2013-09-12,,True,B2B
+2197,2379,Mildred Briggs,Small Business,2010-05-05,,True,B2B
+2198,2380,Lisa Branch,Small Business,2010-04-26,,True,B2B
+2199,2381,Alice Brady,Small Business,2012-04-22,,True,B2B
+2200,2382,Geoffrey Saunders,Small Business,2010-04-26,,True,B2B
+2201,2384,Marie McClure,Small Business,2013-10-01,,True,B2B
+2202,2385,Janice Frye,Small Business,2010-05-22,,True,B2B
+2203,2386,Thomas Yu,Corporate,2012-06-17,,True,B2B
+2204,2386,Thomas Yu,Small Business,2011-04-20,2012-06-16,False,
+2205,2387,Mildred Steele,Small Business,2011-04-20,,True,B2B
+2206,2388,Carole Cash,Small Business,2013-01-12,,True,B2B
+2207,2390,Tammy Gunter,Corporate,2012-08-08,,True,B2B
+2208,2391,Jacob McNeill,Corporate,2010-05-25,,True,B2B
+2209,2393,Debbie Dillon,Corporate,2010-05-29,,True,B2B
+2210,2394,Tina Monroe,Corporate,2010-05-01,,True,B2B
+2211,2395,Beverly Roberts,Corporate,2010-09-23,,True,B2B
+2212,2397,Laura Mayo Cox,Corporate,2012-03-24,,True,B2B
+2213,2398,Julian F Wolfe,Corporate,2010-08-24,,True,B2B
+2214,2399,Renee McDowell,Corporate,2011-05-22,,True,B2B
+2215,2400,Anita Boyle,Consumer,2012-06-22,2013-07-20,False,
+2216,2400,Anita Boyle,Corporate,2013-07-21,,True,B2B
+2217,2401,Tommy Morse Brown,Consumer,2012-06-22,,True,B2C
+2218,2402,Samuel Smith Ryan,Consumer,2012-03-01,,True,B2C
+2219,2403,Kara Gregory,Consumer,2011-12-20,2013-07-20,False,
+2220,2403,Kara Gregory,Corporate,2013-07-21,,True,B2B
+2221,2404,Dennis Anthony,Consumer,2011-12-20,,True,B2C
+2222,2405,Martha Cunningham,Consumer,2013-08-12,,True,B2C
+2223,2406,Maria O'Donnell Kessler,Consumer,2013-08-12,,True,B2C
+2224,2407,Danielle Williamson,Consumer,2012-03-01,,True,B2C
+2225,2409,Florence Wilder,Small Business,2011-08-17,,True,B2B
+2226,2410,Tim T Cobb,Small Business,2012-04-08,,True,B2B
+2227,2411,Evelyn Bowden,Small Business,2013-12-16,,True,B2B
+2228,2413,Frances McCall,Consumer,2013-11-08,,True,B2C
+2229,2414,Milton Green,Consumer,2011-03-12,,True,B2C
+2230,2415,Emma Mitchell,Consumer,2013-11-08,,True,B2C
+2231,2416,Neil Waller,Consumer,2013-11-23,,True,B2C
+2232,2417,Ken H Frazier,Consumer,2010-09-14,,True,B2C
+2233,2418,Kyle Fink,Consumer,2010-01-06,,True,B2C
+2234,2419,Sandra Faulkner,Consumer,2010-03-26,,True,B2C
+2235,2420,Wesley Cho,Consumer,2010-05-06,,True,B2C
+2236,2422,Arlene Wiggins Dalton,Home Office,2010-05-24,,True,B2C
+2237,2423,Nicholas Wallace,Home Office,2010-07-21,,True,B2C
+2238,2425,Harry Houston,Small Business,2012-08-09,,True,B2B
+2239,2426,Dorothy Holt,Small Business,2010-03-15,,True,B2B
+2240,2427,John Merritt,Corporate,2010-08-17,,True,B2B
+2241,2429,Robyn Connor,Home Office,2011-12-24,,True,B2C
+2242,2430,Kimberly Reilly,Home Office,2010-03-24,,True,B2C
+2243,2431,Troy Cassidy,Consumer,2010-06-10,,True,B2C
+2244,2432,Lindsay Tate,Consumer,2010-11-19,,True,B2C
+2245,2433,Debra P May,Consumer,2010-06-10,,True,B2C
+2246,2434,Phyllis Vincent,Consumer,2011-06-14,,True,B2C
+2247,2435,Peter Maynard,Consumer,2011-06-14,,True,B2C
+2248,2437,Judith Shepherd,Home Office,2010-03-01,,True,B2C
+2249,2439,Neal Currin,Consumer,2011-07-23,,True,B2C
+2250,2439,Neal Currin,Corporate,2011-04-11,2011-07-22,False,
+2251,2440,Amanda Gould,Consumer,2011-02-25,,True,B2C
+2252,2441,Kenneth Capps,Consumer,2010-10-04,,True,B2C
+2253,2442,Natalie Aldridge,Consumer,2010-10-04,2013-11-21,False,
+2254,2442,Natalie Aldridge,Corporate,2013-11-22,,True,B2B
+2255,2443,Danny Richmond,Consumer,2012-02-06,,True,B2C
+2256,2443,Danny Richmond,Corporate,2010-01-18,2012-02-05,False,
+2257,2444,Harvey Woods,Consumer,2011-02-25,,True,B2C
+2258,2445,Priscilla Bullock,Corporate,2013-06-27,,True,B2B
+2259,2447,Gladys Everett,Consumer,2011-05-03,,True,B2C
+2260,2448,Melanie Morrow,Consumer,2010-06-29,,True,B2C
+2261,2450,Tonya Miller,Home Office,2010-05-23,,True,B2C
+2262,2451,Erica Holloway,Home Office,2011-03-07,,True,B2C
+2263,2453,George Yates,Corporate,2011-08-25,2011-12-16,False,
+2264,2453,George Yates,Home Office,2011-12-17,,True,B2C
+2265,2454,Donna Braun,Corporate,2010-03-01,,True,B2B
+2266,2455,Molly Walton Forrest,Corporate,2011-01-20,2011-02-19,False,
+2267,2455,Molly Walton Forrest,Home Office,2011-02-20,,True,B2C
+2268,2456,Joan Beach,Home Office,2010-01-22,,True,B2C
+2269,2457,Yvonne Collier,Corporate,2012-04-17,,True,B2B
+2270,2457,Yvonne Collier,Home Office,2010-01-22,2012-04-16,False,
+2271,2458,Troy Casey,Home Office,2010-07-03,,True,B2C
+2272,2459,Dorothy Gonzalez,Home Office,2011-07-29,,True,B2C
+2273,2460,Lucille Gibbons,Home Office,2010-07-03,,True,B2C
+2274,2462,Ray Cook,Consumer,2012-06-11,,True,B2C
+2275,2462,Ray Cook,Corporate,2012-02-26,2012-06-10,False,
+2276,2463,Jane Howell,Consumer,2012-12-26,,True,B2C
+2277,2463,Jane Howell,Corporate,2012-04-23,2012-12-25,False,
+2278,2464,Joe George,Consumer,2010-05-11,,True,B2C
+2279,2466,Gilbert Godfrey,Corporate,2010-08-27,2011-05-01,False,
+2280,2466,Gilbert Godfrey,Home Office,2011-05-02,,True,B2C
+2281,2467,Ted Bell,Corporate,2011-05-20,,True,B2B
+2282,2468,Rhonda Stein,Corporate,2010-09-13,,True,B2B
+2283,2468,Rhonda Stein,Home Office,2010-04-27,2010-09-12,False,
+2284,2469,Herbert Reddy,Corporate,2013-06-14,,True,B2B
+2285,2469,Herbert Reddy,Home Office,2011-08-29,2013-06-13,False,
+2286,2470,Marjorie Maxwell,Home Office,2012-10-31,,True,B2C
+2287,2472,Ricky Sanders,Home Office,2010-02-21,,True,B2C
+2288,2473,Monica Jensen,Home Office,2013-02-21,,True,B2C
+2289,2475,James Craft,Small Business,2011-08-30,,True,B2B
+2290,2476,Kathryn Cho,Small Business,2013-08-30,,True,B2B
+2291,2478,Betsy Owens,Corporate,2013-09-30,,True,B2B
+2292,2479,Julie Lang,Corporate,2013-02-16,,True,B2B
+2293,2480,Rhonda Tuttle,Corporate,2012-07-06,,True,B2B
+2294,2481,Kelly Sawyer,Corporate,2010-10-06,,True,B2B
+2295,2483,Bryan Weinstein,Corporate,2013-08-15,,True,B2B
+2296,2484,Rhonda Bryant,Corporate,2010-09-13,,True,B2B
+2297,2486,Jack Horn,Small Business,2010-02-06,,True,B2B
+2298,2487,Michelle Bryant Phillips,Small Business,2010-06-20,,True,B2B
+2299,2488,Gordon Walker,Consumer,2010-10-09,,True,B2C
+2300,2489,Craig Liu,Consumer,2010-02-11,2010-04-25,False,
+2301,2489,Craig Liu,Home Office,2010-04-26,,True,B2C
+2302,2490,Pauline Finch,Consumer,2012-07-22,,True,B2C
+2303,2490,Pauline Finch,Home Office,2010-02-14,2012-07-21,False,
+2304,2491,Sean N Boyer,Consumer,2010-04-26,,True,B2C
+2305,2491,Sean N Boyer,Home Office,2010-02-14,2010-04-25,False,
+2306,2492,Billie Chan,Consumer,2013-08-04,,True,B2C
+2307,2493,Tom Moody,Consumer,2011-08-04,,True,B2C
+2308,2494,Brooke Payne,Home Office,2012-01-23,,True,B2C
+2309,2495,Maria Block,Consumer,2010-04-26,2011-02-03,False,
+2310,2495,Maria Block,Home Office,2011-02-04,,True,B2C
+2311,2497,Elisabeth Gorman,Small Business,2011-08-06,,True,B2B
+2312,2498,Arlene Long,Corporate,2010-02-18,2010-08-01,False,
+2313,2498,Arlene Long,Small Business,2010-08-02,,True,B2B
+2314,2499,Geoffrey Koch,Corporate,2010-02-18,2011-09-29,False,
+2315,2499,Geoffrey Koch,Small Business,2011-09-30,,True,B2B
+2316,2500,Kevin Smith,Small Business,2010-08-02,,True,B2B
+2317,2502,Toni Owens Poe,Home Office,2010-03-19,,True,B2C
+2318,2503,Neil Jacobson,Home Office,2011-08-27,,True,B2C
+2319,2505,Cameron Gentry Herndon,Home Office,2011-05-24,,True,B2C
+2320,2506,Alfred Harmon,Home Office,2010-12-05,,True,B2C
+2321,2507,Jeanette Davies,Home Office,2010-12-05,,True,B2C
+2322,2508,Pauline Brooks,Home Office,2010-07-08,,True,B2C
+2323,2509,Sidney Larson,Home Office,2010-05-05,,True,B2C
+2324,2510,Emily Adkins,Home Office,2011-10-16,,True,B2C
+2325,2511,Brad Teague,Home Office,2011-09-01,,True,B2C
+2326,2512,Frances Holt,Home Office,2010-06-15,,True,B2C
+2327,2513,Renee McKinney,Home Office,2013-04-27,,True,B2C
+2328,2514,Dan Roach,Home Office,2012-12-20,,True,B2C
+2329,2515,Claudia Upchurch,Home Office,2012-08-26,,True,B2C
+2330,2516,Leo E Underwood,Home Office,2010-12-05,,True,B2C
+2331,2517,Clyde S Randall,Home Office,2013-04-27,,True,B2C
+2332,2518,Leigh Wyatt,Home Office,2011-10-16,,True,B2C
+2333,2519,Earl King,Home Office,2011-10-16,,True,B2C
+2334,2520,Sandy Mueller,Home Office,2010-12-05,,True,B2C
+2335,2521,Shawn Meyer,Home Office,2010-08-18,,True,B2C
+2336,2522,Harriet Wooten,Home Office,2010-12-05,,True,B2C
+2337,2523,Russell Chen,Home Office,2011-09-01,,True,B2C
+2338,2525,Grace Everett,Corporate,2011-08-26,,True,B2B
+2339,2526,Derek Sweeney,Corporate,2010-11-23,,True,B2B
+2340,2527,Gretchen Orr,Corporate,2010-11-23,,True,B2B
+2341,2529,Francis McKenzie,Small Business,2011-09-03,,True,B2B
+2342,2530,Janet Zhang,Small Business,2010-03-29,,True,B2B
+2343,2531,Rick Houston,Small Business,2010-05-02,,True,B2B
+2344,2532,Max Kuhn Bailey,Small Business,2011-01-03,,True,B2B
+2345,2533,Eva Wagner,Small Business,2013-12-21,,True,B2B
+2346,2534,Mitchell Goldberg,Consumer,2013-09-04,,True,B2C
+2347,2534,Mitchell Goldberg,Small Business,2010-03-29,2013-09-03,False,
+2348,2535,Mike Haas,Small Business,2013-12-21,,True,B2B
+2349,2536,Kent Hoover,Small Business,2013-12-21,,True,B2B
+2350,2538,Ruby Booth,Corporate,2013-09-30,,True,B2B
+2351,2539,Max Hubbard,Corporate,2011-04-30,,True,B2B
+2352,2539,Max Hubbard,Home Office,2010-04-07,2011-04-29,False,
+2353,2540,Helen Ferguson,Corporate,2011-09-04,,True,B2B
+2354,2540,Helen Ferguson,Home Office,2010-04-07,2011-09-03,False,
+2355,2542,Anne Kelley,Home Office,2012-10-03,2013-04-02,False,
+2356,2542,Anne Kelley,Small Business,2013-04-03,,True,B2B
+2357,2543,Josephine Dalton,Home Office,2013-09-18,,True,B2C
+2358,2543,Josephine Dalton,Small Business,2010-12-11,2013-09-17,False,
+2359,2544,Harvey Barefoot,Small Business,2011-11-24,,True,B2B
+2360,2545,Rick Ellis,Home Office,2010-03-10,2011-11-23,False,
+2361,2545,Rick Ellis,Small Business,2011-11-24,,True,B2B
+2362,2546,Jesse Fisher,Home Office,2013-12-16,,True,B2C
+2363,2546,Jesse Fisher,Small Business,2012-07-02,2013-12-15,False,
+2364,2547,Edna Freeman,Home Office,2012-10-03,,True,B2C
+2365,2547,Edna Freeman,Small Business,2010-10-19,2012-10-02,False,
+2366,2548,Wayne Bass,Small Business,2010-04-04,,True,B2B
+2367,2549,Martha Bowers,Small Business,2010-04-21,,True,B2B
+2368,2550,Arlene Barry Kane,Small Business,2011-06-17,,True,B2B
+2369,2551,Joan Bowers,Small Business,2010-04-04,,True,B2B
+2370,2553,Virginia McNeill,Home Office,2010-02-12,,True,B2C
+2371,2554,Harvey Sanchez,Home Office,2012-11-10,,True,B2C
+2372,2555,Karl Knowles,Home Office,2010-01-09,,True,B2C
+2373,2556,Tamara Bartlett Cheek,Home Office,2012-06-01,,True,B2C
+2374,2558,Yvonne Pearson,Corporate,2011-01-08,,True,B2B
+2375,2560,Tiffany Honeycutt,Consumer,2011-04-16,,True,B2C
+2376,2561,Laurie Moon,Consumer,2010-03-22,,True,B2C
+2377,2562,Norma Higgins,Consumer,2011-06-19,,True,B2C
+2378,2563,Karen Warren,Home Office,2010-04-08,,True,B2C
+2379,2564,Carla Wilson,Home Office,2011-10-22,,True,B2C
+2380,2565,Amanda Kay,Home Office,2011-08-26,,True,B2C
+2381,2566,Jerry Barber,Home Office,2013-07-21,,True,B2C
+2382,2567,Dolores Vincent,Home Office,2011-02-27,,True,B2C
+2383,2568,Betty Schroeder,Home Office,2011-02-27,,True,B2C
+2384,2569,Harvey Hoyle,Consumer,2011-02-22,,True,B2C
+2385,2570,Yvonne Stephens,Consumer,2010-10-25,,True,B2C
+2386,2571,Rosemary O'Brien,Consumer,2010-10-25,,True,B2C
+2387,2572,Shirley Meadows,Consumer,2011-11-22,,True,B2C
+2388,2574,William McDonald,Consumer,2012-01-09,,True,B2C
+2389,2575,Brandon Moser,Consumer,2012-11-21,,True,B2C
+2390,2577,Alfred Burton,Home Office,2011-08-23,,True,B2C
+2391,2578,Kent Gill,Home Office,2010-11-02,,True,B2C
+2392,2579,Marshall Sutherland,Home Office,2010-01-03,,True,B2C
+2393,2580,Erica Riddle,Home Office,2013-05-26,,True,B2C
+2394,2581,Jean Frazier,Home Office,2011-09-07,,True,B2C
+2395,2583,Wendy Pridgen Pearce,Home Office,2010-12-07,,True,B2C
+2396,2584,Seth Matthews,Home Office,2010-12-09,,True,B2C
+2397,2585,Max Gonzalez,Home Office,2011-10-12,,True,B2C
+2398,2587,Eugene H Walsh,Home Office,2010-08-28,,True,B2C
+2399,2588,Diane Flynn,Home Office,2012-12-20,,True,B2C
+2400,2589,Paige Sherman,Home Office,2012-12-20,,True,B2C
+2401,2591,Maureen McCoy,Corporate,2013-10-23,,True,B2B
+2402,2592,Sam Maynard,Corporate,2011-02-27,,True,B2B
+2403,2593,Anne Schultz,Corporate,2010-04-17,,True,B2B
+2404,2594,Lillian George,Corporate,2011-05-15,,True,B2B
+2405,2596,Stacey Bell,Corporate,2012-03-07,,True,B2B
+2406,2598,Wayne Mullins,Corporate,2012-11-01,,True,B2B
+2407,2599,Natalie Faulkner,Corporate,2012-11-01,,True,B2B
+2408,2600,Joanne Davenport,Corporate,2013-12-25,,True,B2B
+2409,2601,Malcolm French,Corporate,2010-09-21,,True,B2B
+2410,2602,Leah Phillips,Corporate,2011-12-25,,True,B2B
+2411,2603,Penny Leach,Corporate,2010-10-05,,True,B2B
+2412,2604,Gina Curry,Corporate,2010-10-05,,True,B2B
+2413,2605,Susan Chase,Corporate,2011-05-20,,True,B2B
+2414,2606,Juan Butler,Corporate,2012-11-01,,True,B2B
+2415,2607,Jim Day Decker,Corporate,2012-10-05,,True,B2B
+2416,2608,Julia Gallagher,Corporate,2013-10-28,,True,B2B
+2417,2610,Tommy Lutz,Corporate,2010-05-16,,True,B2B
+2418,2611,Karen Lin,Corporate,2011-10-20,,True,B2B
+2419,2612,Charles Parsons,Corporate,2011-02-11,,True,B2B
+2420,2613,Anthony Stanley,Corporate,2010-07-24,,True,B2B
+2421,2614,Sarah Pappas,Corporate,2011-10-20,,True,B2B
+2422,2616,Laurence Hull,Corporate,2010-09-11,,True,B2B
+2423,2617,Gerald Crabtree,Corporate,2010-12-27,,True,B2B
+2424,2618,Amy Hamrick Melvin,Corporate,2010-01-17,,True,B2B
+2425,2619,Brandon E Shepherd,Corporate,2010-03-23,,True,B2B
+2426,2620,Phyllis Little,Corporate,2010-09-23,,True,B2B
+2427,2621,Robyn Hayes,Corporate,2010-09-19,,True,B2B
+2428,2623,Gene Caldwell,Corporate,2011-06-01,,True,B2B
+2429,2624,Andrew Connor,Corporate,2011-03-27,,True,B2B
+2430,2626,Lillian Fischer,Consumer,2010-08-07,2012-02-17,False,
+2431,2626,Lillian Fischer,Corporate,2012-02-18,,True,B2B
+2432,2628,Danielle P Rao,Corporate,2010-07-17,,True,B2B
+2433,2629,Terri McCarthy Manning,Corporate,2013-10-18,,True,B2B
+2434,2629,Terri McCarthy Manning,Small Business,2011-01-16,2013-10-17,False,
+2435,2630,Betsy Puckett,Corporate,2012-01-18,,True,B2B
+2436,2630,Betsy Puckett,Small Business,2010-01-05,2012-01-17,False,
+2437,2631,Cecil Shields,Corporate,2011-02-20,2011-03-13,False,
+2438,2631,Cecil Shields,Small Business,2011-03-14,,True,B2B
+2439,2632,Theodore Corbett,Corporate,2013-06-26,,True,B2B
+2440,2634,Peter Hedrick,Corporate,2011-02-04,,True,B2B
+2441,2635,Lester Erickson Frederick,Corporate,2011-02-08,,True,B2B
+2442,2637,Julian French,Consumer,2012-01-28,,True,B2C
+2443,2638,Alicia Wood Shah,Consumer,2010-06-08,,True,B2C
+2444,2639,Marianne Connor,Consumer,2010-09-19,,True,B2C
+2445,2641,Juanita Bennett,Home Office,2011-04-16,,True,B2C
+2446,2642,Donna Hawkins,Home Office,2013-01-24,,True,B2C
+2447,2643,Vincent Cash Bryant,Consumer,2012-04-25,,True,B2C
+2448,2644,Alfred Moran,Consumer,2011-09-25,,True,B2C
+2449,2645,Ronnie Dodson,Consumer,2011-09-25,,True,B2C
+2450,2647,Teresa Bishop,Corporate,2010-09-17,,True,B2B
+2451,2649,Leo J Olson,Corporate,2010-06-11,,True,B2B
+2452,2650,Joanne Chu,Corporate,2010-11-04,,True,B2B
+2453,2652,Brenda Ross,Consumer,2010-05-25,,True,B2C
+2454,2653,Leo Kane,Consumer,2010-02-22,,True,B2C
+2455,2655,Benjamin Lam,Consumer,2010-04-18,2010-10-07,False,
+2456,2655,Benjamin Lam,Corporate,2010-10-08,,True,B2B
+2457,2656,Dennis Thornton,Consumer,2012-12-02,,True,B2C
+2458,2656,Dennis Thornton,Corporate,2011-03-21,2012-12-01,False,
+2459,2657,Anthony Greer,Consumer,2012-07-25,,True,B2C
+2460,2657,Anthony Greer,Corporate,2012-06-17,2012-07-24,False,
+2461,2658,Matthew Welsh,Corporate,2013-01-13,,True,B2B
+2462,2660,Jeffrey Page,Small Business,2010-02-24,,True,B2B
+2463,2661,James McLaughlin,Small Business,2012-03-17,,True,B2B
+2464,2662,Carolyn Levine,Small Business,2012-03-17,,True,B2B
+2465,2663,Stacy Reynolds,Small Business,2013-09-15,,True,B2B
+2466,2664,Frank Hartman,Small Business,2013-09-15,,True,B2B
+2467,2666,Christopher Horner,Corporate,2012-03-10,,True,B2B
+2468,2666,Christopher Horner,Home Office,2011-08-03,2012-03-09,False,
+2469,2667,Pat Baker,Home Office,2010-04-02,,True,B2C
+2470,2668,Carlos Hanson,Corporate,2010-03-28,2010-10-20,False,
+2471,2668,Carlos Hanson,Home Office,2010-10-21,,True,B2C
+2472,2669,Annie Booth,Corporate,2011-09-12,2013-10-21,False,
+2473,2669,Annie Booth,Home Office,2013-10-22,,True,B2C
+2474,2670,Yvonne Mann,Home Office,2010-11-29,,True,B2C
+2475,2671,Lloyd Fuller,Home Office,2010-11-29,,True,B2C
+2476,2672,Kay Abbott,Home Office,2011-01-19,,True,B2C
+2477,2673,Faye Joseph,Home Office,2013-06-08,,True,B2C
+2478,2675,Danny Cain,Small Business,2012-06-22,,True,B2B
+2479,2677,Geoffrey Rivera,Small Business,2010-12-16,,True,B2B
+2480,2678,Claudia Snyder,Small Business,2011-10-03,,True,B2B
+2481,2680,Kyle Hoffman,Corporate,2012-09-12,,True,B2B
+2482,2681,Marc Bowles,Corporate,2011-09-21,,True,B2B
+2483,2683,Maxine Fletcher,Small Business,2012-07-20,,True,B2B
+2484,2684,Edna Michael,Small Business,2010-02-15,,True,B2B
+2485,2685,Kathryn Wolfe,Small Business,2010-04-04,,True,B2B
+2486,2687,Helen Ward Langley,Home Office,2013-09-20,,True,B2C
+2487,2688,Helen Proctor,Home Office,2013-01-16,,True,B2C
+2488,2689,Marlene Gray,Home Office,2010-11-04,,True,B2C
+2489,2690,Sheila Pritchard,Home Office,2013-05-17,,True,B2C
+2490,2691,Frances Berman,Home Office,2013-01-16,,True,B2C
+2491,2692,Hilda Proctor,Home Office,2013-08-04,,True,B2C
+2492,2693,Lloyd Cannon,Home Office,2010-11-04,,True,B2C
+2493,2694,Eva Berg,Home Office,2011-01-13,,True,B2C
+2494,2696,Sally Dunn,Home Office,2010-03-05,,True,B2C
+2495,2697,Ricky W Clements,Corporate,2010-08-23,2012-06-29,False,
+2496,2697,Ricky W Clements,Home Office,2012-06-30,,True,B2C
+2497,2698,Bruce Adcock,Home Office,2011-04-11,2013-01-14,False,
+2498,2698,Bruce Adcock,Small Business,2013-01-15,,True,B2B
+2499,2699,Marcia Greenberg,Corporate,2010-05-22,2011-06-17,False,
+2500,2699,Marcia Greenberg,Home Office,2011-06-18,2011-08-09,False,
+2501,2699,Marcia Greenberg,Small Business,2011-08-10,,True,B2B
+2502,2700,Dean Rosenberg,Corporate,2013-03-30,,True,B2B
+2503,2700,Dean Rosenberg,Small Business,2012-11-02,2013-03-29,False,
+2504,2701,Kerry O'Brien,Small Business,2012-11-02,,True,B2B
+2505,2702,Lawrence Norris,Corporate,2013-02-19,,True,B2B
+2506,2702,Lawrence Norris,Small Business,2011-09-28,2013-02-18,False,
+2507,2704,Juan Gold,Consumer,2010-10-30,,True,B2C
+2508,2705,Herbert Currie,Consumer,2012-06-01,,True,B2C
+2509,2705,Herbert Currie,Home Office,2012-04-09,2012-05-31,False,
+2510,2706,Renee Jernigan,Consumer,2013-05-17,,True,B2C
+2511,2708,Betsy Wilder,Consumer,2011-12-28,,True,B2C
+2512,2709,Stanley Steele,Consumer,2010-05-28,,True,B2C
+2513,2710,Marvin Reeves McMillan,Consumer,2011-08-18,,True,B2C
+2514,2712,Jose Chan,Corporate,2013-05-10,,True,B2B
+2515,2713,Lynda Banks,Corporate,2010-06-21,,True,B2B
+2516,2714,Regina Phillips,Corporate,2011-10-22,,True,B2B
+2517,2715,Becky Farmer,Corporate,2010-07-12,,True,B2B
+2518,2717,Edna Barefoot Rao,Consumer,2011-02-18,,True,B2C
+2519,2718,Caroline Stone,Consumer,2010-09-01,,True,B2C
+2520,2720,Donna Block,Corporate,2011-05-27,,True,B2B
+2521,2720,Donna Block,Small Business,2010-06-16,2011-05-26,False,
+2522,2721,Nancy Schwartz,Corporate,2013-08-10,,True,B2B
+2523,2723,Nicholas Pritchard,Corporate,2011-02-27,2012-06-05,False,
+2524,2723,Nicholas Pritchard,Home Office,2012-06-06,,True,B2C
+2525,2724,Erika Clapp,Corporate,2011-02-27,,True,B2B
+2526,2724,Erika Clapp,Home Office,2010-05-01,2011-02-26,False,
+2527,2725,Katharine Hudson,Corporate,2012-10-28,,True,B2B
+2528,2725,Katharine Hudson,Home Office,2010-01-17,2012-10-27,False,
+2529,2727,Lloyd Bland,Consumer,2013-11-02,,True,B2C
+2530,2728,Steve Martin,Consumer,2011-08-07,,True,B2C
+2531,2729,Penny O Caldwell,Consumer,2010-03-06,,True,B2C
+2532,2730,Valerie Hahn,Consumer,2012-07-03,,True,B2C
+2533,2731,Robert Sloan,Consumer,2011-06-03,,True,B2C
+2534,2733,Marian Godwin,Small Business,2011-11-12,,True,B2B
+2535,2734,Gayle Rollins,Small Business,2012-06-05,,True,B2B
+2536,2735,Dan Crawford,Small Business,2012-06-05,,True,B2B
+2537,2736,Charlie Morton,Small Business,2013-07-29,,True,B2B
+2538,2737,Rachel Bates,Small Business,2010-04-22,,True,B2B
+2539,2738,Sherri Kramer,Small Business,2010-04-13,,True,B2B
+2540,2740,Anna Carpenter,Small Business,2011-02-10,,True,B2B
+2541,2741,Megan York,Small Business,2010-03-12,,True,B2B
+2542,2743,Erin Brandt Spivey,Corporate,2012-08-07,,True,B2B
+2543,2744,Danny Dalton,Corporate,2012-09-08,,True,B2B
+2544,2745,Arnold Gay,Corporate,2010-03-18,,True,B2B
+2545,2746,Laurence Greer,Corporate,2011-04-11,,True,B2B
+2546,2747,Brian Grady,Corporate,2010-02-05,,True,B2B
+2547,2749,Brooke Leach,Small Business,2013-08-14,,True,B2B
+2548,2750,Allen Nash,Small Business,2010-03-08,,True,B2B
+2549,2752,Marc S Liu,Consumer,2011-04-10,,True,B2C
+2550,2753,Jane Freeman,Consumer,2011-11-13,,True,B2C
+2551,2754,Dwight Hendricks,Consumer,2012-09-24,,True,B2C
+2552,2755,Patrick Womble,Consumer,2012-04-01,,True,B2C
+2553,2756,Ruth McConnell Young,Consumer,2011-11-13,,True,B2C
+2554,2758,April Flynn,Corporate,2013-09-19,,True,B2B
+2555,2759,Bob Randall,Corporate,2011-12-05,,True,B2B
+2556,2760,Evan Adkins,Corporate,2010-04-22,,True,B2B
+2557,2761,Alex Barry,Corporate,2011-01-31,,True,B2B
+2558,2762,Marianne Kane,Corporate,2013-12-05,,True,B2B
+2559,2763,Ernest Sykes Montgomery,Corporate,2011-01-31,,True,B2B
+2560,2764,Arnold Johnson,Corporate,2010-04-22,,True,B2B
+2561,2765,Tracy Schultz,Corporate,2010-05-28,,True,B2B
+2562,2766,Alex Tate,Corporate,2011-12-05,,True,B2B
+2563,2767,Phyllis Cohen,Corporate,2013-05-23,,True,B2B
+2564,2769,Melanie Barker Hirsch,Corporate,2012-07-23,2012-09-11,False,
+2565,2769,Melanie Barker Hirsch,Home Office,2012-09-12,,True,B2C
+2566,2770,Joel Burnette,Corporate,2010-09-08,2011-08-11,False,
+2567,2770,Joel Burnette,Home Office,2011-08-12,,True,B2C
+2568,2771,Kevin Wolfe,Corporate,2010-06-13,2012-03-26,False,
+2569,2771,Kevin Wolfe,Home Office,2012-03-27,,True,B2C
+2570,2773,Christina Zhu,Corporate,2010-03-26,,True,B2B
+2571,2775,Theodore Rubin,Consumer,2010-01-30,,True,B2C
+2572,2776,April Henson,Consumer,2010-01-12,,True,B2C
+2573,2778,Alison Jones,Consumer,2010-02-11,,True,B2C
+2574,2779,Jacob Burgess,Consumer,2012-01-13,,True,B2C
+2575,2779,Jacob Burgess,Corporate,2010-06-11,2012-01-12,False,
+2576,2780,Gregory Strickland,Consumer,2013-06-07,,True,B2C
+2577,2780,Gregory Strickland,Corporate,2011-06-23,2013-06-06,False,
+2578,2781,Kelly Byers,Consumer,2010-07-31,2011-06-22,False,
+2579,2781,Kelly Byers,Corporate,2011-06-23,,True,B2B
+2580,2783,Caroline Duffy,Corporate,2011-10-23,,True,B2B
+2581,2784,Rebecca Abrams,Corporate,2011-08-24,,True,B2B
+2582,2785,George Shields,Corporate,2011-03-30,,True,B2B
+2583,2787,Rodney Kearney,Consumer,2010-03-12,,True,B2C
+2584,2788,Lucille Zhao,Consumer,2011-07-24,,True,B2C
+2585,2790,Glen Green,Corporate,2013-09-13,,True,B2B
+2586,2791,Dawn Larson,Corporate,2010-07-15,,True,B2B
+2587,2792,Emma Copeland,Corporate,2011-01-20,,True,B2B
+2588,2794,Connie Bunn,Consumer,2012-01-22,,True,B2C
+2589,2794,Connie Bunn,Corporate,2010-03-20,2012-01-21,False,
+2590,2795,Harry Burns,Consumer,2013-04-27,,True,B2C
+2591,2795,Harry Burns,Corporate,2010-07-26,2013-04-26,False,
+2592,2796,Cindy McLeod,Corporate,2010-01-21,,True,B2B
+2593,2797,Cameron Kendall,Consumer,2010-01-10,2010-01-20,False,
+2594,2797,Cameron Kendall,Corporate,2010-01-21,,True,B2B
+2595,2799,Gilbert Vogel,Small Business,2011-11-04,,True,B2B
+2596,2801,Jimmy Wang,Home Office,2010-06-28,,True,B2C
+2597,2803,Catherine Dorsey Burnett,Small Business,2010-02-05,,True,B2B
+2598,2804,Clifford Moran,Small Business,2013-07-16,,True,B2B
+2599,2805,Brandon Boyer,Small Business,2012-04-29,,True,B2B
+2600,2806,Elisabeth Hatcher,Small Business,2012-04-29,,True,B2B
+2601,2807,Ross Beard,Small Business,2011-07-16,,True,B2B
+2602,2808,Harvey Berman,Small Business,2013-07-16,,True,B2B
+2603,2809,David Gallagher,Small Business,2011-10-30,,True,B2B
+2604,2810,Caroline Gibson,Small Business,2011-10-30,,True,B2B
+2605,2812,Amy Boyd,Corporate,2012-06-08,,True,B2B
+2606,2813,Marjorie Burnette,Corporate,2010-02-07,,True,B2B
+2607,2815,Tammy Preston,Corporate,2012-01-29,,True,B2B
+2608,2816,Bernard Herman,Corporate,2011-04-28,,True,B2B
+2609,2817,Paul W French,Corporate,2010-06-01,,True,B2B
+2610,2819,Marguerite Howell,Home Office,2013-01-05,,True,B2C
+2611,2820,Laurence Simon,Home Office,2010-05-10,,True,B2C
+2612,2822,Rosemary Howell,Corporate,2011-10-03,,True,B2B
+2613,2823,Max Hurley,Corporate,2010-04-30,,True,B2B
+2614,2825,Carole Rosen,Consumer,2010-11-20,,True,B2C
+2615,2827,Edith McDaniel,Corporate,2011-05-24,,True,B2B
+2616,2828,Monica Howard,Corporate,2010-02-19,,True,B2B
+2617,2830,Christine Carver,Home Office,2011-02-20,,True,B2C
+2618,2831,Mike Strauss,Home Office,2012-05-27,,True,B2C
+2619,2833,Tim Connolly,Small Business,2010-09-25,,True,B2B
+2620,2834,Maria Russell,Small Business,2011-06-19,,True,B2B
+2621,2835,Jeremy Reilly,Small Business,2011-11-27,,True,B2B
+2622,2837,Leslie Hawley,Home Office,2010-03-08,,True,B2C
+2623,2838,John Ellington,Home Office,2012-06-29,,True,B2C
+2624,2840,Bob Berg,Corporate,2010-09-19,,True,B2B
+2625,2841,Melanie Cooper,Corporate,2011-07-19,,True,B2B
+2626,2842,Jason Hernandez,Corporate,2011-03-27,,True,B2B
+2627,2843,Robin Bradford,Corporate,2011-03-27,,True,B2B
+2628,2844,Jack Howard,Corporate,2013-01-24,,True,B2B
+2629,2846,Jennifer Marks,Corporate,2011-03-10,,True,B2B
+2630,2847,Vanessa Day,Corporate,2010-04-09,,True,B2B
+2631,2848,Eileen Dalton,Corporate,2010-12-06,,True,B2B
+2632,2850,Penny Davenport,Consumer,2011-06-01,,True,B2C
+2633,2851,Annie Sherrill,Consumer,2010-04-09,,True,B2C
+2634,2853,Linda Franklin,Consumer,2011-01-12,2013-04-13,False,
+2635,2853,Linda Franklin,Corporate,2013-04-14,,True,B2B
+2636,2854,Brian Norman,Consumer,2012-03-03,2012-08-16,False,
+2637,2854,Brian Norman,Corporate,2012-08-17,,True,B2B
+2638,2855,Vicki Womble,Consumer,2010-03-10,,True,B2C
+2639,2855,Vicki Womble,Corporate,2010-01-21,2010-03-09,False,
+2640,2856,Mary Henson,Consumer,2013-02-01,,True,B2C
+2641,2858,Jerry Webster,Corporate,2010-05-17,,True,B2B
+2642,2859,Brad H Blake,Corporate,2010-10-01,,True,B2B
+2643,2860,Joann Mullen,Corporate,2011-11-24,,True,B2B
+2644,2861,Dwight Robinson,Corporate,2010-08-28,,True,B2B
+2645,2862,Carrie High,Corporate,2010-04-11,,True,B2B
+2646,2864,Elsie Siegel,Corporate,2011-07-20,,True,B2B
+2647,2865,Roberta Mitchell,Corporate,2010-02-23,,True,B2B
+2648,2866,Kent Medlin,Corporate,2011-11-27,,True,B2B
+2649,2867,Dana Teague,Corporate,2010-04-17,,True,B2B
+2650,2868,Eugene Clayton,Corporate,2010-01-08,,True,B2B
+2651,2869,Terri Hanson,Corporate,2012-10-31,,True,B2B
+2652,2870,Joyce Sumner,Corporate,2011-07-29,,True,B2B
+2653,2871,Tim Hicks,Corporate,2011-07-29,,True,B2B
+2654,2873,Benjamin Gunter,Home Office,2012-12-08,,True,B2C
+2655,2873,Benjamin Gunter,Small Business,2010-01-22,2012-12-07,False,
+2656,2874,Marian Willis,Home Office,2010-04-06,2012-12-19,False,
+2657,2874,Marian Willis,Small Business,2012-12-20,,True,B2B
+2658,2876,Lisa Roberson,Consumer,2013-04-09,,True,B2C
+2659,2877,Shannon Aldridge,Consumer,2010-03-02,,True,B2C
+2660,2878,Susan Carroll Berman,Consumer,2010-03-02,,True,B2C
+2661,2880,Grace Black,Small Business,2010-03-28,,True,B2B
+2662,2881,Linda Peacock,Small Business,2013-12-02,,True,B2B
+2663,2882,Andrew Gonzalez,Consumer,2010-02-20,2011-06-02,False,
+2664,2882,Andrew Gonzalez,Home Office,2011-06-03,,True,B2C
+2665,2883,Stuart Sharma,Consumer,2010-05-09,,True,B2C
+2666,2884,Stuart C Robinson,Consumer,2010-03-19,,True,B2C
+2667,2885,Gary Frazier,Consumer,2010-06-30,2011-06-02,False,
+2668,2885,Gary Frazier,Home Office,2011-06-03,,True,B2C
+2669,2886,Gretchen McKinney,Consumer,2010-02-20,,True,B2C
+2670,2887,Betsy Barr,Consumer,2012-11-18,,True,B2C
+2671,2889,Kimberly Melvin,Corporate,2011-06-15,,True,B2B
+2672,2890,Harry Berger,Consumer,2012-11-10,,True,B2C
+2673,2890,Harry Berger,Corporate,2011-06-15,2012-11-09,False,
+2674,2891,Amanda Wright,Consumer,2012-07-23,,True,B2C
+2675,2891,Amanda Wright,Corporate,2011-11-05,2012-07-22,False,
+2676,2892,Benjamin Porter,Consumer,2010-08-23,,True,B2C
+2677,2893,Kathryn Tate,Consumer,2010-08-23,2011-07-15,False,
+2678,2893,Kathryn Tate,Corporate,2013-05-29,,True,B2B
+2679,2893,Kathryn Tate,Small Business,2011-07-16,2013-05-28,False,
+2680,2894,James Li,Consumer,2011-02-26,2011-06-14,False,
+2681,2894,James Li,Corporate,2011-06-15,2012-07-31,False,
+2682,2894,James Li,Home Office,2012-08-01,,True,B2C
+2683,2896,Anna Ellis,Corporate,2013-05-31,,True,B2B
+2684,2896,Anna Ellis,Home Office,2010-01-22,2013-05-30,False,
+2685,2897,Betty Giles,Home Office,2010-02-13,,True,B2C
+2686,2899,Benjamin Harvey,Home Office,2012-05-19,,True,B2C
+2687,2900,Francis Edwards,Home Office,2011-01-18,,True,B2C
+2688,2901,Shawn E Craig,Home Office,2011-12-12,,True,B2C
+2689,2903,Frances Powers,Small Business,2010-06-25,,True,B2B
+2690,2905,Kelly Beatty,Home Office,2012-11-02,,True,B2C
+2691,2907,Pauline Stanley,Home Office,2013-09-15,,True,B2C
+2692,2908,Robyn Lyon,Corporate,2012-10-22,,True,B2B
+2693,2908,Robyn Lyon,Home Office,2010-01-08,2012-10-21,False,
+2694,2910,Tina Jiang,Home Office,2011-06-20,,True,B2C
+2695,2911,Tom Conway,Home Office,2012-01-10,,True,B2C
+2696,2912,Hannah Carver,Home Office,2010-04-28,,True,B2C
+2697,2913,Lucy Arthur,Home Office,2011-01-07,,True,B2C
+2698,2915,Vivian Hunt,Home Office,2011-07-15,,True,B2C
+2699,2916,Ashley Neal,Home Office,2011-11-04,,True,B2C
+2700,2917,Stanley Flowers,Home Office,2013-10-30,,True,B2C
+2701,2918,Larry Brock,Home Office,2011-08-07,,True,B2C
+2702,2919,Debra Simon,Home Office,2013-12-07,,True,B2C
+2703,2920,Ernest Peele,Home Office,2010-12-07,,True,B2C
+2704,2922,Carla Riley,Consumer,2011-01-14,,True,B2C
+2705,2923,Lynne Griffith,Consumer,2010-08-31,,True,B2C
+2706,2924,Courtney Nelson,Consumer,2010-01-16,,True,B2C
+2707,2926,Derek Tuttle,Consumer,2011-12-12,,True,B2C
+2708,2926,Derek Tuttle,Corporate,2011-03-17,2011-12-11,False,
+2709,2927,Christina Thompson,Consumer,2012-04-29,2013-10-08,False,
+2710,2927,Christina Thompson,Corporate,2013-10-09,,True,B2B
+2711,2928,Leslie Woodard,Consumer,2010-11-26,2011-12-25,False,
+2712,2928,Leslie Woodard,Corporate,2011-12-26,,True,B2B
+2713,2930,Oscar Hale,Small Business,2011-05-29,,True,B2B
+2714,2931,Faye Hanna,Corporate,2012-11-28,,True,B2B
+2715,2931,Faye Hanna,Small Business,2010-08-30,2012-11-27,False,
+2716,2932,Phyllis Hull,Small Business,2010-10-22,,True,B2B
+2717,2933,Eric Ferguson,Small Business,2012-05-27,,True,B2B
+2718,2934,Clifford Dale,Corporate,2012-07-27,,True,B2B
+2719,2935,Shirley Riley,Small Business,2010-05-11,,True,B2B
+2720,2936,Tonya Everett,Small Business,2013-05-11,,True,B2B
+2721,2937,Alexandra Pollard,Small Business,2012-05-27,,True,B2B
+2722,2938,Laurie Case Daniel,Small Business,2010-10-22,,True,B2B
+2723,2939,Annie Humphrey,Small Business,2011-07-31,,True,B2B
+2724,2940,Rhonda Lutz,Small Business,2011-07-31,,True,B2B
+2725,2941,Leah Pollock,Small Business,2010-05-26,,True,B2B
+2726,2942,Dennis Elmore,Small Business,2012-10-25,,True,B2B
+2727,2944,Elsie Lane,Corporate,2010-09-05,,True,B2B
+2728,2945,Benjamin Norman Rodgers,Corporate,2011-05-11,,True,B2B
+2729,2947,Kathy Turner,Consumer,2010-08-04,,True,B2C
+2730,2948,Jeanne Chandler,Consumer,2011-05-10,,True,B2C
+2731,2949,Joy Petty,Consumer,2011-11-29,,True,B2C
+2732,2951,Jordan Womble,Corporate,2010-08-15,,True,B2B
+2733,2952,Thelma Murray,Corporate,2010-10-15,,True,B2B
+2734,2954,William Sharma,Consumer,2010-12-18,,True,B2C
+2735,2955,James Levine,Consumer,2013-09-20,,True,B2C
+2736,2957,Francis I Davis,Corporate,2010-04-02,,True,B2B
+2737,2958,Ellen Sparks,Corporate,2010-09-23,,True,B2B
+2738,2960,Allan Dickinson,Corporate,2010-04-05,,True,B2B
+2739,2962,Leonard Strauss,Consumer,2010-05-07,,True,B2C
+2740,2963,Frances Johnson,Consumer,2010-06-22,,True,B2C
+2741,2964,Kathy Hinton,Consumer,2010-04-21,,True,B2C
+2742,2966,Ross McGee Stern,Small Business,2011-02-22,,True,B2B
+2743,2968,Miriam Bowman,Small Business,2010-08-22,,True,B2B
+2744,2969,Cameron Clapp,Small Business,2013-01-28,,True,B2B
+2745,2970,Francis Burch,Small Business,2012-09-30,,True,B2B
+2746,2972,Walter Herman Barr,Home Office,2012-08-19,,True,B2C
+2747,2973,Sally Liu,Home Office,2010-10-13,,True,B2C
+2748,2974,Tom Cox,Home Office,2013-11-20,,True,B2C
+2749,2976,Fred Barber,Small Business,2010-11-22,,True,B2B
+2750,2977,Juan Gilbert,Small Business,2011-10-09,,True,B2B
+2751,2979,Lloyd Dolan,Corporate,2010-01-27,,True,B2B
+2752,2980,Joanna Kenney,Corporate,2010-01-27,,True,B2B
+2753,2981,Rodney Horn Kirby,Corporate,2012-04-03,,True,B2B
+2754,2983,Mary Knowles,Corporate,2011-08-13,,True,B2B
+2755,2984,Kelly Burnette,Corporate,2011-02-28,,True,B2B
+2756,2985,Jane Whitehead,Corporate,2013-01-02,,True,B2B
+2757,2987,Natalie Watts,Home Office,2010-06-28,,True,B2C
+2758,2988,Johnny Cline,Home Office,2011-06-25,,True,B2C
+2759,2989,Kurt Perez,Home Office,2011-11-20,,True,B2C
+2760,2991,Sean Herbert,Home Office,2010-11-08,,True,B2C
+2761,2992,Lindsay Webb,Home Office,2010-11-08,,True,B2C
+2762,2994,Erik Moon,Small Business,2013-03-24,,True,B2B
+2763,2995,Carol T Pitts,Small Business,2012-05-28,,True,B2B
+2764,2996,Roberta Vincent Haas,Small Business,2013-05-30,,True,B2B
+2765,2998,Joyce Foster,Corporate,2012-01-09,,True,B2B
+2766,2999,Kim McCarthy,Consumer,2010-04-10,2011-11-11,False,
+2767,2999,Kim McCarthy,Corporate,2011-11-12,,True,B2B
+2768,3000,Priscilla Allen,Consumer,2010-07-26,2011-07-14,False,
+2769,3000,Priscilla Allen,Corporate,2011-07-15,,True,B2B
+2770,3001,Anthony Foley,Consumer,2010-09-17,2011-12-13,False,
+2771,3001,Anthony Foley,Corporate,2011-12-14,,True,B2B
+2772,3003,Roy Rouse,Home Office,2010-09-05,,True,B2C
+2773,3004,Maurice Everett,Corporate,2010-08-10,,True,B2B
+2774,3005,Teresa Watts,Corporate,2010-12-08,,True,B2B
+2775,3006,Thomas Spence,Corporate,2010-08-10,,True,B2B
+2776,3008,Penny Rich,Home Office,2010-09-06,,True,B2C
+2777,3009,Jeanne Schwarz,Home Office,2013-03-27,,True,B2C
+2778,3010,Sharon Hopkins,Corporate,2013-10-20,,True,B2B
+2779,3011,Tammy Raynor,Corporate,2010-05-28,,True,B2B
+2780,3012,Annie Livingston,Corporate,2010-10-28,,True,B2B
+2781,3013,Ronnie Pace,Corporate,2013-05-28,,True,B2B
+2782,3015,Julian Stallings,Corporate,2013-02-11,,True,B2B
+2783,3017,Melvin Benton,Corporate,2010-07-09,,True,B2B
+2784,3018,Emily Gibbons,Corporate,2011-03-24,,True,B2B
+2785,3019,Edwin Lang,Corporate,2012-10-10,,True,B2B
+2786,3020,Shannon Beasley,Corporate,2012-10-10,,True,B2B
+2787,3022,Patsy Langley,Corporate,2011-09-17,,True,B2B
+2788,3023,Evelyn Dougherty,Corporate,2013-01-30,,True,B2B
+2789,3025,Kent Hardy,Home Office,2012-04-05,,True,B2C
+2790,3026,Lewis Khan,Consumer,2011-05-17,2012-04-04,False,
+2791,3026,Lewis Khan,Home Office,2012-04-05,,True,B2C
+2792,3027,Brandon Gilliam,Consumer,2013-04-23,,True,B2C
+2793,3029,Edward Maxwell,Small Business,2012-12-03,,True,B2B
+2794,3030,Janice Woods,Small Business,2011-12-01,,True,B2B
+2795,3031,Jason Bell,Small Business,2012-03-30,,True,B2B
+2796,3032,Randy Lucas,Small Business,2013-12-28,,True,B2B
+2797,3034,Maxine O Wallace,Home Office,2013-01-20,,True,B2C
+2798,3035,Tina Evans,Home Office,2010-01-15,,True,B2C
+2799,3036,Edith Reynolds,Home Office,2010-07-16,,True,B2C
+2800,3038,Dana Blackburn,Corporate,2013-03-02,,True,B2B
+2801,3039,Anne Barnett,Corporate,2011-06-30,,True,B2B
+2802,3041,Carrie Duke,Corporate,2010-05-15,2011-06-27,False,
+2803,3041,Carrie Duke,Small Business,2011-06-28,,True,B2B
+2804,3042,Tara Gold,Corporate,2011-02-27,,True,B2B
+2805,3042,Tara Gold,Small Business,2010-02-04,2011-02-26,False,
+2806,3043,Ruby Horowitz,Corporate,2011-02-27,2011-04-14,False,
+2807,3043,Ruby Horowitz,Small Business,2011-04-15,,True,B2B
+2808,3044,Alfred F Dixon,Corporate,2012-03-15,,True,B2B
+2809,3045,Jordan Beard,Corporate,2011-10-06,,True,B2B
+2810,3045,Jordan Beard,Small Business,2010-12-06,2011-10-05,False,
+2811,3046,Andrew Pearce,Small Business,2010-08-12,,True,B2B
+2812,3048,Tracy G Starr,Corporate,2010-09-05,,True,B2B
+2813,3049,Robin Beatty,Corporate,2013-10-07,,True,B2B
+2814,3050,Elaine Welsh,Corporate,2012-09-14,,True,B2B
+2815,3051,Josephine Herbert,Corporate,2013-04-23,,True,B2B
+2816,3053,Robin Tyler,Corporate,2010-08-03,,True,B2B
+2817,3054,Alice Pittman,Corporate,2013-09-11,,True,B2B
+2818,3055,Molly Mueller,Corporate,2012-05-19,,True,B2B
+2819,3056,Bonnie Carver Huang,Corporate,2012-05-21,,True,B2B
+2820,3057,Marvin Washington,Corporate,2012-05-19,,True,B2B
+2821,3058,Russell Nichols,Corporate,2012-05-21,,True,B2B
+2822,3060,Craig Wong,Small Business,2012-08-09,,True,B2B
+2823,3062,Hilda Levine,Consumer,2013-04-25,,True,B2C
+2824,3063,Ann Steele,Consumer,2010-02-26,,True,B2C
+2825,3064,Clarence Crowder,Consumer,2010-07-14,,True,B2C
+2826,3066,Lee Fields,Consumer,2011-11-10,,True,B2C
+2827,3067,Carole Miller,Consumer,2010-09-02,,True,B2C
+2828,3068,Anne Heller,Consumer,2012-07-03,,True,B2C
+2829,3069,Tiffany Merrill,Consumer,2010-06-01,,True,B2C
+2830,3071,Catherine Casey,Corporate,2013-01-04,,True,B2B
+2831,3072,Kevin Rouse,Corporate,2013-01-04,,True,B2B
+2832,3073,Roger Hopkins,Corporate,2011-03-01,,True,B2B
+2833,3074,Theresa Stephens,Corporate,2011-02-26,,True,B2B
+2834,3075,Gordon Brandt,Corporate,2010-08-31,,True,B2B
+2835,3076,Peter Hardy,Consumer,2011-01-05,,True,B2C
+2836,3076,Peter Hardy,Small Business,2010-07-07,2011-01-04,False,
+2837,3077,Lynne Reid,Consumer,2011-08-01,,True,B2C
+2838,3077,Lynne Reid,Small Business,2010-05-07,2011-07-31,False,
+2839,3078,Kate McKenna,Consumer,2011-12-14,,True,B2C
+2840,3078,Kate McKenna,Small Business,2010-06-11,2011-12-13,False,
+2841,3079,Andrew Levine,Consumer,2011-01-05,,True,B2C
+2842,3079,Andrew Levine,Small Business,2010-05-07,2011-01-04,False,
+2843,3081,Constance Ivey,Home Office,2011-08-20,,True,B2C
+2844,3083,Louis Wells,Small Business,2012-07-18,,True,B2B
+2845,3084,Debbie Hsu,Small Business,2010-10-20,,True,B2B
+2846,3086,Ted Durham,Consumer,2010-11-18,,True,B2C
+2847,3087,Kevin Randall Briggs,Consumer,2012-01-01,,True,B2C
+2848,3089,Sandy Cannon,Corporate,2010-07-24,,True,B2B
+2849,3091,Norman Maxwell,Corporate,2012-05-28,,True,B2B
+2850,3092,Eric Dennis,Corporate,2011-07-27,,True,B2B
+2851,3094,Penny Golden,Consumer,2011-09-26,,True,B2C
+2852,3095,Milton Lindsay,Consumer,2010-01-19,,True,B2C
+2853,3096,Mike Howard,Consumer,2010-05-24,,True,B2C
+2854,3098,Lorraine Boykin,Consumer,2010-04-08,,True,B2C
+2855,3100,Gladys Holloway,Consumer,2010-09-25,,True,B2C
+2856,3101,John McAllister,Consumer,2012-07-30,,True,B2C
+2857,3102,Larry Arnold,Consumer,2011-10-23,,True,B2C
+2858,3103,Emma Bowles,Home Office,2012-04-11,,True,B2C
+2859,3104,Edith Pruitt,Home Office,2013-06-15,,True,B2C
+2860,3105,Lawrence Hester,Home Office,2010-09-20,,True,B2C
+2861,3106,Alexander O'Brien,Home Office,2010-09-20,,True,B2C
+2862,3108,Diana Schultz,Small Business,2011-09-22,,True,B2B
+2863,3109,Samuel Simmons,Small Business,2012-10-28,,True,B2B
+2864,3110,Ruby Bowling,Small Business,2011-06-05,,True,B2B
+2865,3112,Jill Young,Corporate,2011-11-09,,True,B2B
+2866,3113,Wayne English,Corporate,2010-11-17,,True,B2B
+2867,3114,Maureen Tanner,Corporate,2013-09-09,,True,B2B
+2868,3116,Justin Hull,Home Office,2011-01-08,,True,B2C
+2869,3118,Tony Woods,Corporate,2011-01-01,,True,B2B
+2870,3119,Jay Hubbard,Corporate,2010-06-30,,True,B2B
+2871,3120,Daniel Christian,Home Office,2010-06-14,,True,B2C
+2872,3121,Bob Dickens,Home Office,2012-02-01,,True,B2C
+2873,3123,Jamie Manning,Corporate,2013-09-16,,True,B2B
+2874,3123,Jamie Manning,Home Office,2010-07-07,2013-09-15,False,
+2875,3124,Neil Barbee,Corporate,2012-06-09,,True,B2B
+2876,3124,Neil Barbee,Home Office,2010-05-30,2012-06-08,False,
+2877,3125,Guy McDonald,Corporate,2011-05-07,,True,B2B
+2878,3125,Guy McDonald,Home Office,2010-01-05,2011-05-06,False,
+2879,3126,Jeffrey Strauss,Corporate,2013-04-15,,True,B2B
+2880,3126,Jeffrey Strauss,Home Office,2011-02-28,2013-04-14,False,
+2881,3128,Cathy Burgess,Corporate,2011-11-30,,True,B2B
+2882,3128,Cathy Burgess,Small Business,2010-12-25,2011-11-29,False,
+2883,3129,Ralph Fowler,Corporate,2012-03-25,2012-11-14,False,
+2884,3129,Ralph Fowler,Small Business,2012-11-15,,True,B2B
+2885,3131,Jonathan Reilly,Home Office,2013-02-14,,True,B2C
+2886,3132,Anita Kang,Corporate,2010-06-22,,True,B2B
+2887,3133,Kristine Singleton,Corporate,2010-01-16,,True,B2B
+2888,3134,Kara Wang,Corporate,2011-09-24,,True,B2B
+2889,3135,Vanessa Crowell,Corporate,2013-10-12,,True,B2B
+2890,3136,Lee Hancock,Consumer,2010-08-22,,True,B2C
+2891,3137,Alison Sharp,Corporate,2010-12-08,,True,B2B
+2892,3138,Herbert Donnelly Swanson,Corporate,2010-12-19,,True,B2B
+2893,3139,David Powell,Home Office,2010-11-02,,True,B2C
+2894,3141,Jerome McIntosh,Consumer,2010-12-01,,True,B2C
+2895,3142,Penny Holmes,Consumer,2012-05-03,,True,B2C
+2896,3143,Neil Song,Consumer,2010-03-24,,True,B2C
+2897,3145,Margaret Rogers,Corporate,2012-03-17,,True,B2B
+2898,3146,Maureen Stout,Corporate,2010-01-04,,True,B2B
+2899,3148,Leroy Field,Corporate,2010-01-14,,True,B2B
+2900,3149,Harriet Moore,Corporate,2010-01-14,,True,B2B
+2901,3151,Glenda Hunter,Corporate,2010-06-03,2010-08-27,False,
+2902,3151,Glenda Hunter,Home Office,2010-08-28,,True,B2C
+2903,3153,Martha Durham,Consumer,2011-01-25,2013-09-15,False,
+2904,3153,Martha Durham,Corporate,2013-09-16,,True,B2B
+2905,3154,Faye Manning,Consumer,2010-05-28,,True,B2C
+2906,3154,Faye Manning,Corporate,2010-01-26,2010-05-27,False,
+2907,3155,Julian Keith Mayer,Consumer,2010-10-19,,True,B2C
+2908,3155,Julian Keith Mayer,Corporate,2010-01-20,2010-10-18,False,
+2909,3156,Norman Ward,Consumer,2012-01-19,2012-07-17,False,
+2910,3156,Norman Ward,Corporate,2012-07-18,,True,B2B
+2911,3157,Bernard Boyette,Consumer,2012-01-19,,True,B2C
+2912,3159,Carl Branch,Corporate,2011-01-24,,True,B2B
+2913,3160,Nicole Lyons,Corporate,2013-01-24,,True,B2B
+2914,3162,Melvin Willis,Corporate,2012-06-17,,True,B2B
+2915,3163,Lorraine Lamb,Corporate,2011-02-10,,True,B2B
+2916,3165,Paul Wood,Corporate,2013-02-17,,True,B2B
+2917,3165,Paul Wood,Small Business,2013-01-23,2013-02-16,False,
+2918,3166,Marc Browning,Small Business,2013-01-23,,True,B2B
+2919,3167,Ray Silverman,Corporate,2010-06-19,2011-02-10,False,
+2920,3167,Ray Silverman,Small Business,2011-02-11,,True,B2B
+2921,3168,Nicholas Donnelly,Corporate,2013-04-13,,True,B2B
+2922,3168,Nicholas Donnelly,Small Business,2011-02-11,2013-04-12,False,
+2923,3169,Janice Boswell,Small Business,2010-04-13,,True,B2B
+2924,3170,Lawrence Haas,Corporate,2010-02-13,,True,B2B
+2925,3172,Gilbert Washington,Home Office,2012-05-20,,True,B2C
+2926,3173,Arthur G Griffith,Home Office,2013-02-14,,True,B2C
+2927,3174,Norman Douglas,Home Office,2013-02-14,,True,B2C
+2928,3176,Jackie McCullough,Consumer,2010-11-04,,True,B2C
+2929,3177,Laurie Petty,Consumer,2010-03-14,,True,B2C
+2930,3179,Marie Pittman,Corporate,2010-06-12,,True,B2B
+2931,3180,Brenda Cobb,Corporate,2013-08-07,,True,B2B
+2932,3181,Herbert Cline,Corporate,2011-11-13,,True,B2B
+2933,3183,Bruce H Burgess,Home Office,2011-03-07,,True,B2C
+2934,3184,Irene Conway,Home Office,2011-10-20,,True,B2C
+2935,3186,Dawn Langley Conrad,Consumer,2011-05-23,,True,B2C
+2936,3187,Sidney Gilliam,Consumer,2011-03-03,,True,B2C
+2937,3187,Sidney Gilliam,Small Business,2010-03-02,2011-03-02,False,
+2938,3188,Jane Clayton,Consumer,2011-05-23,2012-09-18,False,
+2939,3188,Jane Clayton,Home Office,2013-07-16,,True,B2C
+2940,3188,Jane Clayton,Small Business,2012-09-19,2013-07-15,False,
+2941,3190,Amy Jiang,Corporate,2012-07-15,,True,B2B
+2942,3191,Jenny Hawkins,Corporate,2010-03-18,,True,B2B
+2943,3192,Melanie Ray,Corporate,2012-05-22,,True,B2B
+2944,3194,Angela Rose,Consumer,2010-03-10,,True,B2C
+2945,3195,John House,Consumer,2011-06-15,,True,B2C
+2946,3196,Rick Foster Hawkins,Home Office,2010-08-02,,True,B2C
+2947,3197,Wallace Pugh,Home Office,2010-08-02,,True,B2C
+2948,3198,Debbie Tanner,Home Office,2011-10-07,,True,B2C
+2949,3200,Mary O Rich,Consumer,2012-01-22,,True,B2C
+2950,3201,Benjamin McGee,Consumer,2011-04-27,,True,B2C
+2951,3203,Martin Heath,Corporate,2011-07-28,,True,B2B
+2952,3205,Alvin Mullins,Consumer,2010-03-30,,True,B2C
+2953,3206,Dana Rankin,Consumer,2010-03-30,,True,B2C
+2954,3208,Jackie Wu,Corporate,2011-11-19,,True,B2B
+2955,3209,Elsie Floyd,Corporate,2010-12-28,,True,B2B
+2956,3211,Jonathan Crabtree,Corporate,2010-08-15,,True,B2B
+2957,3213,Mike Barry,Home Office,2013-07-29,,True,B2C
+2958,3214,James Fox,Home Office,2012-10-15,,True,B2C
+2959,3215,Russell Hsu O'Neill,Home Office,2013-10-02,,True,B2C
+2960,3217,Victor McAllister,Home Office,2013-08-18,,True,B2C
+2961,3218,Ricky Y Newman,Home Office,2012-06-20,,True,B2C
+2962,3220,Teresa B Schroeder,Consumer,2011-03-12,,True,B2C
+2963,3221,Sean Pugh,Consumer,2011-03-12,,True,B2C
+2964,3221,Sean Pugh,Corporate,2010-10-12,2011-03-11,False,
+2965,3222,Diane Lu,Corporate,2010-09-19,,True,B2B
+2966,3224,Claudia White,Small Business,2010-04-01,,True,B2B
+2967,3225,Robyn Crawford,Small Business,2010-01-14,,True,B2B
+2968,3226,Arthur Gold,Small Business,2010-01-14,,True,B2B
+2969,3228,Thomas Frazier,Consumer,2012-02-06,2013-09-12,False,
+2970,3228,Thomas Frazier,Small Business,2013-09-13,,True,B2B
+2971,3229,Sharon Kessler,Small Business,2010-07-21,,True,B2B
+2972,3230,Monica Stuart,Small Business,2010-07-21,,True,B2B
+2973,3231,Arthur Fleming,Small Business,2011-10-10,,True,B2B
+2974,3233,Zachary House,Consumer,2012-06-10,,True,B2C
+2975,3235,Aaron Davies Bruce,Home Office,2012-02-02,,True,B2C
+2976,3236,Heidi Best,Home Office,2011-03-05,,True,B2C
+2977,3238,Kathleen P Bloom,Corporate,2010-06-04,,True,B2B
+2978,3239,Kim Reese,Corporate,2012-05-07,,True,B2B
+2979,3241,Terri Link,Small Business,2011-09-21,,True,B2B
+2980,3242,Cynthia Gross,Small Business,2013-01-11,,True,B2B
+2981,3243,Marlene Phillips,Small Business,2010-06-10,,True,B2B
+2982,3244,Erica Pittman,Small Business,2012-11-18,,True,B2B
+2983,3245,Erica Cowan,Small Business,2012-12-22,,True,B2B
+2984,3246,Wanda Harris,Small Business,2010-10-01,,True,B2B
+2985,3247,Pamela Albright,Small Business,2011-05-09,,True,B2B
+2986,3248,Earl Donnelly,Corporate,2011-12-26,,True,B2B
+2987,3248,Earl Donnelly,Small Business,2010-05-07,2011-12-25,False,
+2988,3249,Nicole Goldstein,Corporate,2010-05-23,2012-03-01,False,
+2989,3249,Nicole Goldstein,Small Business,2012-03-02,,True,B2B
+2990,3250,Ian Gillespie,Small Business,2013-10-24,,True,B2B
+2991,3251,Peter Brooks,Corporate,2010-12-11,2011-10-23,False,
+2992,3251,Peter Brooks,Small Business,2011-10-24,,True,B2B
+2993,3252,Milton Harrell,Corporate,2010-12-11,,True,B2B
+2994,3252,Milton Harrell,Small Business,2010-03-30,2010-12-10,False,
+2995,3254,Ken Watson,Home Office,2011-08-04,,True,B2C
+2996,3255,Maureen Whitley,Home Office,2010-08-18,,True,B2C
+2997,3257,Sharon Marcus,Consumer,2010-05-26,,True,B2C
+2998,3258,Gretchen Best Wilkins,Consumer,2010-03-21,,True,B2C
+2999,3259,Donald Davies,Consumer,2011-07-03,,True,B2C
+3000,3261,Steven Long,Consumer,2010-06-25,,True,B2C
+3001,3262,Susan Boone,Consumer,2012-02-03,,True,B2C
+3002,3264,Becky Puckett,Corporate,2010-05-19,,True,B2B
+3003,3265,Glenn Morgan,Corporate,2011-05-25,,True,B2B
+3004,3266,Edgar Kumar,Corporate,2010-07-28,,True,B2B
+3005,3267,Neal Snow,Corporate,2012-06-28,,True,B2B
+3006,3268,Rita Coates Doyle,Corporate,2012-06-28,,True,B2B
+3007,3269,Billie Stern,Corporate,2010-07-28,,True,B2B
+3008,3270,Harry Dodson Walsh,Corporate,2011-05-25,,True,B2B
+3009,3272,Natalie Snow,Home Office,2011-10-04,,True,B2C
+3010,3273,Betty Cross,Home Office,2013-08-24,,True,B2C
+3011,3273,Betty Cross,Small Business,2012-02-10,2013-08-23,False,
+3012,3274,Monica May,Small Business,2012-10-30,,True,B2B
+3013,3275,Tamara Dickinson,Home Office,2010-03-21,2010-06-30,False,
+3014,3275,Tamara Dickinson,Small Business,2010-07-01,,True,B2B
+3015,3276,Tina Lynn Richmond,Home Office,2013-01-09,,True,B2C
+3016,3276,Tina Lynn Richmond,Small Business,2012-02-10,2013-01-08,False,
+3017,3277,Roger Howell,Small Business,2013-12-16,,True,B2B
+3018,3279,Ricky Allred,Home Office,2010-04-06,,True,B2C
+3019,3280,Sandra O'Neill Briggs,Home Office,2011-03-28,,True,B2C
+3020,3282,Josephine Foley,Consumer,2012-06-24,,True,B2C
+3021,3283,William Woodard,Corporate,2010-04-21,,True,B2B
+3022,3284,Michael Shaffer,Consumer,2012-03-12,,True,B2C
+3023,3284,Michael Shaffer,Corporate,2010-02-20,2012-03-11,False,
+3024,3285,Ricky Garner,Consumer,2010-01-06,2012-09-18,False,
+3025,3285,Ricky Garner,Corporate,2012-09-19,,True,B2B
+3026,3287,Mary Norman,Small Business,2010-05-25,,True,B2B
+3027,3288,Erica Burgess,Small Business,2012-06-10,,True,B2B
+3028,3289,Emily Britt,Corporate,2011-09-26,,True,B2B
+3029,3290,Dianne Han,Corporate,2012-09-02,,True,B2B
+3030,3291,Mary B Davies,Corporate,2012-12-30,,True,B2B
+3031,3292,Clarence Davis,Corporate,2012-03-04,,True,B2B
+3032,3293,Arthur Yu,Corporate,2011-09-26,,True,B2B
+3033,3294,Nina Perkins,Corporate,2013-04-12,,True,B2B
+3034,3295,Suzanne Zhu,Corporate,2012-01-24,,True,B2B
+3035,3296,Kara Kang,Corporate,2011-10-31,,True,B2B
+3036,3297,Paula Li,Corporate,2012-12-20,,True,B2B
+3037,3299,Stuart McLean,Consumer,2011-04-11,,True,B2C
+3038,3300,Todd Werner,Consumer,2013-11-19,,True,B2C
+3039,3302,Cathy Hutchinson,Home Office,2012-10-16,,True,B2C
+3040,3303,Carole Creech,Home Office,2010-07-07,,True,B2C
+3041,3304,Ronald Perry,Home Office,2011-02-06,,True,B2C
+3042,3306,Claire Warren,Small Business,2010-04-01,,True,B2B
+3043,3307,Edwin Blackburn,Small Business,2010-07-26,,True,B2B
+3044,3308,Rose Holloway,Small Business,2011-11-17,,True,B2B
+3045,3309,Edwin Chung,Small Business,2010-03-24,,True,B2B
+3046,3310,Tiffany Grossman Hardin,Small Business,2010-03-24,,True,B2B
+3047,3311,Jackie Flynn,Small Business,2010-07-26,,True,B2B
+3048,3312,Robyn Stanley,Small Business,2012-01-22,,True,B2B
+3049,3313,Frances Boykin,Small Business,2013-08-20,,True,B2B
+3050,3314,Billy Hale,Small Business,2010-07-26,,True,B2B
+3051,3315,Justin Gillespie,Small Business,2013-08-20,,True,B2B
+3052,3316,Kathleen Powers,Small Business,2012-01-22,,True,B2B
+3053,3317,Martin Mitchell,Small Business,2013-08-20,,True,B2B
+3054,3319,Marlene Davidson,Small Business,2010-11-21,,True,B2B
+3055,3320,Alicia Maynard,Small Business,2010-10-27,,True,B2B
+3056,3321,Tina Cameron,Small Business,2012-04-09,,True,B2B
+3057,3322,Yvonne Kenney,Small Business,2012-01-26,,True,B2B
+3058,3324,Leslie Jacobson,Consumer,2010-02-12,,True,B2C
+3059,3325,Diane Barr,Consumer,2010-06-24,,True,B2C
+3060,3327,Bob Gibson,Small Business,2010-03-06,,True,B2B
+3061,3328,Penny Kaufman,Small Business,2011-12-21,,True,B2B
+3062,3330,Clyde Fuller,Corporate,2011-06-19,,True,B2B
+3063,3331,Elisabeth Shaw,Corporate,2010-01-05,,True,B2B
+3064,3333,Marc Simon,Home Office,2012-01-03,,True,B2C
+3065,3334,Rose Abrams,Home Office,2012-07-15,,True,B2C
+3066,3335,Christopher Berman,Home Office,2013-09-24,,True,B2C
+3067,3337,Karl Goodwin,Consumer,2012-09-11,,True,B2C
+3068,3338,Constance Robertson,Consumer,2010-05-07,,True,B2C
+3069,3339,Lester Copeland,Consumer,2010-12-14,,True,B2C
+3070,3340,Phillip Blum,Consumer,2010-07-13,,True,B2C
+3071,3341,Harold Shapiro,Consumer,2012-12-08,,True,B2C
+3072,3342,Paul Tate,Home Office,2010-02-13,,True,B2C
+3073,3343,Herbert Liu,Home Office,2013-05-05,,True,B2C
+3074,3344,Jim Hinson,Home Office,2010-02-13,,True,B2C
+3075,3345,Luis Lang Rowe,Home Office,2011-09-06,,True,B2C
+3076,3347,Carrie McIntosh,Consumer,2010-01-06,,True,B2C
+3077,3348,Betty Melvin,Consumer,2013-03-06,,True,B2C
+3078,3350,Amy York,Small Business,2010-01-23,,True,B2B
+3079,3351,Nathan Wyatt,Small Business,2010-08-04,,True,B2B
+3080,3352,Jason Hill,Small Business,2011-01-11,,True,B2B
+3081,3354,Sara Faulkner,Corporate,2010-05-16,,True,B2B
+3082,3355,Glenda Simon,Corporate,2010-02-28,,True,B2B
+3083,3356,Richard Tan,Corporate,2010-05-04,,True,B2B
+3084,3358,Shannon McClure,Home Office,2012-11-26,,True,B2C
+3085,3359,Jeffrey Cheng,Home Office,2010-10-28,,True,B2C
+3086,3360,Daniel Huff,Home Office,2010-03-20,,True,B2C
+3087,3361,Oscar Kenney,Home Office,2010-03-20,,True,B2C
+3088,3363,Willie Snyder,Consumer,2011-04-23,,True,B2C
+3089,3364,Beth Brennan,Consumer,2012-03-08,,True,B2C
+3090,3366,Dana Boyle,Corporate,2012-07-28,,True,B2B
+3091,3366,Dana Boyle,Home Office,2010-05-24,2012-07-27,False,
+3092,3367,Renee McKenzie,Corporate,2011-10-04,,True,B2B
+3093,3367,Renee McKenzie,Home Office,2010-11-02,2011-10-03,False,
+3094,3368,Marian Alexander,Corporate,2012-09-28,,True,B2B
+3095,3368,Marian Alexander,Home Office,2012-01-11,2012-09-27,False,
+3096,3369,Stacy Byrne,Home Office,2010-02-12,,True,B2C
+3097,3371,Gregory Beasley,Home Office,2011-04-17,,True,B2C
+3098,3372,Eva Berger McBride,Home Office,2011-03-24,,True,B2C
+3099,3374,Jamie Ward,Consumer,2013-03-16,,True,B2C
+3100,3374,Jamie Ward,Corporate,2010-06-02,2010-06-28,False,
+3101,3374,Jamie Ward,Home Office,2010-06-29,2013-03-15,False,
+3102,3375,Jonathan Hong,Consumer,2012-08-17,,True,B2C
+3103,3375,Jonathan Hong,Home Office,2011-05-07,2012-08-16,False,
+3104,3376,Julie Willis,Home Office,2012-05-23,,True,B2C
+3105,3378,Ian Chu,Corporate,2013-07-25,,True,B2B
+3106,3379,Annette McIntyre,Corporate,2010-09-26,2010-10-24,False,
+3107,3379,Annette McIntyre,Home Office,2010-10-25,,True,B2C
+3108,3380,Eva Decker,Corporate,2012-09-19,,True,B2B
+3109,3380,Eva Decker,Home Office,2010-10-20,2012-09-18,False,
+3110,3381,Christopher Norton Patterson,Corporate,2010-03-23,2010-10-28,False,
+3111,3381,Christopher Norton Patterson,Home Office,2010-10-29,,True,B2C
+3112,3382,Jon Beasley,Corporate,2011-05-21,,True,B2B
+3113,3384,Eddie Morrison,Corporate,2011-05-24,,True,B2B
+3114,3385,Daniel Richmond,Corporate,2010-01-16,,True,B2B
+3115,3386,Carmen Elmore,Corporate,2010-11-03,,True,B2B
+3116,3388,Aaron Shaffer,Corporate,2010-11-11,,True,B2B
+3117,3389,Erica Nguyen,Corporate,2013-08-20,,True,B2B
+3118,3390,Anita Atkinson Davenport,Corporate,2012-04-18,,True,B2B
+3119,3391,Frederick Godwin,Corporate,2013-01-09,,True,B2B
+3120,3393,Irene Murphy,Consumer,2010-04-29,,True,B2C
+3121,3394,Julia Padgett,Consumer,2011-09-17,,True,B2C
+3122,3396,Stuart Wiley,Corporate,2012-08-07,2013-10-20,False,
+3123,3396,Stuart Wiley,Small Business,2013-10-21,,True,B2B
+3124,3397,Andrea Shaw,Corporate,2013-07-09,,True,B2B
+3125,3397,Andrea Shaw,Small Business,2010-06-07,2013-07-08,False,
+3126,3398,Marc McDaniel,Corporate,2011-05-07,2012-11-24,False,
+3127,3398,Marc McDaniel,Small Business,2012-11-25,,True,B2B
+3128,3399,Marvin Reid,Small Business,2010-03-29,,True,B2B
+3129,3400,Florence Gold,Corporate,2012-07-04,,True,B2B
+3130,3400,Florence Gold,Small Business,2010-10-04,2012-07-03,False,
+3131,3402,Frederick Cole,Consumer,2011-04-12,,True,B2C
+3132,3403,Tammy Buckley,Consumer,2010-02-08,,True,B2C

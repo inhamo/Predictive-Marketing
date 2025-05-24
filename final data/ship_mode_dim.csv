@@ -1,0 +1,4 @@
+ship_mode_id,ship_mode,total_revenue,no_of_orders,total_shipping_cost
+1,Delivery Truck,3626572.21,1215.0,57987.97
+2,Express Air,698095.11,1051.0,8899.36
+3,Regular Air,4524936.24,5258.0,53719.68

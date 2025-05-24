@@ -1,0 +1,1709 @@
+region_id,region,state_or_province,city,postal_code,total_revenue,total_customers,revenue_per_customer,total_orders,order_value,return_rate,avg_order_value
+1,Central,Illinois,Addison,60101,537.05,2,268.53,3,,0.0,179.02
+2,Central,Illinois,Alton,62002,4720.9,2,2360.45,5,,0.0,944.18
+3,Central,Illinois,Arlington Heights,60004,663.17,2,331.59,4,,0.0,165.79
+4,Central,Illinois,Aurora,60505,3319.2,1,3319.2,3,,0.0,1106.4
+5,Central,Illinois,Batavia,60510,2679.27,2,1339.64,5,,0.0,535.85
+6,Central,Illinois,Belleville,62223,2226.21,1,2226.21,3,,0.0,742.07
+7,Central,Illinois,Belvidere,61008,6378.08,1,6378.08,4,,0.0,1594.52
+8,Central,Illinois,Bloomington,61701,3251.21,1,3251.21,5,,0.0,650.24
+9,Central,Illinois,Bolingbrook,60440,849.37,2,424.69,3,,0.0,283.12
+10,Central,Illinois,Buffalo Grove,60089,3347.21,2,1673.61,7,,0.0,478.17
+11,Central,Illinois,Burbank,60459,1031.34,2,515.67,6,,0.0,171.89
+12,Central,Illinois,Calumet City,60409,6777.96,2,3388.98,6,,0.0,1129.66
+13,Central,Illinois,Carbondale,62901,9526.14,2,4763.07,6,,0.0,1587.69
+14,Central,Illinois,Carol Stream,60188,7375.24,1,7375.24,5,,0.0,1475.05
+15,Central,Illinois,Carpentersville,60110,13029.89,1,13029.89,4,,0.0,3257.47
+16,Central,Illinois,Champaign,61821,337.34,2,168.67,4,,0.0,84.34
+17,Central,Illinois,Chicago,60601,116500.78,2,58250.39,22,,18.18,5295.49
+18,Central,Illinois,Chicago,60603,3319.56,1,3319.56,3,,0.0,1106.52
+19,Central,Illinois,Chicago,60610,17183.08,1,17183.08,5,,0.0,3436.62
+20,Central,Illinois,Chicago,60611,14906.18,1,14906.18,5,,0.0,2981.24
+21,Central,Illinois,Chicago,60623,3028.25,2,1514.13,4,,0.0,757.06
+22,Central,Illinois,Chicago,60653,26837.62,1,26837.62,8,,0.0,3354.7
+23,Central,Illinois,Chicago,60699,46533.02,1,46533.02,7,,28.57,6647.57
+24,Central,Illinois,Collinsville,62234,1806.98,1,1806.98,5,,0.0,361.4
+25,Central,Illinois,Country Club Hills,60478,9449.66,2,4724.83,4,,0.0,2362.42
+26,Central,Illinois,Crystal Lake,60014,11041.33,1,11041.33,4,,0.0,2760.33
+27,Central,Illinois,Danville,61832,24838.27,1,24838.27,5,,0.0,4967.65
+28,Central,Illinois,Decatur,62521,8605.73,1,8605.73,3,,0.0,2868.58
+29,Central,Illinois,Des Plaines,60016,3789.4,2,1894.7,4,,0.0,947.35
+30,Central,Illinois,Downers Grove,60516,6341.37,2,3170.69,4,,0.0,1585.34
+31,Central,Illinois,East Saint Louis,62205,4372.82,2,2186.41,5,,0.0,874.56
+32,Central,Illinois,Elgin,60123,18385.76,2,9192.88,6,,0.0,3064.29
+33,Central,Illinois,Elk Grove Village,60007,14129.76,1,14129.76,4,,0.0,3532.44
+34,Central,Illinois,Elmhurst,60126,11661.48,1,11661.48,2,,0.0,5830.74
+35,Central,Illinois,Evanston,60201,443.65,1,443.65,1,,0.0,443.65
+36,Central,Illinois,Forest Park,60130,3509.45,1,3509.45,3,,0.0,1169.82
+37,Central,Illinois,Frankfort,60423,3397.84,1,3397.84,4,,0.0,849.46
+38,Central,Illinois,Franklin Park,60131,5255.94,2,2627.97,3,,0.0,1751.98
+39,Central,Illinois,Freeport,61032,3630.6,2,1815.3,5,,0.0,726.12
+40,Central,Illinois,Galesburg,61401,10213.96,1,10213.96,6,,0.0,1702.33
+41,Central,Illinois,Glen Ellyn,60137,4855.18,2,2427.59,3,,0.0,1618.39
+42,Central,Illinois,Glendale Heights,60139,11584.37,1,11584.37,6,,0.0,1930.73
+43,Central,Illinois,Glenview,60025,3095.09,2,1547.55,4,,0.0,773.77
+44,Central,Illinois,Granite City,62040,7506.22,1,7506.22,4,,0.0,1876.56
+45,Central,Illinois,Gurnee,60031,4675.55,2,2337.78,6,,0.0,779.26
+46,Central,Illinois,Hanover Park,60103,396.87,1,396.87,4,,0.0,99.22
+47,Central,Illinois,Highland Park,60035,2076.3,1,2076.3,5,,0.0,415.26
+48,Central,Illinois,Hoffman Estates,60194,807.5,1,807.5,2,,0.0,403.75
+49,Central,Illinois,Joliet,60432,1864.93,2,932.47,6,,0.0,310.82
+50,Central,Illinois,Kankakee,60901,5211.08,2,2605.54,7,,0.0,744.44
+51,Central,Illinois,Lake In The Hills,60102,1808.01,2,904.01,5,,0.0,361.6
+52,Central,Illinois,Lansing,60438,4560.91,2,2280.46,7,,0.0,651.56
+53,Central,Illinois,Lombard,60148,455.14,1,455.14,2,,0.0,227.57
+54,Central,Illinois,Melrose Park,60160,1228.13,1,1228.13,4,,0.0,307.03
+55,Central,Illinois,Moline,61265,1532.26,1,1532.26,3,,0.0,510.75
+56,Central,Illinois,Mount Prospect,60056,1468.41,2,734.21,3,,0.0,489.47
+57,Central,Illinois,Mundelein,60060,19460.88,1,19460.88,6,,0.0,3243.48
+58,Central,Illinois,Naperville,60540,3551.54,1,3551.54,2,,0.0,1775.77
+59,Central,Illinois,Normal,61761,5237.33,1,5237.33,4,,0.0,1309.33
+60,Central,Illinois,Northbrook,60062,4511.65,1,4511.65,3,,0.0,1503.88
+61,Central,Illinois,Oak Forest,60452,1597.6,3,532.53,6,,0.0,266.27
+62,Central,Illinois,Oak Lawn,60453,2799.03,1,2799.03,4,,0.0,699.76
+63,Central,Illinois,Oak Park,60302,1361.09,1,1361.09,2,,0.0,680.55
+64,Central,Illinois,Orland Park,60462,1967.49,2,983.75,3,,0.0,655.83
+65,Central,Illinois,Oswego,60543,6510.37,2,3255.19,5,,0.0,1302.07
+66,Central,Illinois,Palatine,60067,1970.26,1,1970.26,4,,0.0,492.57
+67,Central,Illinois,Park Ridge,60068,1492.64,2,746.32,4,,0.0,373.16
+68,Central,Illinois,Pekin,61554,4851.36,1,4851.36,5,,0.0,970.27
+69,Central,Illinois,Peoria,61604,7963.14,2,3981.57,6,,0.0,1327.19
+70,Central,Illinois,Plainfield,60544,6797.47,2,3398.74,7,,0.0,971.07
+71,Central,Illinois,Quincy,62301,919.5,2,459.75,6,,0.0,153.25
+72,Central,Illinois,Rock Island,61201,2595.42,2,1297.71,6,,0.0,432.57
+73,Central,Illinois,Rockford,61107,12320.76,3,4106.92,10,,0.0,1232.08
+74,Central,Illinois,Romeoville,60441,5304.14,3,1768.05,7,,0.0,757.73
+75,Central,Illinois,Saint Charles,60174,7120.92,2,3560.46,9,,0.0,791.21
+76,Central,Illinois,Schaumburg,60193,14099.16,2,7049.58,3,,0.0,4699.72
+77,Central,Illinois,Skokie,60076,5324.5,2,2662.25,4,,0.0,1331.13
+78,Central,Illinois,Springfield,62701,3419.67,2,1709.84,6,,0.0,569.95
+79,Central,Illinois,Streamwood,60107,1810.95,1,1810.95,7,,0.0,258.71
+80,Central,Illinois,Tinley Park,60477,8627.79,3,2875.93,7,,0.0,1232.54
+81,Central,Illinois,Urbana,61801,1788.8,3,596.27,6,,0.0,298.13
+82,Central,Illinois,Vernon Hills,60061,12980.55,1,12980.55,6,,0.0,2163.43
+83,Central,Illinois,Waukegan,60087,432.63,1,432.63,2,,0.0,216.32
+84,Central,Illinois,West Chicago,60185,5237.65,1,5237.65,2,,0.0,2618.83
+85,Central,Illinois,Wheaton,60187,180.66,1,180.66,1,,0.0,180.66
+86,Central,Illinois,Wheeling,60090,5855.07,2,2927.54,5,,0.0,1171.01
+87,Central,Illinois,Wilmette,60091,5994.37,1,5994.37,5,,0.0,1198.87
+88,Central,Illinois,Woodridge,60517,484.62,1,484.62,5,,0.0,96.92
+89,Central,Illinois,Woodstock,60098,5242.13,1,5242.13,2,,0.0,2621.07
+90,Central,Indiana,Anderson,46016,945.31,1,945.31,4,,0.0,236.33
+91,Central,Indiana,Bloomington,47401,1691.47,1,1691.47,2,,0.0,845.74
+92,Central,Indiana,Carmel,46032,4717.4,1,4717.4,1,,0.0,4717.4
+93,Central,Indiana,Columbus,47201,2533.57,1,2533.57,4,,0.0,633.39
+94,Central,Indiana,Crown Point,46307,1039.78,1,1039.78,5,,0.0,207.96
+95,Central,Indiana,East Chicago,46312,3757.93,2,1878.97,7,,0.0,536.85
+96,Central,Indiana,Elkhart,46514,835.35,1,835.35,2,,0.0,417.68
+97,Central,Indiana,Fort Wayne,46806,11126.51,1,11126.51,6,,0.0,1854.42
+98,Central,Indiana,Frankfort,46041,799.86,2,399.93,5,,0.0,159.97
+99,Central,Indiana,Gary,46404,16426.14,1,16426.14,3,,0.0,5475.38
+100,Central,Indiana,Granger,46530,743.48,1,743.48,5,,0.0,148.7
+101,Central,Indiana,Greenwood,46142,600.05,1,600.05,1,,0.0,600.05
+102,Central,Indiana,Hammond,46324,7114.33,1,7114.33,5,,0.0,1422.87
+103,Central,Indiana,Highland,46322,3907.62,2,1953.81,6,,0.0,651.27
+104,Central,Indiana,Hobart,46342,845.59,1,845.59,4,,0.0,211.4
+105,Central,Indiana,Indianapolis,46203,4697.93,3,1565.98,13,,0.0,361.38
+106,Central,Indiana,Jeffersonville,47130,10463.35,2,5231.68,6,,0.0,1743.89
+107,Central,Indiana,Kokomo,46901,5525.2,2,2762.6,8,,0.0,690.65
+108,Central,Indiana,La Porte,46350,1710.88,1,1710.88,4,,0.0,427.72
+109,Central,Indiana,Lafayette,47905,9643.15,3,3214.38,6,,0.0,1607.19
+110,Central,Indiana,Lawrence,46226,540.38,1,540.38,4,,0.0,135.1
+111,Central,Indiana,Marion,46952,11210.78,1,11210.78,5,,0.0,2242.16
+112,Central,Indiana,Merrillville,46410,4589.71,2,2294.86,3,,0.0,1529.9
+113,Central,Indiana,Michigan City,46360,5319.53,2,2659.77,4,,0.0,1329.88
+114,Central,Indiana,Mishawaka,46544,7502.92,1,7502.92,3,,0.0,2500.97
+115,Central,Indiana,Muncie,47302,4341.98,1,4341.98,2,,0.0,2170.99
+116,Central,Indiana,Munster,46321,4621.58,3,1540.53,7,,0.0,660.23
+117,Central,Indiana,New Albany,47150,3468.75,2,1734.38,5,,0.0,693.75
+118,Central,Indiana,New Castle,47362,2696.76,1,2696.76,4,,0.0,674.19
+119,Central,Indiana,Noblesville,46060,4692.42,1,4692.42,2,,0.0,2346.21
+120,Central,Indiana,Portage,46368,3201.0,1,3201.0,4,,0.0,800.25
+121,Central,Indiana,Richmond,47374,12377.36,2,6188.68,7,,0.0,1768.19
+122,Central,Indiana,Schererville,46375,4891.26,1,4891.26,5,,0.0,978.25
+123,Central,Indiana,Seymour,47274,7295.07,1,7295.07,2,,0.0,3647.54
+124,Central,Indiana,South Bend,46614,495.18,1,495.18,3,,0.0,165.06
+125,Central,Indiana,Terre Haute,47802,842.1,1,842.1,2,,0.0,421.05
+126,Central,Indiana,Valparaiso,46383,5086.32,1,5086.32,5,,0.0,1017.26
+127,Central,Indiana,Vincennes,47591,12232.43,1,12232.43,5,,0.0,2446.49
+128,Central,Indiana,West Lafayette,47906,8224.35,1,8224.35,6,,0.0,1370.73
+129,Central,Iowa,Ames,50010,2201.45,2,1100.73,3,,0.0,733.82
+130,Central,Iowa,Ankeny,50021,422.14,1,422.14,3,,0.0,140.71
+131,Central,Iowa,Bettendorf,52722,2674.9,2,1337.45,5,,0.0,534.98
+132,Central,Iowa,Burlington,52601,4504.95,1,4504.95,4,,0.0,1126.24
+133,Central,Iowa,Cedar Falls,50613,292.08,1,292.08,4,,0.0,73.02
+134,Central,Iowa,Cedar Rapids,52402,3615.86,2,1807.93,5,,0.0,723.17
+135,Central,Iowa,Clinton,52732,1887.99,1,1887.99,5,,0.0,377.6
+136,Central,Iowa,Coralville,52241,1187.85,1,1187.85,4,,0.0,296.96
+137,Central,Iowa,Council Bluffs,51503,880.83,2,440.42,5,,0.0,176.17
+138,Central,Iowa,Davenport,52803,69.25,1,69.25,1,,0.0,69.25
+139,Central,Iowa,Des Moines,50315,4744.66,1,4744.66,4,,0.0,1186.17
+140,Central,Iowa,Dubuque,52001,2309.0,2,1154.5,5,,0.0,461.8
+141,Central,Iowa,Fort Dodge,50501,2861.03,1,2861.03,4,,0.0,715.26
+142,Central,Iowa,Iowa City,52240,2081.85,2,1040.93,4,,0.0,520.46
+143,Central,Iowa,Marion,52302,3298.6,1,3298.6,6,,0.0,549.77
+144,Central,Iowa,Marshalltown,50158,3800.05,2,1900.03,9,,0.0,422.23
+145,Central,Iowa,Mason City,50401,7830.91,2,3915.46,9,,0.0,870.1
+146,Central,Iowa,Muscatine,52761,1790.36,1,1790.36,5,,0.0,358.07
+147,Central,Iowa,Newton,50208,3066.08,2,1533.04,9,,0.0,340.68
+148,Central,Iowa,Ottumwa,52501,4161.75,2,2080.88,4,,0.0,1040.44
+149,Central,Iowa,Sioux City,51106,5458.09,2,2729.05,7,,0.0,779.73
+150,Central,Iowa,Urbandale,50322,19629.51,1,19629.51,5,,0.0,3925.9
+151,Central,Iowa,Waterloo,50701,5758.3,1,5758.3,3,,0.0,1919.43
+152,Central,Iowa,West Des Moines,50265,2579.51,2,1289.76,4,,0.0,644.88
+153,Central,Kansas,Derby,67037,412.92,2,206.46,2,,0.0,206.46
+154,Central,Kansas,Dodge City,67801,12162.87,1,12162.87,4,,0.0,3040.72
+155,Central,Kansas,Emporia,66801,3016.34,1,3016.34,6,,0.0,502.72
+156,Central,Kansas,Garden City,67846,3934.53,2,1967.27,3,,0.0,1311.51
+157,Central,Kansas,Hays,67601,22010.81,2,11005.41,10,,0.0,2201.08
+158,Central,Kansas,Hutchinson,67501,4427.47,1,4427.47,5,,0.0,885.49
+159,Central,Kansas,Kansas City,66104,3521.25,1,3521.25,4,,0.0,880.31
+160,Central,Kansas,Lawrence,66044,170.93,1,170.93,1,,0.0,170.93
+161,Central,Kansas,Leavenworth,66048,1465.82,1,1465.82,5,,0.0,293.16
+162,Central,Kansas,Leawood,66209,3778.38,3,1259.46,6,,0.0,629.73
+163,Central,Kansas,Lenexa,66215,805.97,1,805.97,3,,0.0,268.66
+164,Central,Kansas,Liberal,67901,17170.0,1,17170.0,4,,0.0,4292.5
+165,Central,Kansas,Manhattan,66502,4796.81,1,4796.81,4,,0.0,1199.2
+166,Central,Kansas,Newton,67114,3405.94,2,1702.97,3,,0.0,1135.31
+167,Central,Kansas,Olathe,66062,10667.61,3,3555.87,6,,0.0,1777.94
+168,Central,Kansas,Overland Park,66212,4283.8,2,2141.9,6,,0.0,713.97
+169,Central,Kansas,Pittsburg,66762,3291.59,1,3291.59,7,,0.0,470.23
+170,Central,Kansas,Prairie Village,66202,1114.82,2,557.41,5,,0.0,222.96
+171,Central,Kansas,Shawnee,66203,1521.97,2,760.99,3,,0.0,507.32
+172,Central,Kansas,Topeka,66614,1115.53,1,1115.53,6,,0.0,185.92
+173,Central,Kansas,Wichita,67212,5042.48,2,2521.24,4,,0.0,1260.62
+174,Central,Michigan,Adrian,49221,9212.08,1,9212.08,4,,0.0,2303.02
+175,Central,Michigan,Allen Park,48101,2112.75,2,1056.38,3,,0.0,704.25
+176,Central,Michigan,Ann Arbor,48104,3827.5,1,3827.5,5,,0.0,765.5
+177,Central,Michigan,Battle Creek,49017,2137.12,1,2137.12,4,,0.0,534.28
+178,Central,Michigan,Bay City,48708,7536.29,3,2512.1,8,,0.0,942.04
+179,Central,Michigan,Burton,48509,4965.94,1,4965.94,4,,0.0,1241.49
+180,Central,Michigan,Canton,48187,2336.0,1,2336.0,3,,0.0,778.67
+181,Central,Michigan,Clinton,49236,449.9,1,449.9,3,,0.0,149.97
+182,Central,Michigan,Dearborn,48126,1204.8,1,1204.8,3,,0.0,401.6
+183,Central,Michigan,Dearborn Heights,48127,2508.31,2,1254.16,6,,0.0,418.05
+184,Central,Michigan,Detroit,48138,16710.25,1,16710.25,7,,0.0,2387.18
+185,Central,Michigan,Detroit,48205,54190.08,1,54190.08,6,,16.67,9031.68
+186,Central,Michigan,Detroit,48227,26471.84,2,13235.92,9,,0.0,2941.32
+187,Central,Michigan,Detroit,48234,20117.62,1,20117.62,4,,0.0,5029.41
+188,Central,Michigan,East Lansing,48823,1226.82,1,1226.82,3,,0.0,408.94
+189,Central,Michigan,Eastpointe,48021,3091.09,2,1545.55,6,,0.0,515.18
+190,Central,Michigan,Farmington Hills,48336,2607.21,1,2607.21,2,,0.0,1303.61
+191,Central,Michigan,Flint,48505,3787.3,1,3787.3,3,,0.0,1262.43
+192,Central,Michigan,Garden City,48135,3902.85,2,1951.43,6,,0.0,650.48
+193,Central,Michigan,Grand Rapids,49505,1378.89,1,1378.89,6,,0.0,229.82
+194,Central,Michigan,Holland,49423,5129.09,2,2564.55,3,,0.0,1709.7
+195,Central,Michigan,Inkster,48141,1709.92,1,1709.92,4,,0.0,427.48
+196,Central,Michigan,Jackson,49201,12904.73,3,4301.58,6,,0.0,2150.79
+197,Central,Michigan,Kalamazoo,49001,1122.41,1,1122.41,3,,0.0,374.14
+198,Central,Michigan,Kentwood,49508,4851.98,1,4851.98,3,,0.0,1617.33
+199,Central,Michigan,Lansing,48911,557.65,1,557.65,4,,0.0,139.41
+200,Central,Michigan,Lincoln Park,48146,8671.36,1,8671.36,3,,0.0,2890.45
+201,Central,Michigan,Livonia,48154,5269.19,3,1756.4,3,,0.0,1756.4
+202,Central,Michigan,Madison Heights,48071,6300.7,2,3150.35,9,,0.0,700.08
+203,Central,Michigan,Midland,48640,4352.0,3,1450.67,9,,0.0,483.56
+204,Central,Michigan,Mount Pleasant,48858,391.29,2,195.65,6,,0.0,65.22
+205,Central,Michigan,Muskegon,49442,1451.39,1,1451.39,4,,0.0,362.85
+206,Central,Michigan,Novi,48375,680.86,2,340.43,3,,0.0,226.95
+207,Central,Michigan,Oak Park,48237,4047.3,1,4047.3,5,,0.0,809.46
+208,Central,Michigan,Owosso,48841,9073.96,2,4536.98,5,,0.0,1814.79
+209,Central,Michigan,Pontiac,48342,8927.78,1,8927.78,5,,0.0,1785.56
+210,Central,Michigan,Port Huron,48060,1691.36,2,845.68,6,,0.0,281.89
+211,Central,Michigan,Portage,49002,1515.52,1,1515.52,2,,0.0,757.76
+212,Central,Michigan,Redford,48239,1790.74,2,895.37,5,,0.0,358.15
+213,Central,Michigan,Rochester Hills,48307,2973.47,1,2973.47,3,,0.0,991.16
+214,Central,Michigan,Roseville,48066,9344.02,2,4672.01,4,,0.0,2336.01
+215,Central,Michigan,Royal Oak,48073,2655.07,1,2655.07,4,,0.0,663.77
+216,Central,Michigan,Saginaw,48601,1083.44,1,1083.44,4,,0.0,270.86
+217,Central,Michigan,Saint Clair Shores,48080,186.15,1,186.15,4,,0.0,46.54
+218,Central,Michigan,Sault Sainte Marie,49783,4080.55,1,4080.55,4,,0.0,1020.14
+219,Central,Michigan,Shelby,49455,325.13,2,162.57,2,,0.0,162.57
+220,Central,Michigan,Southfield,48034,3512.06,1,3512.06,2,,0.0,1756.03
+221,Central,Michigan,Southgate,48195,10266.49,3,3422.16,11,,0.0,933.32
+222,Central,Michigan,Sterling Heights,48310,5726.04,2,2863.02,7,,0.0,818.01
+223,Central,Michigan,Taylor,48180,2187.1,1,2187.1,2,,0.0,1093.55
+224,Central,Michigan,Trenton,48183,4287.74,2,2143.87,4,,0.0,1071.94
+225,Central,Michigan,Troy,48098,704.5,1,704.5,3,,0.0,234.83
+226,Central,Michigan,Walker,49534,6630.22,2,3315.11,3,,0.0,2210.07
+227,Central,Michigan,Warren,48093,12258.07,1,12258.07,3,,0.0,4086.02
+228,Central,Michigan,Waterford,48329,7.48,1,7.48,1,,0.0,7.48
+229,Central,Michigan,Westland,48185,1082.02,1,1082.02,2,,0.0,541.01
+230,Central,Michigan,Wyoming,49509,169.38,1,169.38,2,,0.0,84.69
+231,Central,Minnesota,Apple Valley,55124,5455.9,2,2727.95,6,,0.0,909.32
+232,Central,Minnesota,Blaine,55434,4894.42,2,2447.21,3,,0.0,1631.47
+233,Central,Minnesota,Bloomington,55420,12.36,1,12.36,1,,0.0,12.36
+234,Central,Minnesota,Brooklyn Center,55429,9960.7,1,9960.7,3,,0.0,3320.23
+235,Central,Minnesota,Brooklyn Park,55445,2876.44,1,2876.44,4,,0.0,719.11
+236,Central,Minnesota,Burnsville,55337,7695.09,2,3847.55,6,,0.0,1282.52
+237,Central,Minnesota,Coon Rapids,55433,2015.22,1,2015.22,4,,0.0,503.81
+238,Central,Minnesota,Cottage Grove,55016,3816.85,2,1908.43,6,,0.0,636.14
+239,Central,Minnesota,Duluth,55803,348.31,1,348.31,3,,0.0,116.1
+240,Central,Minnesota,Eagan,55122,1086.91,1,1086.91,4,,0.0,271.73
+241,Central,Minnesota,Eden Prairie,55343,3323.75,2,1661.88,6,,0.0,553.96
+242,Central,Minnesota,Edina,55410,254.9,2,127.45,4,,0.0,63.73
+243,Central,Minnesota,Fridley,55432,2698.8,2,1349.4,5,,0.0,539.76
+244,Central,Minnesota,Hopkins,55305,6511.25,2,3255.63,3,,0.0,2170.42
+245,Central,Minnesota,Inver Grove Heights,55076,15041.04,2,7520.52,3,,0.0,5013.68
+246,Central,Minnesota,Lakeville,55044,3871.57,1,3871.57,3,,0.0,1290.52
+247,Central,Minnesota,Lino Lakes,55014,3185.58,1,3185.58,5,,0.0,637.12
+248,Central,Minnesota,Mankato,56001,10532.3,2,5266.15,7,,0.0,1504.61
+249,Central,Minnesota,Maple Grove,55369,1298.38,1,1298.38,3,,0.0,432.79
+250,Central,Minnesota,Maplewood,55119,1775.8,1,1775.8,3,,0.0,591.93
+251,Central,Minnesota,Minneapolis,55407,832.11,3,277.37,5,,0.0,166.42
+252,Central,Minnesota,Minnetonka,55345,2637.64,1,2637.64,7,,0.0,376.81
+253,Central,Minnesota,Minnetonka Mills,55343,5294.86,2,2647.43,4,,0.0,1323.72
+254,Central,Minnesota,Moorhead,56560,1483.32,2,741.66,2,,0.0,741.66
+255,Central,Minnesota,Oakdale,55128,2276.6,1,2276.6,4,,0.0,569.15
+256,Central,Minnesota,Owatonna,55060,2669.0,1,2669.0,5,,0.0,533.8
+257,Central,Minnesota,Plymouth,55441,3389.79,1,3389.79,2,,0.0,1694.9
+258,Central,Minnesota,Prior Lake,55372,6896.93,5,1379.39,12,,0.0,574.74
+259,Central,Minnesota,Red Wing,55066,3877.05,2,1938.53,6,,0.0,646.18
+260,Central,Minnesota,Richfield,55423,3181.75,2,1590.88,4,,0.0,795.44
+261,Central,Minnesota,Rochester,55901,7944.06,1,7944.06,5,,0.0,1588.81
+262,Central,Minnesota,Roseville,55113,16693.42,3,5564.47,7,,0.0,2384.77
+263,Central,Minnesota,Saint Cloud,56301,1300.82,1,1300.82,3,,0.0,433.61
+264,Central,Minnesota,Saint Louis Park,55416,3508.77,1,3508.77,2,,0.0,1754.39
+265,Central,Minnesota,Saint Paul,55106,9100.19,1,9100.19,4,,0.0,2275.05
+266,Central,Minnesota,Savage,55378,4015.16,2,2007.58,5,,0.0,803.03
+267,Central,Minnesota,Shakopee,55379,2954.01,1,2954.01,3,,0.0,984.67
+268,Central,Minnesota,Shoreview,55126,9657.04,2,4828.52,7,,0.0,1379.58
+269,Central,Minnesota,Woodbury,55125,12498.61,2,6249.31,4,,0.0,3124.65
+270,Central,Missouri,Bridgeton,63044,1125.2,2,562.6,2,,0.0,562.6
+271,Central,Missouri,Clayton,63105,535.72,2,267.86,5,,0.0,107.14
+272,Central,Missouri,Columbia,65203,532.46,2,266.23,5,,0.0,106.49
+273,Central,Missouri,Creve Coeur,63141,4058.05,1,4058.05,7,,0.0,579.72
+274,Central,Missouri,Ferguson,63135,3200.53,1,3200.53,3,,0.0,1066.84
+275,Central,Missouri,Florissant,63031,439.58,1,439.58,1,,0.0,439.58
+276,Central,Missouri,Gladstone,64118,5605.98,1,5605.98,5,,0.0,1121.2
+277,Central,Missouri,Hazelwood,63042,1522.54,1,1522.54,5,,0.0,304.51
+278,Central,Missouri,Independence,64055,1138.19,2,569.1,5,,0.0,227.64
+279,Central,Missouri,Jefferson City,65109,10888.2,1,10888.2,2,,0.0,5444.1
+280,Central,Missouri,Joplin,64804,2309.63,1,2309.63,2,,0.0,1154.82
+281,Central,Missouri,Kansas City,64130,1831.43,1,1831.43,5,,0.0,366.29
+282,Central,Missouri,Kirkwood,63122,6380.42,1,6380.42,5,,0.0,1276.08
+283,Central,Missouri,Lees Summit,64064,165.16,1,165.16,2,,0.0,82.58
+284,Central,Missouri,Maryland Heights,63043,1948.44,1,1948.44,3,,0.0,649.48
+285,Central,Missouri,Mehlville,63129,19409.72,1,19409.72,5,,0.0,3881.94
+286,Central,Missouri,Oakville,63129,3871.11,2,1935.56,6,,0.0,645.19
+287,Central,Missouri,Overland,63114,2293.39,1,2293.39,2,,0.0,1146.7
+288,Central,Missouri,Ozark,65721,3865.17,2,1932.59,4,,0.0,966.29
+289,Central,Missouri,Raytown,64133,9183.03,1,9183.03,4,,0.0,2295.76
+290,Central,Missouri,Saint Charles,63301,247.65,1,247.65,1,,0.0,247.65
+291,Central,Missouri,Saint Joseph,64506,850.6,1,850.6,1,,0.0,850.6
+292,Central,Missouri,Saint Louis,63116,10193.83,1,10193.83,5,,0.0,2038.77
+293,Central,Missouri,Saint Peters,63376,1109.27,4,277.32,7,,0.0,158.47
+294,Central,Missouri,Springfield,65807,4240.55,1,4240.55,5,,0.0,848.11
+295,Central,Missouri,University City,63130,3578.1,3,1192.7,11,,0.0,325.28
+296,Central,Missouri,Webster Groves,63119,7882.04,2,3941.02,6,,0.0,1313.67
+297,Central,Missouri,Wentzville,63385,1856.89,2,928.45,3,,0.0,618.96
+298,Central,Nebraska,Bellevue,68005,1555.09,2,777.55,4,,0.0,388.77
+299,Central,Nebraska,Columbus,68601,2908.12,1,2908.12,5,,0.0,581.62
+300,Central,Nebraska,Fremont,68025,1378.75,1,1378.75,3,,0.0,459.58
+301,Central,Nebraska,Grand Island,68801,1515.46,1,1515.46,3,,0.0,505.15
+302,Central,Nebraska,Hastings,68901,190.84,2,95.42,4,,0.0,47.71
+303,Central,Nebraska,Kearney,68847,2962.39,1,2962.39,5,,0.0,592.48
+304,Central,Nebraska,La Vista,68128,7964.7,2,3982.35,6,,0.0,1327.45
+305,Central,Nebraska,Lincoln,68502,3749.18,2,1874.59,6,,0.0,624.86
+306,Central,Nebraska,Norfolk,68701,2349.54,1,2349.54,5,,0.0,469.91
+307,Central,Nebraska,North Platte,69101,4964.61,2,2482.31,4,,0.0,1241.15
+308,Central,Nebraska,Omaha,68046,2931.44,1,2931.44,4,,0.0,732.86
+309,Central,Nebraska,Omaha,68104,3166.05,1,3166.05,4,,0.0,791.51
+310,Central,Nebraska,Papillion,68046,4765.08,3,1588.36,6,,0.0,794.18
+311,Central,North Dakota,Bismarck,58501,3488.7,2,1744.35,5,,0.0,697.74
+312,Central,North Dakota,Dickinson,58601,317.12,1,317.12,3,,0.0,105.71
+313,Central,North Dakota,Fargo,58103,370.99,1,370.99,3,,0.0,123.66
+314,Central,North Dakota,Grand Forks,58201,4164.51,1,4164.51,2,,0.0,2082.26
+315,Central,North Dakota,Mandan,58554,6396.87,2,3198.44,5,,0.0,1279.37
+316,Central,North Dakota,Minot,58701,2504.25,2,1252.13,5,,0.0,500.85
+317,Central,Oklahoma,Altus,73521,1052.66,1,1052.66,3,,0.0,350.89
+318,Central,Oklahoma,Bartlesville,74006,3561.35,4,890.34,11,,0.0,323.76
+319,Central,Oklahoma,Broken Arrow,74012,2421.49,2,1210.75,2,,0.0,1210.75
+320,Central,Oklahoma,Edmond,73034,5738.45,1,5738.45,1,,0.0,5738.45
+321,Central,Oklahoma,Enid,73703,2475.36,1,2475.36,5,,0.0,495.07
+322,Central,Oklahoma,Lawton,73505,471.14,1,471.14,3,,0.0,157.05
+323,Central,Oklahoma,Midwest City,73110,1768.02,2,884.01,8,,0.0,221.0
+324,Central,Oklahoma,Moore,73160,1377.35,2,688.68,6,,0.0,229.56
+325,Central,Oklahoma,Muskogee,74403,355.92,1,355.92,3,,0.0,118.64
+326,Central,Oklahoma,Mustang,73064,3760.23,2,1880.12,7,,0.0,537.18
+327,Central,Oklahoma,Norman,73071,7219.03,1,7219.03,5,,0.0,1443.81
+328,Central,Oklahoma,Oklahoma City,73120,3171.49,1,3171.49,5,,0.0,634.3
+329,Central,Oklahoma,Owasso,74055,4041.79,2,2020.9,4,,0.0,1010.45
+330,Central,Oklahoma,Ponca City,74601,3468.94,2,1734.47,4,,0.0,867.24
+331,Central,Oklahoma,Shawnee,74801,5108.02,1,5108.02,4,,0.0,1277.01
+332,Central,Oklahoma,Stillwater,74074,15706.8,1,15706.8,4,,0.0,3926.7
+333,Central,Oklahoma,Tulsa,74133,3108.1,1,3108.1,4,,0.0,777.03
+334,Central,South Dakota,Aberdeen,57401,4990.23,1,4990.23,5,,0.0,998.05
+335,Central,South Dakota,Brookings,57006,7383.38,1,7383.38,5,,0.0,1476.68
+336,Central,South Dakota,Rapid City,57701,12570.47,1,12570.47,5,,0.0,2514.09
+337,Central,South Dakota,Sioux Falls,57103,1012.81,1,1012.81,6,,0.0,168.8
+338,Central,South Dakota,Watertown,57201,7551.34,1,7551.34,2,,0.0,3775.67
+339,Central,Texas,Abilene,79605,4074.96,1,4074.96,4,,0.0,1018.74
+340,Central,Texas,Allen,75002,1292.58,1,1292.58,4,,0.0,323.15
+341,Central,Texas,Amarillo,79109,2446.79,2,1223.4,4,,0.0,611.7
+342,Central,Texas,Arlington,76017,5363.62,1,5363.62,3,,0.0,1787.87
+343,Central,Texas,Austin,78745,2212.79,1,2212.79,4,,0.0,553.2
+344,Central,Texas,Baytown,77520,3390.9,1,3390.9,3,,0.0,1130.3
+345,Central,Texas,Beaumont,77705,652.64,1,652.64,6,,0.0,108.77
+346,Central,Texas,Bedford,76021,4539.75,1,4539.75,4,,0.0,1134.94
+347,Central,Texas,Brownsville,78521,1692.51,1,1692.51,6,,0.0,282.09
+348,Central,Texas,Bryan,77803,1010.64,1,1010.64,4,,0.0,252.66
+349,Central,Texas,Burleson,76028,4842.11,3,1614.04,5,,0.0,968.42
+350,Central,Texas,Carrollton,75007,9823.53,1,9823.53,5,,0.0,1964.71
+351,Central,Texas,Cedar Hill,75104,6557.37,1,6557.37,4,,0.0,1639.34
+352,Central,Texas,Cedar Park,78613,3673.42,2,1836.71,3,,0.0,1224.47
+353,Central,Texas,Channelview,77530,475.22,1,475.22,5,,0.0,95.04
+354,Central,Texas,Cleburne,76031,1875.06,2,937.53,2,,0.0,937.53
+355,Central,Texas,Cloverleaf,77015,1875.71,2,937.86,4,,0.0,468.93
+356,Central,Texas,College Station,77840,764.11,2,382.06,4,,0.0,191.03
+357,Central,Texas,Conroe,77301,2837.69,1,2837.69,5,,0.0,567.54
+358,Central,Texas,Coppell,75019,1398.12,2,699.06,5,,0.0,279.62
+359,Central,Texas,Corpus Christi,78415,1773.36,1,1773.36,3,,0.0,591.12
+360,Central,Texas,Corsicana,75109,17588.02,2,8794.01,4,,0.0,4397.01
+361,Central,Texas,Dallas,75081,22760.82,1,22760.82,4,,0.0,5690.21
+362,Central,Texas,Dallas,75203,30653.39,1,30653.39,5,,0.0,6130.68
+363,Central,Texas,Dallas,75217,2356.32,1,2356.32,3,,0.0,785.44
+364,Central,Texas,Dallas,75220,33043.03,1,33043.03,13,,30.77,2541.77
+365,Central,Texas,Deer Park,77536,5999.37,2,2999.69,4,,0.0,1499.84
+366,Central,Texas,Denton,76201,1368.73,1,1368.73,4,,0.0,342.18
+367,Central,Texas,Duncanville,75116,1580.14,1,1580.14,4,,0.0,395.04
+368,Central,Texas,Eagle Pass,78852,5084.98,1,5084.98,4,,0.0,1271.25
+369,Central,Texas,Edinburg,78539,78.44,2,39.22,3,,0.0,26.15
+370,Central,Texas,El Paso,79907,598.22,1,598.22,5,,0.0,119.64
+371,Central,Texas,Euless,76039,3044.79,1,3044.79,3,,0.0,1014.93
+372,Central,Texas,Farmers Branch,75234,2450.81,1,2450.81,4,,0.0,612.7
+373,Central,Texas,Flower Mound,75028,2494.79,1,2494.79,4,,0.0,623.7
+374,Central,Texas,Fort Worth,76106,789.22,2,394.61,5,,0.0,157.84
+375,Central,Texas,Friendswood,77546,2354.41,3,784.8,7,,0.0,336.34
+376,Central,Texas,Frisco,75034,790.87,1,790.87,3,,0.0,263.62
+377,Central,Texas,Gainesville,76240,409.06,2,204.53,3,,0.0,136.35
+378,Central,Texas,Garland,75043,82.7,1,82.7,2,,0.0,41.35
+379,Central,Texas,Georgetown,78626,580.92,1,580.92,3,,0.0,193.64
+380,Central,Texas,Grand Prairie,75051,4118.29,1,4118.29,3,,0.0,1372.76
+381,Central,Texas,Grapevine,76051,763.62,2,381.81,2,,0.0,381.81
+382,Central,Texas,Greenville,75401,14058.56,2,7029.28,3,,0.0,4686.19
+383,Central,Texas,Haltom City,76117,3239.43,1,3239.43,6,,0.0,539.91
+384,Central,Texas,Harker Heights,76543,1872.42,3,624.14,6,,0.0,312.07
+385,Central,Texas,Harlingen,78550,2979.24,1,2979.24,3,,0.0,993.08
+386,Central,Texas,Highland Village,75067,808.55,1,808.55,4,,0.0,202.14
+387,Central,Texas,Houston,77036,12912.77,2,6456.39,4,,0.0,3228.19
+388,Central,Texas,Houston,77041,17777.01,1,17777.01,4,,0.0,4444.25
+389,Central,Texas,Houston,77070,70031.33,2,35015.67,12,,25.0,5835.94
+390,Central,Texas,Houston,77095,18316.58,1,18316.58,5,,20.0,3663.32
+391,Central,Texas,Huntsville,77340,2609.16,2,1304.58,4,,0.0,652.29
+392,Central,Texas,Hurst,76053,5708.23,2,2854.12,5,,0.0,1141.65
+393,Central,Texas,Irving,75061,3557.57,1,3557.57,5,,0.0,711.51
+394,Central,Texas,Keller,76248,5693.29,1,5693.29,3,,0.0,1897.76
+395,Central,Texas,Killeen,76541,2210.84,1,2210.84,5,,0.0,442.17
+396,Central,Texas,Kingsville,78363,5233.73,1,5233.73,3,,0.0,1744.58
+397,Central,Texas,La Porte,77571,355.92,1,355.92,2,,0.0,177.96
+398,Central,Texas,Lake Jackson,77566,11867.52,2,5933.76,5,,0.0,2373.5
+399,Central,Texas,Lancaster,75146,1632.92,1,1632.92,6,,0.0,272.15
+400,Central,Texas,Laredo,78041,6790.61,1,6790.61,6,,0.0,1131.77
+401,Central,Texas,League City,77573,523.89,2,261.95,3,,0.0,174.63
+402,Central,Texas,Leander,78641,2709.12,2,1354.56,4,,0.0,677.28
+403,Central,Texas,Lewisville,75057,2477.63,2,1238.82,3,,0.0,825.88
+404,Central,Texas,Longview,75601,523.5,1,523.5,2,,0.0,261.75
+405,Central,Texas,Lubbock,79424,3045.88,1,3045.88,6,,0.0,507.65
+406,Central,Texas,Lufkin,75901,2214.46,1,2214.46,5,,0.0,442.89
+407,Central,Texas,Mansfield,76063,3510.72,2,1755.36,5,,0.0,702.14
+408,Central,Texas,Mcallen,78501,664.07,1,664.07,4,,0.0,166.02
+409,Central,Texas,Mesquite,75150,7081.42,2,3540.71,6,,0.0,1180.24
+410,Central,Texas,Midland,79701,1033.57,2,516.79,6,,0.0,172.26
+411,Central,Texas,Mineral Wells,76067,3873.87,1,3873.87,4,,0.0,968.47
+412,Central,Texas,Missouri City,77489,2334.17,1,2334.17,3,,0.0,778.06
+413,Central,Texas,Odessa,79762,3380.68,2,1690.34,3,,0.0,1126.89
+414,Central,Texas,Paris,75460,5578.64,1,5578.64,4,,0.0,1394.66
+415,Central,Texas,Pasadena,77506,4781.4,2,2390.7,4,,0.0,1195.35
+416,Central,Texas,Pearland,77581,30.77,1,30.77,2,,0.0,15.39
+417,Central,Texas,Pflugerville,78660,7062.16,2,3531.08,4,,0.0,1765.54
+418,Central,Texas,Pharr,78577,2620.67,2,1310.34,6,,0.0,436.78
+419,Central,Texas,Plainview,79072,1629.17,1,1629.17,5,,0.0,325.83
+420,Central,Texas,Plano,75023,1064.25,2,532.13,4,,0.0,266.06
+421,Central,Texas,Port Arthur,77642,4238.85,2,2119.43,5,,0.0,847.77
+422,Central,Texas,Richardson,75080,282.98,1,282.98,2,,0.0,141.49
+423,Central,Texas,Rosenberg,77471,3420.36,1,3420.36,5,,0.0,684.07
+424,Central,Texas,Round Rock,78664,918.43,1,918.43,4,,0.0,229.61
+425,Central,Texas,Rowlett,75088,2819.52,2,1409.76,5,,0.0,563.9
+426,Central,Texas,Saginaw,76131,704.58,2,352.29,3,,0.0,234.86
+427,Central,Texas,San Angelo,76903,82.7,1,82.7,2,,0.0,41.35
+428,Central,Texas,San Antonio,78207,3526.4,2,1763.2,4,,0.0,881.6
+429,Central,Texas,San Juan,78589,7566.98,2,3783.49,4,,0.0,1891.75
+430,Central,Texas,San Marcos,78666,573.8,2,286.9,6,,0.0,95.63
+431,Central,Texas,Seguin,78155,7826.89,1,7826.89,4,,0.0,1956.72
+432,Central,Texas,Sherman,75090,1351.81,1,1351.81,3,,0.0,450.6
+433,Central,Texas,Spring,77373,2665.43,2,1332.72,4,,0.0,666.36
+434,Central,Texas,Sugar Land,77478,512.45,1,512.45,1,,0.0,512.45
+435,Central,Texas,Sulphur Springs,75482,4801.85,3,1600.62,11,,0.0,436.53
+436,Central,Texas,Texarkana,75503,6948.93,1,6948.93,5,,0.0,1389.79
+437,Central,Texas,Texas City,77590,3569.93,1,3569.93,3,,0.0,1189.98
+438,Central,Texas,The Colony,75056,1692.33,1,1692.33,3,,0.0,564.11
+439,Central,Texas,The Woodlands,77381,2032.5,1,2032.5,2,,0.0,1016.25
+440,Central,Texas,Tyler,75701,12497.68,1,12497.68,2,,0.0,6248.84
+441,Central,Texas,Victoria,77901,423.88,1,423.88,4,,0.0,105.97
+442,Central,Texas,Waco,76706,4281.31,1,4281.31,6,,0.0,713.55
+443,Central,Texas,Watauga,76148,2721.74,1,2721.74,5,,0.0,544.35
+444,Central,Texas,Waxahachie,75165,9961.65,2,4980.83,4,,0.0,2490.41
+445,Central,Texas,Weatherford,76086,1429.48,2,714.74,6,,0.0,238.25
+446,Central,Texas,Weslaco,78596,7139.77,2,3569.89,7,,0.0,1019.97
+447,Central,Texas,Wichita Falls,76308,1686.58,2,843.29,4,,0.0,421.65
+448,Central,Texas,Wylie,75098,1548.98,2,774.49,4,,0.0,387.25
+449,Central,Wisconsin,Appleton,54915,5532.43,2,2766.22,5,,0.0,1106.49
+450,Central,Wisconsin,Brookfield,53005,310.11,2,155.06,2,,0.0,155.06
+451,Central,Wisconsin,Cudahy,53110,4252.76,1,4252.76,2,,0.0,2126.38
+452,Central,Wisconsin,Eau Claire,54703,1996.68,1,1996.68,3,,0.0,665.56
+453,Central,Wisconsin,Fitchburg,53713,1694.18,1,1694.18,5,,0.0,338.84
+454,Central,Wisconsin,Franklin,53132,16259.34,2,8129.67,3,,0.0,5419.78
+455,Central,Wisconsin,Green Bay,54302,3406.89,1,3406.89,5,,0.0,681.38
+456,Central,Wisconsin,Greenfield,53220,873.54,1,873.54,4,,0.0,218.39
+457,Central,Wisconsin,Janesville,53545,3271.38,2,1635.69,5,,0.0,654.28
+458,Central,Wisconsin,Kenosha,53142,708.32,2,354.16,3,,0.0,236.11
+459,Central,Wisconsin,La Crosse,54601,1329.9,1,1329.9,2,,0.0,664.95
+460,Central,Wisconsin,Madison,53711,9071.44,1,9071.44,5,,0.0,1814.29
+461,Central,Wisconsin,Manitowoc,54220,1465.74,2,732.87,5,,0.0,293.15
+462,Central,Wisconsin,Menomonee Falls,53051,4863.12,1,4863.12,3,,0.0,1621.04
+463,Central,Wisconsin,Milwaukee,53209,5360.09,2,2680.05,6,,0.0,893.35
+464,Central,Wisconsin,Muskego,53150,2882.1,4,720.53,9,,0.0,320.23
+465,Central,Wisconsin,Neenah,54956,649.17,2,324.59,5,,0.0,129.83
+466,Central,Wisconsin,New Berlin,53151,5658.73,1,5658.73,4,,0.0,1414.68
+467,Central,Wisconsin,Oak Creek,53154,4100.16,2,2050.08,3,,0.0,1366.72
+468,Central,Wisconsin,Oshkosh,54901,15152.74,1,15152.74,4,,0.0,3788.19
+469,Central,Wisconsin,Racine,53402,11365.38,1,11365.38,2,,0.0,5682.69
+470,Central,Wisconsin,Sheboygan,53081,270.24,2,135.12,3,,0.0,90.08
+471,Central,Wisconsin,Stevens Point,54481,462.6,1,462.6,4,,0.0,115.65
+472,Central,Wisconsin,Sun Prairie,53590,13875.83,2,6937.92,5,,0.0,2775.17
+473,Central,Wisconsin,Superior,54880,2009.06,1,2009.06,3,,0.0,669.69
+474,Central,Wisconsin,Watertown,53094,7102.05,2,3551.03,6,,0.0,1183.68
+475,Central,Wisconsin,Waukesha,53186,1233.06,1,1233.06,3,,0.0,411.02
+476,Central,Wisconsin,Wausau,54401,1211.33,2,605.67,5,,0.0,242.27
+477,Central,Wisconsin,Wauwatosa,53213,11797.76,1,11797.76,4,,0.0,2949.44
+478,Central,Wisconsin,West Allis,53214,4861.25,1,4861.25,2,,0.0,2430.63
+479,Central,Wisconsin,West Bend,53095,5332.96,1,5332.96,4,,0.0,1333.24
+480,East,Connecticut,Ansonia,6401,287.95,1,287.95,1,,0.0,287.95
+481,East,Connecticut,Branford,6405,36.3,1,36.3,1,,0.0,36.3
+482,East,Connecticut,Bridgeport,6607,685.65,1,685.65,1,,0.0,685.65
+483,East,Connecticut,Bristol,6010,2121.44,6,353.57,6,,0.0,353.57
+484,East,Connecticut,Cheshire,6408,465.71,2,232.86,2,,0.0,232.86
+485,East,Connecticut,Colchester,6415,584.62,3,194.87,3,,0.0,194.87
+486,East,Connecticut,Danbury,6810,563.04,1,563.04,1,,0.0,563.04
+487,East,Connecticut,Darien,6820,285.89,1,285.89,1,,0.0,285.89
+488,East,Connecticut,East Hartford,6108,5508.2,2,2754.1,2,,0.0,2754.1
+489,East,Connecticut,East Haven,6512,2352.82,2,1176.41,2,,0.0,1176.41
+490,East,Connecticut,Fairfield,6824,55.6,1,55.6,1,,0.0,55.6
+491,East,Connecticut,Farmington,6030,667.28,1,667.28,1,,0.0,667.28
+492,East,Connecticut,Glastonbury,6033,39.46,1,39.46,1,,0.0,39.46
+493,East,Connecticut,Greenwich,6830,261.99,1,261.99,1,,0.0,261.99
+494,East,Connecticut,Guilford,6437,182.63,1,182.63,1,,0.0,182.63
+495,East,Connecticut,Hamden,6511,808.64,1,808.64,1,,0.0,808.64
+496,East,Connecticut,Hartford,6105,108.0,1,108.0,1,,0.0,108.0
+497,East,Connecticut,Hartford,6114,3.54,1,3.54,1,,0.0,3.54
+498,East,Connecticut,Killingly Center,6241,120.65,1,120.65,1,,0.0,120.65
+499,East,Connecticut,Madison,6443,774.0,1,774.0,1,,0.0,774.0
+500,East,Connecticut,Manchester,6040,128.16,1,128.16,1,,0.0,128.16
+501,East,Connecticut,Meriden,6450,4354.2,1,4354.2,1,,0.0,4354.2
+502,East,Connecticut,Middletown,6457,92.82,1,92.82,1,,0.0,92.82
+503,East,Connecticut,Milford,6460,486.75,1,486.75,1,,0.0,486.75
+504,East,Connecticut,Naugatuck,6770,1474.16,4,368.54,4,,0.0,368.54
+505,East,Connecticut,New Britain,6050,83.01,1,83.01,1,,0.0,83.01
+506,East,Connecticut,New Haven,6510,41.52,1,41.52,1,,0.0,41.52
+507,East,Connecticut,New London,6320,267.21,2,133.61,2,,0.0,133.61
+508,East,Connecticut,New Milford,6776,432.23,2,216.12,2,,0.0,216.12
+509,East,Connecticut,Newington,6111,94.01,3,31.34,3,,0.0,31.34
+510,East,Connecticut,North Haven,6473,253.06,2,126.53,2,,0.0,126.53
+511,East,Connecticut,Norwalk,6850,22.92,1,22.92,1,,0.0,22.92
+512,East,Connecticut,Norwalk,6855,1959.84,1,1959.84,1,,0.0,1959.84
+513,East,Connecticut,Norwich,6360,3410.26,8,426.28,8,,0.0,426.28
+514,East,Connecticut,Plainfield,6374,415.36,1,415.36,1,,0.0,415.36
+515,East,Connecticut,Seymour,6478,1904.52,5,380.9,6,,0.0,317.42
+516,East,Connecticut,Shelton,6484,3103.64,2,1551.82,2,,0.0,1551.82
+517,East,Connecticut,South Windsor,6074,2694.58,1,2694.58,1,,0.0,2694.58
+518,East,Connecticut,Southbury,6488,2161.44,1,2161.44,1,,0.0,2161.44
+519,East,Connecticut,Stamford,6901,204.16,1,204.16,1,,0.0,204.16
+520,East,Connecticut,Stamford,6903,140.52,1,140.52,1,,0.0,140.52
+521,East,Connecticut,Stratford,6614,149.74,2,74.87,2,,0.0,74.87
+522,East,Connecticut,Torrington,6790,466.4,1,466.4,1,,0.0,466.4
+523,East,Connecticut,Trumbull,6611,23.38,1,23.38,1,,0.0,23.38
+524,East,Connecticut,Wallingford,6492,247.84,1,247.84,1,,0.0,247.84
+525,East,Connecticut,Waterbury,6702,26.67,1,26.67,1,,0.0,26.67
+526,East,Connecticut,Waterbury,6708,222.75,1,222.75,1,,0.0,222.75
+527,East,Connecticut,Waterbury,6710,1529.22,1,1529.22,1,,0.0,1529.22
+528,East,Connecticut,Watertown,6795,173.55,1,173.55,1,,0.0,173.55
+529,East,Connecticut,Willimantic,6226,7.48,1,7.48,1,,0.0,7.48
+530,East,Delaware,Dover,19901,769.35,1,769.35,4,,0.0,192.34
+531,East,Delaware,Newark,19711,1608.57,2,804.29,3,,0.0,536.19
+532,East,Delaware,Wilmington,19805,1232.4,1,1232.4,2,,0.0,616.2
+533,East,District of Columbia,Washington,20004,180.48,1,180.48,1,,0.0,180.48
+534,East,District of Columbia,Washington,20006,28830.58,1,28830.58,6,,0.0,4805.1
+535,East,District of Columbia,Washington,20012,78561.71,1,78561.71,4,,25.0,19640.43
+536,East,District of Columbia,Washington,20016,92188.45,2,46094.23,24,,4.17,3841.19
+537,East,District of Columbia,Washington,20024,15940.55,1,15940.55,9,,11.11,1771.17
+538,East,Maine,Auburn,4210,5895.93,9,655.1,9,,0.0,655.1
+539,East,Maine,Augusta,4330,2023.71,7,289.1,9,,0.0,224.86
+540,East,Maine,Bangor,4401,17795.49,16,1112.22,17,,0.0,1046.79
+541,East,Maine,Biddeford,4005,2667.15,6,444.53,8,,0.0,333.39
+542,East,Maine,Brunswick,4011,2891.53,7,413.08,7,,0.0,413.08
+543,East,Maine,Gorham,4038,4729.01,8,591.13,8,,0.0,591.13
+544,East,Maine,Lewiston,4240,5433.5,8,679.19,8,,0.0,679.19
+545,East,Maine,Portland,4101,9073.75,8,1134.22,8,,0.0,1134.22
+546,East,Maine,Saco,4072,14323.3,8,1790.41,9,,0.0,1591.48
+547,East,Maine,Sanford,4073,10870.1,13,836.16,13,,0.0,836.16
+548,East,Maine,South Portland,4106,6002.53,8,750.32,8,,0.0,750.32
+549,East,Maine,Waterville,4901,4384.53,7,626.36,8,,0.0,548.07
+550,East,Maine,West Scarborough,4070,1632.13,8,204.02,8,,0.0,204.02
+551,East,Maine,Westbrook,4092,8918.77,8,1114.85,8,,0.0,1114.85
+552,East,Maryland,Annapolis,21403,3805.86,1,3805.86,4,,0.0,951.47
+553,East,Maryland,Aspen Hill,20906,3528.74,2,1764.37,6,,0.0,588.12
+554,East,Maryland,Baltimore,21215,3031.07,2,1515.54,6,,0.0,505.18
+555,East,Maryland,Bethesda,20814,1114.57,2,557.29,5,,0.0,222.91
+556,East,Maryland,Bowie,20715,343.12,1,343.12,3,,0.0,114.37
+557,East,Maryland,Camp Springs,20746,6839.97,4,1709.99,9,,0.0,760.0
+558,East,Maryland,Catonsville,21228,2121.88,1,2121.88,2,,0.0,1060.94
+559,East,Maryland,Clinton,20735,2361.38,1,2361.38,3,,0.0,787.13
+560,East,Maryland,College Park,20740,3390.83,1,3390.83,4,,0.0,847.71
+561,East,Maryland,Columbia,21044,81.34,1,81.34,1,,0.0,81.34
+562,East,Maryland,Crofton,21114,259.88,1,259.88,4,,0.0,64.97
+563,East,Maryland,Cumberland,21501,3784.37,1,3784.37,5,,0.0,756.87
+564,East,Maryland,Dundalk,21222,8826.45,3,2942.15,12,,0.0,735.54
+565,East,Maryland,Edgewood,21040,1168.07,3,389.36,4,,0.0,292.02
+566,East,Maryland,Ellicott City,21042,1428.32,1,1428.32,2,,0.0,714.16
+567,East,Maryland,Essex,21221,736.59,1,736.59,5,,0.0,147.32
+568,East,Maryland,Gaithersburg,20877,3757.83,1,3757.83,1,,0.0,3757.83
+569,East,Maryland,Glen Burnie,21061,6622.35,1,6622.35,2,,0.0,3311.18
+570,East,Maryland,Hagerstown,21740,3253.04,2,1626.52,3,,0.0,1084.35
+571,East,Maryland,Laurel,20707,2840.56,1,2840.56,4,,0.0,710.14
+572,East,Maryland,Middle River,21220,5753.29,1,5753.29,3,,0.0,1917.76
+573,East,Maryland,Odenton,21113,3954.51,2,1977.26,5,,0.0,790.9
+574,East,Maryland,Olney,20832,7283.86,1,7283.86,6,,0.0,1213.98
+575,East,Maryland,Owings Mills,21117,2901.22,1,2901.22,2,,0.0,1450.61
+576,East,Maryland,Parkville,21234,4002.49,1,4002.49,2,,0.0,2001.25
+577,East,Maryland,Perry Hall,21128,9565.39,1,9565.39,4,,0.0,2391.35
+578,East,Maryland,Pikesville,21208,2840.5,1,2840.5,4,,0.0,710.13
+579,East,Maryland,Potomac,20854,4919.21,2,2459.61,5,,0.0,983.84
+580,East,Maryland,Randallstown,21133,2557.53,3,852.51,7,,0.0,365.36
+581,East,Maryland,Reisterstown,21136,3282.67,2,1641.34,5,,0.0,656.53
+582,East,Maryland,Rockville,20852,18.62,1,18.62,2,,0.0,9.31
+583,East,Maryland,Saint Charles,20602,77.67,1,77.67,1,,0.0,77.67
+584,East,Maryland,Severna Park,21146,6273.15,1,6273.15,2,,0.0,3136.58
+585,East,Maryland,Silver Spring,20901,2300.21,1,2300.21,3,,0.0,766.74
+586,East,Maryland,Waldorf,20601,6033.54,1,6033.54,4,,0.0,1508.39
+587,East,Massachusetts,Abington,2351,74.16,1,74.16,1,,0.0,74.16
+588,East,Massachusetts,Acton,1718,24.1,1,24.1,1,,0.0,24.1
+589,East,Massachusetts,Agawam,1001,77.85,1,77.85,1,,0.0,77.85
+590,East,Massachusetts,Amesbury,1913,265.4,1,265.4,1,,0.0,265.4
+591,East,Massachusetts,Andover,1810,103.14,2,51.57,2,,0.0,51.57
+592,East,Massachusetts,Arlington,2474,244.95,1,244.95,1,,0.0,244.95
+593,East,Massachusetts,Ashland,1721,268.85,1,268.85,1,,0.0,268.85
+594,East,Massachusetts,Attleboro,2703,1965.42,1,1965.42,2,,0.0,982.71
+595,East,Massachusetts,Belchertown,1007,39.56,1,39.56,1,,0.0,39.56
+596,East,Massachusetts,Bellingham,2019,1369.15,1,1369.15,1,,0.0,1369.15
+597,East,Massachusetts,Belmont,2478,1940.29,1,1940.29,1,,0.0,1940.29
+598,East,Massachusetts,Beverly,1915,140.03,1,140.03,1,,0.0,140.03
+599,East,Massachusetts,Billerica,1821,131.1,1,131.1,1,,0.0,131.1
+600,East,Massachusetts,Boston,2108,804.48,2,402.24,2,,0.0,402.24
+601,East,Massachusetts,Boston,2109,153.64,1,153.64,1,,0.0,153.64
+602,East,Massachusetts,Boston,2110,51.6,1,51.6,1,,0.0,51.6
+603,East,Massachusetts,Boston,2111,126.7,1,126.7,1,,0.0,126.7
+604,East,Massachusetts,Boston,2112,14363.6,1,14363.6,6,,66.67,2393.93
+605,East,Massachusetts,Boston,2113,63882.73,2,31941.37,18,,16.67,3549.04
+606,East,Massachusetts,Boston,2116,722.19,1,722.19,1,,0.0,722.19
+607,East,Massachusetts,Boston,2118,23980.43,1,23980.43,13,,0.0,1844.65
+608,East,Massachusetts,Boston,2129,28292.43,1,28292.43,7,,0.0,4041.78
+609,East,Massachusetts,Boston,2210,1841.86,1,1841.86,1,,0.0,1841.86
+610,East,Massachusetts,Boston,2215,18.6,1,18.6,1,,0.0,18.6
+611,East,Massachusetts,Bourne,2532,151.12,1,151.12,1,,0.0,151.12
+612,East,Massachusetts,Braintree,2184,428.1,1,428.1,1,,0.0,428.1
+613,East,Massachusetts,Bridgewater,2324,75.79,1,75.79,1,,0.0,75.79
+614,East,Massachusetts,Brookline,2445,149.2,1,149.2,1,,0.0,149.2
+615,East,Massachusetts,Burlington,1803,1107.36,1,1107.36,1,,0.0,1107.36
+616,East,Massachusetts,Cambridge,2138,118.18,1,118.18,1,,0.0,118.18
+617,East,Massachusetts,Canton,2021,15.16,1,15.16,1,,0.0,15.16
+618,East,Massachusetts,Chicopee,1013,717.34,1,717.34,1,,0.0,717.34
+619,East,Massachusetts,Clinton,1510,118.35,1,118.35,1,,0.0,118.35
+620,East,Massachusetts,Concord,1742,138.16,1,138.16,1,,0.0,138.16
+621,East,Massachusetts,Danvers,1923,96.64,1,96.64,1,,0.0,96.64
+622,East,Massachusetts,Dedham,2026,94.6,1,94.6,1,,0.0,94.6
+623,East,Massachusetts,Dennis,2638,589.52,1,589.52,1,,0.0,589.52
+624,East,Massachusetts,Dracut,1826,2969.7,1,2969.7,1,,0.0,2969.7
+625,East,Massachusetts,Duxbury,2331,492.36,1,492.36,1,,0.0,492.36
+626,East,Massachusetts,East Longmeadow,1028,59.01,1,59.01,1,,0.0,59.01
+627,East,Massachusetts,Easthampton,1027,33.84,1,33.84,1,,0.0,33.84
+628,East,Massachusetts,Easton,2334,130.32,1,130.32,1,,0.0,130.32
+629,East,Massachusetts,Everett,2149,46.17,1,46.17,1,,0.0,46.17
+630,East,Massachusetts,Fairhaven,2719,63.5,1,63.5,1,,0.0,63.5
+631,East,Massachusetts,Fall River,2724,221.73,1,221.73,1,,0.0,221.73
+632,East,Massachusetts,Falmouth,2540,10.86,1,10.86,1,,0.0,10.86
+633,East,Massachusetts,Fitchburg,1420,92.1,1,92.1,1,,0.0,92.1
+634,East,Massachusetts,Foxborough,2035,200.08,1,200.08,1,,0.0,200.08
+635,East,Massachusetts,Framingham,1701,6660.03,1,6660.03,1,,0.0,6660.03
+636,East,Massachusetts,Franklin,2038,312.57,1,312.57,1,,0.0,312.57
+637,East,Massachusetts,Gardner,1440,428.09,1,428.09,1,,0.0,428.09
+638,East,Massachusetts,Gloucester,1930,82.6,1,82.6,1,,0.0,82.6
+639,East,Massachusetts,Grafton,1519,1043.29,1,1043.29,1,,0.0,1043.29
+640,East,Massachusetts,Greenfield,1301,172.8,1,172.8,1,,0.0,172.8
+641,East,Massachusetts,Groton,1450,3796.39,1,3796.39,1,,0.0,3796.39
+642,East,Massachusetts,Hanover,2339,39.84,1,39.84,1,,0.0,39.84
+643,East,Massachusetts,Hanson,2341,67.75,1,67.75,1,,0.0,67.75
+644,East,Massachusetts,Haverhill,1832,122.21,1,122.21,1,,0.0,122.21
+645,East,Massachusetts,Hingham,2018,547.14,1,547.14,1,,0.0,547.14
+646,East,Massachusetts,Holden,1520,56.04,1,56.04,1,,0.0,56.04
+647,East,Massachusetts,Holyoke,1040,565.72,1,565.72,1,,0.0,565.72
+648,East,Massachusetts,Hopkinton,1748,462.12,1,462.12,1,,0.0,462.12
+649,East,Massachusetts,Hudson,1749,55.5,1,55.5,1,,0.0,55.5
+650,East,Massachusetts,Ipswich,1938,109.65,1,109.65,1,,0.0,109.65
+651,East,Massachusetts,Kingston,2364,46.95,1,46.95,1,,0.0,46.95
+652,East,Massachusetts,Lawrence,1840,75.44,1,75.44,1,,0.0,75.44
+653,East,Massachusetts,Lawrence,1841,357.96,1,357.96,1,,0.0,357.96
+654,East,Massachusetts,Leominster,1453,372.18,1,372.18,1,,0.0,372.18
+655,East,Massachusetts,Lexington,2420,592.15,1,592.15,1,,0.0,592.15
+656,East,Massachusetts,Longmeadow,1106,173.85,1,173.85,1,,0.0,173.85
+657,East,Massachusetts,Lowell,1852,52.05,1,52.05,1,,0.0,52.05
+658,East,Massachusetts,Ludlow,1056,91.25,1,91.25,1,,0.0,91.25
+659,East,Massachusetts,Lunenburg,1462,1077.21,1,1077.21,1,,0.0,1077.21
+660,East,Massachusetts,Lynn,1901,46.45,1,46.45,1,,0.0,46.45
+661,East,Massachusetts,Malden,2148,49.66,1,49.66,1,,0.0,49.66
+662,East,Massachusetts,Mansfield,2048,385.2,1,385.2,1,,0.0,385.2
+663,East,Massachusetts,Marblehead,1945,2084.88,1,2084.88,1,,0.0,2084.88
+664,East,Massachusetts,Marlborough,1752,93.86,2,46.93,2,,0.0,46.93
+665,East,Massachusetts,Marshfield,2050,982.02,1,982.02,1,,0.0,982.02
+666,East,Massachusetts,Medford,2153,5.18,1,5.18,1,,0.0,5.18
+667,East,Massachusetts,Milford,1757,41.47,1,41.47,1,,0.0,41.47
+668,East,Massachusetts,Milton,2186,6.6,1,6.6,1,,0.0,6.6
+669,East,Massachusetts,Natick,1760,23.92,1,23.92,1,,0.0,23.92
+670,East,Massachusetts,Needham,2492,140.76,1,140.76,1,,0.0,140.76
+671,East,Massachusetts,New Bedford,2740,19.46,1,19.46,1,,0.0,19.46
+672,East,Massachusetts,New Bedford,2744,94.44,1,94.44,1,,0.0,94.44
+673,East,Massachusetts,Newburyport,1950,9.57,1,9.57,1,,0.0,9.57
+674,East,Massachusetts,Newton,2456,134.16,1,134.16,1,,0.0,134.16
+675,East,Massachusetts,North Andover,1845,1868.08,1,1868.08,2,,0.0,934.04
+676,East,Massachusetts,North Pembroke,2358,1509.86,2,754.93,2,,0.0,754.93
+677,East,Massachusetts,Northampton,1060,223.4,1,223.4,1,,0.0,223.4
+678,East,Massachusetts,Norton,2766,97.5,1,97.5,1,,0.0,97.5
+679,East,Massachusetts,Norwood,2062,267.4,1,267.4,1,,0.0,267.4
+680,East,Massachusetts,Oxford,1540,17.07,1,17.07,1,,0.0,17.07
+681,East,Massachusetts,Palmer,1069,87.08,1,87.08,1,,0.0,87.08
+682,East,Massachusetts,Pepperell,1463,620.2,2,310.1,2,,0.0,310.1
+683,East,Massachusetts,Plymouth,2345,40.6,1,40.6,1,,0.0,40.6
+684,East,Massachusetts,Quincy,2169,4532.94,1,4532.94,1,,0.0,4532.94
+685,East,Massachusetts,Reading,1867,4691.31,1,4691.31,1,,0.0,4691.31
+686,East,Massachusetts,Revere,2151,1554.98,1,1554.98,1,,0.0,1554.98
+687,East,Massachusetts,Rockland,2370,981.84,1,981.84,1,,0.0,981.84
+688,East,Massachusetts,Sandwich,2563,343.84,1,343.84,1,,0.0,343.84
+689,East,Massachusetts,Saugus,1906,100.24,1,100.24,1,,0.0,100.24
+690,East,Massachusetts,Scituate,2040,8.04,1,8.04,1,,0.0,8.04
+691,East,Massachusetts,Sharon,2067,37.66,1,37.66,1,,0.0,37.66
+692,East,Massachusetts,Shrewsbury,1545,2515.6,1,2515.6,1,,0.0,2515.6
+693,East,Massachusetts,Somerset,2725,20.7,1,20.7,1,,0.0,20.7
+694,East,Massachusetts,Somerville,2145,457.2,1,457.2,1,,0.0,457.2
+695,East,Massachusetts,South Boston,2127,5147.45,2,2573.73,3,,0.0,1715.82
+696,East,Massachusetts,South Hadley,1075,12679.71,1,12679.71,2,,0.0,6339.86
+697,East,Massachusetts,Southbridge,1550,8389.85,2,4194.93,2,,0.0,4194.93
+698,East,Massachusetts,Springfield,1108,16.96,1,16.96,1,,0.0,16.96
+699,East,Massachusetts,Stoneham,2180,929.2,1,929.2,1,,0.0,929.2
+700,East,Massachusetts,Stoughton,2072,29.12,1,29.12,1,,0.0,29.12
+701,East,Massachusetts,Sudbury,1776,1310.0,1,1310.0,1,,0.0,1310.0
+702,East,Massachusetts,Swansea,2777,262.56,1,262.56,1,,0.0,262.56
+703,East,Massachusetts,Taunton,2718,848.25,1,848.25,1,,0.0,848.25
+704,East,Massachusetts,Tewksbury,1876,1158.01,1,1158.01,1,,0.0,1158.01
+705,East,Massachusetts,Townsend,1469,495.43,1,495.43,1,,0.0,495.43
+706,East,Massachusetts,Wakefield,1880,35.27,1,35.27,1,,0.0,35.27
+707,East,Massachusetts,Walpole,2032,768.02,1,768.02,1,,0.0,768.02
+708,East,Massachusetts,Waltham,2451,65.41,2,32.71,2,,0.0,32.71
+709,East,Massachusetts,Watertown,2471,11.3,1,11.3,1,,0.0,11.3
+710,East,Massachusetts,Webster,1570,27.2,1,27.2,1,,0.0,27.2
+711,East,Massachusetts,Wellesley,2457,2304.42,5,460.88,5,,0.0,460.88
+712,East,Massachusetts,West Springfield,1089,445.49,1,445.49,1,,0.0,445.49
+713,East,Massachusetts,Westborough,1580,735.73,1,735.73,1,,0.0,735.73
+714,East,Massachusetts,Westford,1886,160.88,1,160.88,1,,0.0,160.88
+715,East,Massachusetts,Weymouth,2190,1978.28,1,1978.28,1,,0.0,1978.28
+716,East,Massachusetts,Wilbraham,1095,72.18,1,72.18,1,,0.0,72.18
+717,East,Massachusetts,Wilmington,1887,107.64,1,107.64,1,,0.0,107.64
+718,East,Massachusetts,Winchester,1890,54.54,1,54.54,1,,0.0,54.54
+719,East,Massachusetts,Winthrop,2152,39.6,1,39.6,1,,0.0,39.6
+720,East,Massachusetts,Woburn,1801,104.23,1,104.23,1,,0.0,104.23
+721,East,Massachusetts,Worcester,1605,30.15,1,30.15,1,,0.0,30.15
+722,East,Massachusetts,Worcester,1607,65.78,1,65.78,1,,0.0,65.78
+723,East,Massachusetts,Worcester,1610,24.3,1,24.3,1,,0.0,24.3
+724,East,Massachusetts,Yarmouth,2664,62.58,1,62.58,1,,0.0,62.58
+725,East,New Hampshire,Bedford,3110,687.79,3,229.26,3,,0.0,229.26
+726,East,New Hampshire,Concord,3301,6428.25,3,2142.75,4,,0.0,1607.06
+727,East,New Hampshire,Derry,3038,6919.95,6,1153.33,6,,0.0,1153.33
+728,East,New Hampshire,Dover,3820,4373.17,6,728.86,6,,0.0,728.86
+729,East,New Hampshire,Goffstown,3045,1056.3,3,352.1,3,,0.0,352.1
+730,East,New Hampshire,Hampton,3842,92.88,2,46.44,2,,0.0,46.44
+731,East,New Hampshire,Hudson,3051,899.83,3,299.94,3,,0.0,299.94
+732,East,New Hampshire,Keene,3431,205.22,3,68.41,3,,0.0,68.41
+733,East,New Hampshire,Laconia,3246,3556.52,2,1778.26,2,,0.0,1778.26
+734,East,New Hampshire,Londonderry,3053,205.47,4,51.37,4,,0.0,51.37
+735,East,New Hampshire,Manchester,3101,1768.08,3,589.36,3,,0.0,589.36
+736,East,New Hampshire,Merrimack,3054,1651.51,3,550.5,3,,0.0,550.5
+737,East,New Hampshire,Nashua,3060,784.56,3,261.52,3,,0.0,261.52
+738,East,New Hampshire,Portsmouth,3801,5345.4,3,1781.8,3,,0.0,1781.8
+739,East,New Hampshire,Rochester,3839,3155.48,3,1051.83,3,,0.0,1051.83
+740,East,New Hampshire,Salem,3079,2858.32,3,952.77,3,,0.0,952.77
+741,East,New Jersey,Asbury Park,7712,645.62,3,215.21,3,,0.0,215.21
+742,East,New Jersey,Atlantic City,8401,9129.25,2,4564.63,2,,0.0,4564.63
+743,East,New Jersey,Avenel,7001,83.72,2,41.86,2,,0.0,41.86
+744,East,New Jersey,Bayonne,7002,127.71,2,63.86,2,,0.0,63.86
+745,East,New Jersey,Belleville,7109,777.09,2,388.55,2,,0.0,388.55
+746,East,New Jersey,Bergenfield,7621,437.78,2,218.89,2,,0.0,218.89
+747,East,New Jersey,Bloomfield,7003,1194.89,2,597.45,2,,0.0,597.45
+748,East,New Jersey,Bridgeton,8302,954.21,2,477.11,2,,0.0,477.11
+749,East,New Jersey,Camden,8101,2142.51,2,1071.26,2,,0.0,1071.26
+750,East,New Jersey,Carteret,7008,166.09,2,83.05,2,,0.0,83.05
+751,East,New Jersey,Cherry Hill,8002,211.29,2,105.65,2,,0.0,105.65
+752,East,New Jersey,Cliffside Park,7010,3660.21,2,1830.11,2,,0.0,1830.11
+753,East,New Jersey,Clifton,7011,347.31,2,173.66,2,,0.0,173.66
+754,East,New Jersey,Colonia,7067,486.15,2,243.08,2,,0.0,243.08
+755,East,New Jersey,Cranford,7016,8204.63,2,4102.32,2,,0.0,4102.32
+756,East,New Jersey,Dover,7801,223.93,3,74.64,3,,0.0,74.64
+757,East,New Jersey,Dumont,7628,1863.96,2,931.98,2,,0.0,931.98
+758,East,New Jersey,East Brunswick,8816,788.85,2,394.43,2,,0.0,394.43
+759,East,New Jersey,East Orange,7017,888.23,2,444.12,2,,0.0,444.12
+760,East,New Jersey,Edison,8817,1626.24,3,542.08,3,,0.0,542.08
+761,East,New Jersey,Elizabeth,7201,4285.89,2,2142.95,2,,0.0,2142.95
+762,East,New Jersey,Elmwood Park,7407,1057.42,2,528.71,2,,0.0,528.71
+763,East,New Jersey,Englewood,7631,934.23,2,467.12,2,,0.0,467.12
+764,East,New Jersey,Ewing,8618,468.86,2,234.43,2,,0.0,234.43
+765,East,New Jersey,Fair Lawn,7410,1079.28,2,539.64,2,,0.0,539.64
+766,East,New Jersey,Fords,8863,402.92,2,201.46,2,,0.0,201.46
+767,East,New Jersey,Fort Lee,7024,469.15,2,234.58,2,,0.0,234.58
+768,East,New Jersey,Garfield,7026,348.72,2,174.36,2,,0.0,174.36
+769,East,New Jersey,Glassboro,8028,1111.42,2,555.71,2,,0.0,555.71
+770,East,New Jersey,Hackensack,7601,5328.89,4,1332.22,4,,0.0,1332.22
+771,East,New Jersey,Hawthorne,7506,1256.53,5,251.31,5,,0.0,251.31
+772,East,New Jersey,Hillside,7205,102.96,1,102.96,1,,0.0,102.96
+773,East,New Jersey,Hoboken,7030,158.44,2,79.22,2,,0.0,79.22
+774,East,New Jersey,Hopatcong,7843,1305.32,2,652.66,2,,0.0,652.66
+775,East,New Jersey,Irvington,7111,638.43,2,319.22,2,,0.0,319.22
+776,East,New Jersey,Iselin,8830,1022.27,2,511.14,2,,0.0,511.14
+777,East,New Jersey,Jersey City,7097,676.49,2,338.25,2,,0.0,338.25
+778,East,New Jersey,Kearny,7032,2.56,1,2.56,1,,0.0,2.56
+779,East,New Jersey,Lakewood,8701,2011.62,2,1005.81,2,,0.0,1005.81
+780,East,New Jersey,Linden,7036,14.6,2,7.3,2,,0.0,7.3
+781,East,New Jersey,Lindenwold,8021,875.63,3,291.88,3,,0.0,291.88
+782,East,New Jersey,Livingston,7039,6636.64,2,3318.32,2,,0.0,3318.32
+783,East,New Jersey,Lodi,7644,6625.33,2,3312.67,2,,0.0,3312.67
+784,East,New Jersey,Long Branch,7740,957.85,1,957.85,1,,0.0,957.85
+785,East,New Jersey,Lyndhurst,7071,564.26,1,564.26,1,,0.0,564.26
+786,East,New Jersey,Madison,7940,38.98,2,19.49,2,,0.0,19.49
+787,East,New Jersey,Maple Shade,8052,9771.17,2,4885.59,2,,0.0,4885.59
+788,East,New Jersey,Maplewood,7040,693.94,2,346.97,2,,0.0,346.97
+789,East,New Jersey,Millville,8332,900.38,2,450.19,2,,0.0,450.19
+790,East,New Jersey,Montclair,7042,1737.28,2,868.64,2,,0.0,868.64
+791,East,New Jersey,Morristown,7960,34.32,2,17.16,2,,0.0,17.16
+792,East,New Jersey,New Brunswick,8901,670.61,2,335.31,2,,0.0,335.31
+793,East,New Jersey,New Milford,7646,763.65,2,381.83,2,,0.0,381.83
+794,East,New Jersey,Newark,7101,20423.93,5,4084.79,7,,0.0,2917.7
+795,East,New Jersey,North Arlington,7031,4684.64,2,2342.32,2,,0.0,2342.32
+796,East,New Jersey,North Bergen,7047,94.24,2,47.12,2,,0.0,47.12
+797,East,New Jersey,North Plainfield,7060,724.32,1,724.32,1,,0.0,724.32
+798,East,New Jersey,Nutley,7110,271.0,2,135.5,2,,0.0,135.5
+799,East,New Jersey,Ocean City,8226,402.3,1,402.3,1,,0.0,402.3
+800,East,New Jersey,Old Bridge,8857,2281.96,2,1140.98,2,,0.0,1140.98
+801,East,New Jersey,Orange,7050,3261.2,2,1630.6,2,,0.0,1630.6
+802,East,New Jersey,Palisades Park,7650,256.52,2,128.26,2,,0.0,128.26
+803,East,New Jersey,Paramus,7652,584.77,2,292.39,2,,0.0,292.39
+804,East,New Jersey,Parsippany,7054,95.05,2,47.53,2,,0.0,47.53
+805,East,New Jersey,Passaic,7055,2020.44,2,1010.22,2,,0.0,1010.22
+806,East,New Jersey,Paterson,7501,209.43,3,69.81,3,,0.0,69.81
+807,East,New Jersey,Pennsauken,8109,217.86,2,108.93,2,,0.0,108.93
+808,East,New Jersey,Perth Amboy,8861,1754.64,1,1754.64,1,,0.0,1754.64
+809,East,New Jersey,Phillipsburg,8865,58.86,1,58.86,1,,0.0,58.86
+810,East,New Jersey,Plainfield,7060,33.66,1,33.66,1,,0.0,33.66
+811,East,New Jersey,Pleasantville,8232,246.03,1,246.03,1,,0.0,246.03
+812,East,New Jersey,Rahway,7065,38.64,1,38.64,1,,0.0,38.64
+813,East,New Jersey,Ridgewood,7450,124.71,1,124.71,1,,0.0,124.71
+814,East,New Jersey,Roselle,7203,700.08,3,233.36,3,,0.0,233.36
+815,East,New Jersey,Rutherford,7070,3.16,1,3.16,1,,0.0,3.16
+816,East,New Jersey,Sayreville,8871,51.76,1,51.76,1,,0.0,51.76
+817,East,New Jersey,Scotch Plains,7076,70.74,1,70.74,1,,0.0,70.74
+818,East,New Jersey,Secaucus,7094,1699.29,1,1699.29,1,,0.0,1699.29
+819,East,New Jersey,Somerset,8873,52.56,1,52.56,1,,0.0,52.56
+820,East,New Jersey,South Orange,7079,2166.05,2,1083.03,3,,0.0,722.02
+821,East,New Jersey,South Plainfield,7080,37.17,1,37.17,1,,0.0,37.17
+822,East,New Jersey,South Vineland,8360,72.45,1,72.45,1,,0.0,72.45
+823,East,New Jersey,Summit,7901,395.7,1,395.7,1,,0.0,395.7
+824,East,New Jersey,Teaneck,7666,1271.82,1,1271.82,1,,0.0,1271.82
+825,East,New Jersey,Tinton Falls,7701,16.48,1,16.48,1,,0.0,16.48
+826,East,New Jersey,Toms River,8753,2835.6,1,2835.6,1,,0.0,2835.6
+827,East,New Jersey,Trenton,8601,55.0,1,55.0,1,,0.0,55.0
+828,East,New Jersey,Union,7083,108.46,1,108.46,1,,0.0,108.46
+829,East,New Jersey,Union City,7086,96.94,1,96.94,1,,0.0,96.94
+830,East,New Jersey,Vineland,8360,15.6,1,15.6,1,,0.0,15.6
+831,East,New Jersey,Wayne,7470,719.95,1,719.95,1,,0.0,719.95
+832,East,New Jersey,West Milford,7480,57.0,1,57.0,1,,0.0,57.0
+833,East,New Jersey,West Orange,7052,56.7,1,56.7,1,,0.0,56.7
+834,East,New Jersey,Westfield,7090,2782.2,1,2782.2,1,,0.0,2782.2
+835,East,New Jersey,Willingboro,8046,3212.4,1,3212.4,1,,0.0,3212.4
+836,East,New Jersey,Woodbridge,7095,159.68,1,159.68,1,,0.0,159.68
+837,East,New Jersey,Wyckoff,7481,58.3,1,58.3,1,,0.0,58.3
+838,East,New York,Albany,12208,1655.5,2,827.75,2,,0.0,827.75
+839,East,New York,Auburn,13021,1949.27,1,1949.27,6,,0.0,324.88
+840,East,New York,Bethpage,11714,299.5,2,149.75,4,,0.0,74.88
+841,East,New York,Binghamton,13905,655.98,1,655.98,3,,0.0,218.66
+842,East,New York,Brooklyn,11226,563.1,2,281.55,5,,0.0,112.62
+843,East,New York,Buffalo,14215,3483.98,2,1741.99,2,,0.0,1741.99
+844,East,New York,Centereach,11720,27396.18,2,13698.09,5,,0.0,5479.24
+845,East,New York,Central Islip,11722,1564.78,1,1564.78,3,,0.0,521.59
+846,East,New York,Cheektowaga,14225,9057.12,1,9057.12,2,,0.0,4528.56
+847,East,New York,Cohoes,12047,2269.11,2,1134.56,3,,0.0,756.37
+848,East,New York,Commack,11725,3191.14,2,1595.57,5,,0.0,638.23
+849,East,New York,Coram,11727,1340.66,1,1340.66,5,,0.0,268.13
+850,East,New York,Deer Park,11729,886.13,1,886.13,7,,0.0,126.59
+851,East,New York,Depew,14043,1858.64,2,929.32,6,,0.0,309.77
+852,East,New York,Dix Hills,11746,3954.75,2,1977.38,6,,0.0,659.13
+853,East,New York,East Massapequa,11758,4723.04,1,4723.04,4,,0.0,1180.76
+854,East,New York,East Meadow,11554,5220.93,2,2610.47,6,,0.0,870.16
+855,East,New York,Elmira,14901,12415.39,1,12415.39,4,,0.0,3103.85
+856,East,New York,Franklin Square,11010,14109.64,1,14109.64,4,,0.0,3527.41
+857,East,New York,Freeport,11520,4170.74,1,4170.74,3,,0.0,1390.25
+858,East,New York,Glen Cove,11542,5937.71,1,5937.71,5,,0.0,1187.54
+859,East,New York,Harrison,10528,15790.76,2,7895.38,3,,0.0,5263.59
+860,East,New York,Hempstead,11550,3879.21,2,1939.61,3,,0.0,1293.07
+861,East,New York,Hicksville,11801,12652.1,1,12652.1,3,,0.0,4217.37
+862,East,New York,Holbrook,11741,4797.7,1,4797.7,4,,0.0,1199.43
+863,East,New York,Ithaca,14853,1774.31,2,887.16,5,,0.0,354.86
+864,East,New York,Jamestown,14701,5285.3,1,5285.3,4,,0.0,1321.33
+865,East,New York,Kenmore,14217,5602.36,1,5602.36,2,,0.0,2801.18
+866,East,New York,Levittown,11756,3772.18,1,3772.18,5,,0.0,754.44
+867,East,New York,Lindenhurst,11757,975.9,2,487.95,3,,0.0,325.3
+868,East,New York,Long Beach,11561,501.92,1,501.92,2,,0.0,250.96
+869,East,New York,Mount Vernon,10550,2776.91,2,1388.46,5,,0.0,555.38
+870,East,New York,New City,10956,13153.35,1,13153.35,4,,0.0,3288.34
+871,East,New York,New Rochelle,10801,6262.95,1,6262.95,2,,0.0,3131.48
+872,East,New York,New York City,10004,6637.25,1,6637.25,8,,0.0,829.66
+873,East,New York,New York City,10009,11599.06,1,11599.06,4,,25.0,2899.77
+874,East,New York,New York City,10011,19868.46,1,19868.46,5,,0.0,3973.69
+875,East,New York,New York City,10012,19257.55,1,19257.55,8,,12.5,2407.19
+876,East,New York,New York City,10013,13203.99,1,13203.99,6,,0.0,2200.67
+877,East,New York,New York City,10024,25639.66,1,25639.66,8,,0.0,3204.96
+878,East,New York,New York City,10035,5996.78,1,5996.78,4,,0.0,1499.2
+879,East,New York,New York City,10039,2406.06,1,2406.06,4,,0.0,601.52
+880,East,New York,New York City,10045,27716.08,1,27716.08,5,,0.0,5543.22
+881,East,New York,New York City,10112,29672.19,1,29672.19,10,,10.0,2967.22
+882,East,New York,New York City,10115,17298.76,1,17298.76,5,,20.0,3459.75
+883,East,New York,New York City,10154,38153.64,1,38153.64,7,,28.57,5450.52
+884,East,New York,New York City,10165,84693.31,1,84693.31,6,,33.33,14115.55
+885,East,New York,New York City,10170,11905.84,1,11905.84,7,,0.0,1700.83
+886,East,New York,New York City,10177,174223.19,5,34844.64,36,,8.33,4839.53
+887,East,New York,New York City,10280,2437.63,2,1218.82,5,,20.0,487.53
+888,East,New York,New York City,10282,34539.04,2,17269.52,11,,18.18,3139.91
+889,East,New York,Niagara Falls,14304,12430.72,1,12430.72,3,,0.0,4143.57
+890,East,New York,North Babylon,11703,540.8,1,540.8,3,,0.0,180.27
+891,East,New York,North Tonawanda,14120,3972.81,2,1986.41,4,,0.0,993.2
+892,East,New York,Oceanside,11572,2107.1,2,1053.55,4,,0.0,526.78
+893,East,New York,Ossining,10562,4117.5,1,4117.5,4,,0.0,1029.38
+894,East,New York,Plainview,11803,3220.11,2,1610.06,6,,0.0,536.69
+895,East,New York,Port Chester,10573,6862.53,2,3431.27,11,,0.0,623.87
+896,East,New York,Rochester,14609,7293.5,1,7293.5,4,,0.0,1823.38
+897,East,New York,Rome,13440,6757.46,2,3378.73,4,,0.0,1689.37
+898,East,New York,Roosevelt,11575,1038.41,1,1038.41,3,,0.0,346.14
+899,East,New York,Rotterdam,12306,1048.55,1,1048.55,4,,0.0,262.14
+900,East,New York,Rye,10580,2593.79,1,2593.79,3,,0.0,864.6
+901,East,New York,Scarsdale,10583,2719.11,1,2719.11,3,,0.0,906.37
+902,East,New York,Schenectady,12306,4099.19,1,4099.19,5,,0.0,819.84
+903,East,New York,Shirley,11967,4286.42,2,2143.21,6,,0.0,714.4
+904,East,New York,Smithtown,11787,557.22,2,278.61,7,,0.0,79.6
+905,East,New York,Syracuse,13210,3277.47,2,1638.74,5,,0.0,655.49
+906,East,New York,Tonawanda,14150,9954.82,1,9954.82,5,,0.0,1990.96
+907,East,New York,Troy,12180,2548.47,2,1274.24,6,,0.0,424.75
+908,East,New York,Utica,13501,3955.09,1,3955.09,6,,0.0,659.18
+909,East,New York,Valley Stream,11580,2282.62,2,1141.31,6,,0.0,380.44
+910,East,New York,Watertown,13601,14690.71,1,14690.71,6,,0.0,2448.45
+911,East,New York,West Babylon,11704,3682.91,1,3682.91,4,,0.0,920.73
+912,East,New York,West Islip,11795,3048.05,2,1524.03,6,,0.0,508.01
+913,East,New York,West Seneca,14224,609.79,1,609.79,5,,0.0,121.96
+914,East,New York,White Plains,10605,3471.73,1,3471.73,4,,0.0,867.93
+915,East,New York,Woodmere,11598,988.78,2,494.39,4,,0.0,247.2
+916,East,New York,Yonkers,10701,4837.13,1,4837.13,6,,0.0,806.19
+917,East,Ohio,Akron,44312,3870.85,1,3870.85,4,,0.0,967.71
+918,East,Ohio,Austintown,44515,10051.51,2,5025.76,6,,0.0,1675.25
+919,East,Ohio,Beavercreek,45431,1957.92,2,978.96,3,,0.0,652.64
+920,East,Ohio,Berea,44017,452.16,1,452.16,4,,0.0,113.04
+921,East,Ohio,Boardman,44512,2952.43,1,2952.43,3,,0.0,984.14
+922,East,Ohio,Bowling Green,43402,5243.48,1,5243.48,4,,0.0,1310.87
+923,East,Ohio,Canton,44708,1992.6,1,1992.6,3,,0.0,664.2
+924,East,Ohio,Cincinnati,45231,16498.5,1,16498.5,5,,0.0,3299.7
+925,East,Ohio,Cleveland,44105,11549.12,2,5774.56,7,,0.0,1649.87
+926,East,Ohio,Cleveland Heights,44106,4786.9,1,4786.9,5,,0.0,957.38
+927,East,Ohio,Columbus,43229,976.74,2,488.37,5,,0.0,195.35
+928,East,Ohio,Cuyahoga Falls,44221,2354.78,2,1177.39,4,,0.0,588.7
+929,East,Ohio,Dayton,45406,6525.31,1,6525.31,5,,0.0,1305.06
+930,East,Ohio,Delaware,43015,4009.52,2,2004.76,5,,0.0,801.9
+931,East,Ohio,Dublin,43017,2378.67,2,1189.34,3,,0.0,792.89
+932,East,Ohio,East Cleveland,44112,3223.02,2,1611.51,4,,0.0,805.76
+933,East,Ohio,Elyria,44035,848.92,1,848.92,4,,0.0,212.23
+934,East,Ohio,Euclid,44117,2022.97,2,1011.49,5,,0.0,404.59
+935,East,Ohio,Fairborn,45324,9923.96,2,4961.98,6,,0.0,1653.99
+936,East,Ohio,Fairfield,45014,3994.77,1,3994.77,6,,0.0,665.8
+937,East,Ohio,Findlay,45840,1479.99,2,740.0,4,,0.0,370.0
+938,East,Ohio,Gahanna,43230,5287.74,2,2643.87,3,,0.0,1762.58
+939,East,Ohio,Garfield Heights,44125,5184.81,1,5184.81,6,,0.0,864.14
+940,East,Ohio,Grove City,43123,6351.98,2,3175.99,4,,0.0,1588.0
+941,East,Ohio,Hamilton,45011,1017.53,1,1017.53,2,,0.0,508.77
+942,East,Ohio,Hilliard,43026,7683.99,2,3842.0,5,,0.0,1536.8
+943,East,Ohio,Huber Heights,45424,4291.49,1,4291.49,5,,0.0,858.3
+944,East,Ohio,Hudson,44236,13883.57,1,13883.57,4,,0.0,3470.89
+945,East,Ohio,Kent,44240,22809.09,1,22809.09,7,,0.0,3258.44
+946,East,Ohio,Kettering,45429,1696.7,2,848.35,3,,0.0,565.57
+947,East,Ohio,Lakewood,44107,2365.02,2,1182.51,3,,0.0,788.34
+948,East,Ohio,Lancaster,43130,431.97,1,431.97,3,,0.0,143.99
+949,East,Ohio,Lima,45801,7242.55,2,3621.28,6,,0.0,1207.09
+950,East,Ohio,Lorain,44052,1085.45,1,1085.45,3,,0.0,361.82
+951,East,Ohio,Mansfield,44903,983.07,2,491.54,5,,0.0,196.61
+952,East,Ohio,Marion,43302,4514.0,1,4514.0,6,,0.0,752.33
+953,East,Ohio,Mason,45040,3494.26,2,1747.13,4,,0.0,873.57
+954,East,Ohio,Massillon,44646,6314.24,2,3157.12,8,,0.0,789.28
+955,East,Ohio,Medina,44256,2518.08,2,1259.04,6,,0.0,419.68
+956,East,Ohio,Mentor,44060,298.37,2,149.19,3,,0.0,99.46
+957,East,Ohio,Middletown,45042,158.18,1,158.18,4,,0.0,39.55
+958,East,Ohio,Mount Vernon,43050,4722.24,2,2361.12,6,,0.0,787.04
+959,East,Ohio,Newark,43055,1520.23,1,1520.23,3,,0.0,506.74
+960,East,Ohio,North Olmsted,44070,1562.86,2,781.43,6,,0.0,260.48
+961,East,Ohio,North Ridgeville,44039,3988.13,1,3988.13,5,,0.0,797.63
+962,East,Ohio,North Royalton,44133,3664.22,1,3664.22,6,,0.0,610.7
+963,East,Ohio,Parma,44134,163.74,1,163.74,1,,0.0,163.74
+964,East,Ohio,Reynoldsburg,43068,1035.62,2,517.81,5,,0.0,207.12
+965,East,Ohio,Sandusky,44870,1356.97,1,1356.97,6,,0.0,226.16
+966,East,Ohio,Shaker Heights,44118,10174.89,2,5087.45,6,,0.0,1695.82
+967,East,Ohio,Springfield,45503,3909.73,1,3909.73,3,,0.0,1303.24
+968,East,Ohio,Steubenville,43952,12546.6,2,6273.3,7,,0.0,1792.37
+969,East,Ohio,Stow,44224,1494.48,1,1494.48,6,,0.0,249.08
+970,East,Ohio,Strongsville,44136,5577.49,1,5577.49,5,,0.0,1115.5
+971,East,Ohio,Toledo,43615,3755.34,1,3755.34,4,,0.0,938.84
+972,East,Ohio,Troy,45373,2853.02,1,2853.02,4,,0.0,713.26
+973,East,Ohio,Upper Arlington,43221,2353.27,1,2353.27,4,,0.0,588.32
+974,East,Ohio,Warren,44483,5711.68,1,5711.68,3,,0.0,1903.89
+975,East,Ohio,Westerville,43081,6352.67,2,3176.34,6,,0.0,1058.78
+976,East,Ohio,Westlake,44145,4587.64,1,4587.64,4,,0.0,1146.91
+977,East,Ohio,Whitehall,43213,2096.77,1,2096.77,4,,0.0,524.19
+978,East,Ohio,Willoughby,44094,3216.8,1,3216.8,4,,0.0,804.2
+979,East,Ohio,Wooster,44691,2012.59,2,1006.3,5,,0.0,402.52
+980,East,Ohio,Xenia,45385,6344.41,2,3172.21,5,,0.0,1268.88
+981,East,Ohio,Youngstown,44511,945.85,1,945.85,4,,0.0,236.46
+982,East,Pennsylvania,Allentown,18103,3066.29,1,3066.29,6,,0.0,511.05
+983,East,Pennsylvania,Altoona,16602,2816.37,2,1408.19,6,,0.0,469.4
+984,East,Pennsylvania,Baldwin,15234,4315.44,1,4315.44,3,,0.0,1438.48
+985,East,Pennsylvania,Bethel Park,15102,932.53,2,466.27,4,,0.0,233.13
+986,East,Pennsylvania,Bethlehem,18018,997.39,1,997.39,2,,0.0,498.7
+987,East,Pennsylvania,Chambersburg,17201,349.58,1,349.58,3,,0.0,116.53
+988,East,Pennsylvania,Chester,19013,2217.24,1,2217.24,3,,0.0,739.08
+989,East,Pennsylvania,Drexel Hill,19026,4035.34,3,1345.11,6,,0.0,672.56
+990,East,Pennsylvania,Easton,18040,3622.53,1,3622.53,4,,0.0,905.63
+991,East,Pennsylvania,Erie,16509,820.28,1,820.28,3,,0.0,273.43
+992,East,Pennsylvania,Greensburg,15601,2361.66,1,2361.66,7,,0.0,337.38
+993,East,Pennsylvania,Hanover,17331,1245.68,1,1245.68,5,,0.0,249.14
+994,East,Pennsylvania,Harrisburg,17112,7766.18,2,3883.09,6,,0.0,1294.36
+995,East,Pennsylvania,Hazleton,18201,2859.58,1,2859.58,3,,0.0,953.19
+996,East,Pennsylvania,Hermitage,16148,7141.67,1,7141.67,3,,0.0,2380.56
+997,East,Pennsylvania,King of Prussia,19406,2292.44,2,1146.22,5,,0.0,458.49
+998,East,Pennsylvania,Lancaster,17602,2568.13,1,2568.13,5,,0.0,513.63
+999,East,Pennsylvania,Levittown,19057,2473.2,1,2473.2,2,,0.0,1236.6
+1000,East,Pennsylvania,McKeesport,15131,1097.21,1,1097.21,5,,0.0,219.44
+1001,East,Pennsylvania,Monroeville,15146,1534.2,2,767.1,5,,0.0,306.84
+1002,East,Pennsylvania,Mount Lebanon,15228,8109.63,1,8109.63,6,,0.0,1351.61
+1003,East,Pennsylvania,Norristown,19401,938.09,1,938.09,4,,0.0,234.52
+1004,East,Pennsylvania,Penn Hills,15235,2105.3,1,2105.3,5,,0.0,421.06
+1005,East,Pennsylvania,Philadelphia,19112,43150.53,1,43150.53,13,,7.69,3319.27
+1006,East,Pennsylvania,Philadelphia,19120,5891.86,1,5891.86,1,,0.0,5891.86
+1007,East,Pennsylvania,Philadelphia,19134,60623.82,2,30311.91,11,,9.09,5511.26
+1008,East,Pennsylvania,Philadelphia,19140,42470.09,1,42470.09,6,,116.67,7078.35
+1009,East,Pennsylvania,Philadelphia,19143,3798.13,1,3798.13,3,,0.0,1266.04
+1010,East,Pennsylvania,Pittsburgh,15122,4790.83,1,4790.83,7,,0.0,684.4
+1011,East,Pennsylvania,Plum,15239,12318.54,2,6159.27,5,,0.0,2463.71
+1012,East,Pennsylvania,Pottstown,19464,3672.98,1,3672.98,4,,0.0,918.25
+1013,East,Pennsylvania,Radnor,19087,4111.34,2,2055.67,4,,0.0,1027.84
+1014,East,Pennsylvania,Reading,19601,372.59,1,372.59,2,,0.0,186.3
+1015,East,Pennsylvania,Scranton,18504,2199.51,1,2199.51,3,,0.0,733.17
+1016,East,Pennsylvania,Sharon,16146,13542.7,1,13542.7,5,,0.0,2708.54
+1017,East,Pennsylvania,State College,16801,726.08,1,726.08,4,,0.0,181.52
+1018,East,Pennsylvania,Upper Saint Clair,15241,4165.01,2,2082.51,4,,0.0,1041.25
+1019,East,Pennsylvania,West Mifflin,15122,9877.26,2,4938.63,5,,0.0,1975.45
+1020,East,Pennsylvania,Wilkes Barre,18705,7523.79,2,3761.9,4,,0.0,1880.95
+1021,East,Pennsylvania,Wilkinsburg,15221,1303.5,1,1303.5,3,,0.0,434.5
+1022,East,Pennsylvania,Willow Grove,19090,4466.11,1,4466.11,2,,0.0,2233.06
+1023,East,Pennsylvania,York,17403,999.33,2,499.67,5,,0.0,199.87
+1024,East,Rhode Island,Barrington,2806,7632.9,1,7632.9,1,,0.0,7632.9
+1025,East,Rhode Island,Central Falls,2863,408.66,1,408.66,1,,0.0,408.66
+1026,East,Rhode Island,Coventry,2816,1481.64,1,1481.64,1,,0.0,1481.64
+1027,East,Rhode Island,Cranston,2907,84.32,1,84.32,1,,0.0,84.32
+1028,East,Rhode Island,Cranston,2910,1870.38,1,1870.38,1,,0.0,1870.38
+1029,East,Rhode Island,Cranston,2920,545.88,1,545.88,1,,0.0,545.88
+1030,East,Rhode Island,Cumberland,2864,577.86,1,577.86,1,,0.0,577.86
+1031,East,Rhode Island,East Providence,2914,518.58,1,518.58,1,,0.0,518.58
+1032,East,Rhode Island,Middletown,2840,655.92,1,655.92,1,,0.0,655.92
+1033,East,Rhode Island,Newport,2840,50.72,1,50.72,1,,0.0,50.72
+1034,East,Rhode Island,North Kingstown,2852,579.95,1,579.95,1,,0.0,579.95
+1035,East,Rhode Island,Pawtucket,2861,65.36,1,65.36,1,,0.0,65.36
+1036,East,Rhode Island,Providence,2908,345.72,1,345.72,1,,0.0,345.72
+1037,East,Rhode Island,Smithfield,2917,2056.12,1,2056.12,1,,0.0,2056.12
+1038,East,Rhode Island,Tiverton,2878,10.74,1,10.74,1,,0.0,10.74
+1039,East,Rhode Island,Warwick,2886,783.6,1,783.6,1,,0.0,783.6
+1040,East,Rhode Island,Westerly,2808,1159.13,1,1159.13,1,,0.0,1159.13
+1041,East,Rhode Island,Westerly,2891,282.61,1,282.61,1,,0.0,282.61
+1042,East,Rhode Island,Woonsocket,2895,93.71,2,46.86,2,,0.0,46.86
+1043,East,Vermont,Bennington,5201,8481.96,9,942.44,10,,0.0,848.2
+1044,East,Vermont,Burlington,5401,12829.67,10,1282.97,12,,0.0,1069.14
+1045,East,Vermont,Colchester,5439,2191.34,8,273.92,8,,0.0,273.92
+1046,East,Vermont,Essex Junction,5451,8841.63,10,884.16,10,,0.0,884.16
+1047,East,Vermont,Rutland,5701,2579.77,9,286.64,10,,0.0,257.98
+1048,East,Vermont,South Burlington,5403,4319.78,11,392.71,11,,0.0,392.71
+1049,East,West Virginia,Beckley,25801,1523.49,1,1523.49,2,,0.0,761.75
+1050,East,West Virginia,Charleston,25314,4595.76,2,2297.88,4,,0.0,1148.94
+1051,East,West Virginia,Clarksburg,26301,2088.39,1,2088.39,3,,0.0,696.13
+1052,East,West Virginia,Fairmont,26554,1922.28,1,1922.28,5,,0.0,384.46
+1053,East,West Virginia,Huntington,25705,7651.76,1,7651.76,3,,0.0,2550.59
+1054,East,West Virginia,Morgantown,26501,16568.94,2,8284.47,5,,0.0,3313.79
+1055,East,West Virginia,Parkersburg,26101,2201.96,1,2201.96,4,,0.0,550.49
+1056,East,West Virginia,Wheeling,26003,2945.24,1,2945.24,3,,0.0,981.75
+1057,South,Alabama,Auburn,36830,12911.09,1,12911.09,4,,0.0,3227.77
+1058,South,Alabama,Bessemer,35020,1121.79,2,560.9,6,,0.0,186.97
+1059,South,Alabama,Birmingham,35211,9986.61,1,9986.61,5,,0.0,1997.32
+1060,South,Alabama,Decatur,35601,2980.68,1,2980.68,5,,0.0,596.14
+1061,South,Alabama,Enterprise,36330,3890.31,2,1945.16,4,,0.0,972.58
+1062,South,Alabama,Florence,35630,6278.07,1,6278.07,5,,0.0,1255.61
+1063,South,Alabama,Gadsden,35904,1302.69,1,1302.69,4,,0.0,325.67
+1064,South,Alabama,Homewood,35209,21222.92,1,21222.92,5,,0.0,4244.58
+1065,South,Alabama,Hoover,35244,3412.82,1,3412.82,3,,0.0,1137.61
+1066,South,Alabama,Huntsville,35810,949.52,1,949.52,4,,0.0,237.38
+1067,South,Alabama,Madison,35756,22957.54,1,22957.54,6,,0.0,3826.26
+1068,South,Alabama,Mobile,36608,8200.58,2,4100.29,6,,0.0,1366.76
+1069,South,Alabama,Montgomery,36116,4422.87,2,2211.44,4,,0.0,1105.72
+1070,South,Alabama,Northport,35473,885.88,1,885.88,3,,0.0,295.29
+1071,South,Alabama,Opelika,36801,5333.52,1,5333.52,3,,0.0,1777.84
+1072,South,Alabama,Oxford,36203,3524.45,1,3524.45,4,,0.0,881.11
+1073,South,Alabama,Phenix City,36869,1992.83,1,1992.83,8,,0.0,249.1
+1074,South,Alabama,Prattville,36067,2552.97,1,2552.97,3,,0.0,850.99
+1075,South,Alabama,Selma,36701,966.57,1,966.57,4,,0.0,241.64
+1076,South,Alabama,Talladega,35160,5278.2,1,5278.2,1,,0.0,5278.2
+1077,South,Alabama,Tuscaloosa,35401,2289.12,2,1144.56,3,,0.0,763.04
+1078,South,Alabama,Vestavia Hills,35216,2808.01,1,2808.01,3,,0.0,936.0
+1079,South,Arkansas,Bella Vista,72714,1548.09,1,1548.09,5,,0.0,309.62
+1080,South,Arkansas,Benton,72015,5077.79,3,1692.6,5,,0.0,1015.56
+1081,South,Arkansas,Bentonville,72712,501.58,1,501.58,2,,0.0,250.79
+1082,South,Arkansas,Bryant,72022,897.63,1,897.63,5,,0.0,179.53
+1083,South,Arkansas,Cabot,72023,344.17,1,344.17,1,,0.0,344.17
+1084,South,Arkansas,Conway,72032,3655.1,1,3655.1,4,,0.0,913.78
+1085,South,Arkansas,Fayetteville,72701,26669.03,2,13334.52,5,,0.0,5333.81
+1086,South,Arkansas,Fort Smith,72903,548.06,1,548.06,3,,0.0,182.69
+1087,South,Arkansas,Hot Springs,71901,3265.04,2,1632.52,5,,0.0,653.01
+1088,South,Arkansas,Jonesboro,72401,3898.78,1,3898.78,4,,0.0,974.7
+1089,South,Arkansas,Little Rock,72209,2110.71,2,1055.36,5,,0.0,422.14
+1090,South,Arkansas,North Little Rock,72113,1560.63,1,1560.63,4,,0.0,390.16
+1091,South,Arkansas,Paragould,72450,1036.69,1,1036.69,6,,0.0,172.78
+1092,South,Arkansas,Pine Bluff,71603,2284.82,2,1142.41,5,,0.0,456.96
+1093,South,Arkansas,Rogers,72756,4870.71,3,1623.57,6,,0.0,811.79
+1094,South,Arkansas,Russellville,72801,4661.86,2,2330.93,4,,0.0,1165.47
+1095,South,Arkansas,Searcy,72143,15639.2,2,7819.6,6,,0.0,2606.53
+1096,South,Arkansas,Sherwood,72116,6086.31,1,6086.31,5,,0.0,1217.26
+1097,South,Arkansas,Springdale,72762,11.58,1,11.58,2,,0.0,5.79
+1098,South,Arkansas,Texarkana,71854,3942.47,2,1971.24,5,,0.0,788.49
+1099,South,Arkansas,Van Buren,72956,2051.55,3,683.85,5,,0.0,410.31
+1100,South,Arkansas,West Memphis,72301,3652.37,1,3652.37,5,,0.0,730.47
+1101,South,Florida,Altamonte Springs,32701,7018.67,2,3509.34,3,,0.0,2339.56
+1102,South,Florida,Apopka,32712,3365.68,1,3365.68,5,,0.0,673.14
+1103,South,Florida,Belle Glade,33430,4983.73,2,2491.87,4,,0.0,1245.93
+1104,South,Florida,Boca Raton,33433,453.36,1,453.36,3,,0.0,151.12
+1105,South,Florida,Boynton Beach,33437,1090.33,1,1090.33,2,,0.0,545.17
+1106,South,Florida,Bradenton,34210,399.23,2,199.62,5,,0.0,79.85
+1107,South,Florida,Brandon,33511,1346.36,1,1346.36,3,,0.0,448.79
+1108,South,Florida,Carol City,33055,4508.54,1,4508.54,3,,0.0,1502.85
+1109,South,Florida,Casselberry,32707,368.67,1,368.67,4,,0.0,92.17
+1110,South,Florida,Coconut Creek,33063,8881.91,2,4440.96,5,,0.0,1776.38
+1111,South,Florida,Coral Gables,33134,2550.82,2,1275.41,3,,0.0,850.27
+1112,South,Florida,Coral Springs,33065,6003.96,2,3001.98,5,,0.0,1200.79
+1113,South,Florida,Davie,33314,373.91,1,373.91,3,,0.0,124.64
+1114,South,Florida,Daytona Beach,32114,5535.04,1,5535.04,2,,0.0,2767.52
+1115,South,Florida,Deerfield Beach,33441,1501.37,1,1501.37,2,,0.0,750.69
+1116,South,Florida,Deland,32720,3718.22,2,1859.11,5,,0.0,743.64
+1117,South,Florida,Delray Beach,33445,5412.41,2,2706.21,3,,0.0,1804.14
+1118,South,Florida,Deltona,32725,819.23,1,819.23,3,,0.0,273.08
+1119,South,Florida,Dunedin,34698,10269.12,2,5134.56,6,,0.0,1711.52
+1120,South,Florida,Fort Lauderdale,33311,4576.91,2,2288.46,5,,0.0,915.38
+1121,South,Florida,Fort Myers,33917,1974.38,1,1974.38,3,,0.0,658.13
+1122,South,Florida,Fort Pierce,34982,3966.33,1,3966.33,4,,0.0,991.58
+1123,South,Florida,Fruit Cove,32259,7196.33,2,3598.17,5,,0.0,1439.27
+1124,South,Florida,Gainesville,32601,18100.32,1,18100.32,6,,0.0,3016.72
+1125,South,Florida,Hialeah,33012,4772.07,2,2386.04,5,,0.0,954.41
+1126,South,Florida,Hollywood,33021,2148.12,2,1074.06,5,,0.0,429.62
+1127,South,Florida,Homestead,33030,3256.43,1,3256.43,2,,0.0,1628.22
+1128,South,Florida,Immokalee,34142,1834.04,1,1834.04,3,,0.0,611.35
+1129,South,Florida,Jacksonville,32216,3526.11,2,1763.06,5,,0.0,705.22
+1130,South,Florida,Jupiter,33458,2036.24,2,1018.12,5,,0.0,407.25
+1131,South,Florida,Kendall,33156,2318.9,1,2318.9,4,,0.0,579.73
+1132,South,Florida,Kissimmee,34741,7672.48,2,3836.24,5,,0.0,1534.5
+1133,South,Florida,Lake Worth,33461,2408.71,1,2408.71,5,,0.0,481.74
+1134,South,Florida,Lakeland,33801,1638.38,2,819.19,3,,0.0,546.13
+1135,South,Florida,Land O Lakes,34639,5937.4,2,2968.7,6,,0.0,989.57
+1136,South,Florida,Lehigh Acres,33971,1894.54,1,1894.54,4,,0.0,473.64
+1137,South,Florida,Margate,33063,20936.73,1,20936.73,3,,0.0,6978.91
+1138,South,Florida,Melbourne,32935,689.26,1,689.26,1,,0.0,689.26
+1139,South,Florida,Merritt Island,32953,2310.72,1,2310.72,5,,0.0,462.14
+1140,South,Florida,Miami,33132,67212.46,2,33606.23,9,,22.22,7468.05
+1141,South,Florida,Miami,33142,1599.07,1,1599.07,6,,0.0,266.51
+1142,South,Florida,Miami,33178,50299.23,1,50299.23,4,,0.0,12574.81
+1143,South,Florida,Miami,33180,2803.33,1,2803.33,3,,0.0,934.44
+1144,South,Florida,Miami,33181,24361.06,1,24361.06,5,,0.0,4872.21
+1145,South,Florida,Miami,33916,38500.88,1,38500.88,12,,8.33,3208.41
+1146,South,Florida,Miramar,33023,3759.7,1,3759.7,5,,0.0,751.94
+1147,South,Florida,New Smyrna Beach,32168,136.55,1,136.55,2,,0.0,68.28
+1148,South,Florida,North Miami,33161,920.8,2,460.4,3,,0.0,306.93
+1149,South,Florida,North Miami Beach,33160,7301.21,2,3650.61,7,,0.0,1043.03
+1150,South,Florida,North Port,34287,4260.35,2,2130.18,4,,0.0,1065.09
+1151,South,Florida,Oakland Park,33334,1272.36,2,636.18,7,,0.0,181.77
+1152,South,Florida,Ocoee,34761,1288.53,2,644.27,3,,0.0,429.51
+1153,South,Florida,Orlando,32839,8700.07,2,4350.04,5,,0.0,1740.01
+1154,South,Florida,Ormond Beach,32174,2375.9,2,1187.95,7,,0.0,339.41
+1155,South,Florida,Oviedo,32765,2717.73,1,2717.73,4,,0.0,679.43
+1156,South,Florida,Palm Bay,32905,4119.27,1,4119.27,5,,0.0,823.85
+1157,South,Florida,Palm Beach Gardens,33403,4059.97,3,1353.32,7,,0.0,580.0
+1158,South,Florida,Palm Coast,32137,9124.07,3,3041.36,7,,0.0,1303.44
+1159,South,Florida,Palm Harbor,34683,98.6,1,98.6,1,,0.0,98.6
+1160,South,Florida,Panama City,32404,2799.02,2,1399.51,4,,0.0,699.76
+1161,South,Florida,Pembroke Pines,33024,3125.14,1,3125.14,5,,0.0,625.03
+1162,South,Florida,Pensacola,32503,706.24,1,706.24,5,,0.0,141.25
+1163,South,Florida,Pine Hills,32808,5997.61,1,5997.61,2,,0.0,2998.81
+1164,South,Florida,Plant City,33566,12182.14,2,6091.07,4,,0.0,3045.54
+1165,South,Florida,Plantation,33317,1000.64,1,1000.64,3,,0.0,333.55
+1166,South,Florida,Poinciana,34759,1446.67,3,482.22,7,,0.0,206.67
+1167,South,Florida,Pompano Beach,33068,501.45,1,501.45,1,,0.0,501.45
+1168,South,Florida,Ponte Vedra Beach,32004,4869.44,1,4869.44,4,,0.0,1217.36
+1169,South,Florida,Port Charlotte,33952,2472.92,2,1236.46,6,,0.0,412.15
+1170,South,Florida,Port Orange,32127,370.59,1,370.59,3,,0.0,123.53
+1171,South,Florida,Port Saint Lucie,34952,1657.35,2,828.68,3,,0.0,552.45
+1172,South,Florida,Riverview,33569,656.26,1,656.26,5,,0.0,131.25
+1173,South,Florida,Riviera Beach,33404,5180.73,1,5180.73,3,,0.0,1726.91
+1174,South,Florida,Royal Palm Beach,33411,4734.09,2,2367.05,5,,0.0,946.82
+1175,South,Florida,Saint Cloud,34769,290.22,2,145.11,3,,0.0,96.74
+1176,South,Florida,Saint Petersburg,33710,3947.13,1,3947.13,6,,0.0,657.86
+1177,South,Florida,Sanford,32771,5475.75,1,5475.75,5,,0.0,1095.15
+1178,South,Florida,Sarasota,34239,6208.29,3,2069.43,9,,0.0,689.81
+1179,South,Florida,Seminole,33772,926.71,1,926.71,5,,0.0,185.34
+1180,South,Florida,Spring Hill,34609,831.63,2,415.82,3,,0.0,277.21
+1181,South,Florida,Sunrise,33322,449.79,1,449.79,3,,0.0,149.93
+1182,South,Florida,Tallahassee,32303,2491.0,2,1245.5,3,,0.0,830.33
+1183,South,Florida,Tamarac,33319,489.75,2,244.88,3,,0.0,163.25
+1184,South,Florida,Tampa,33614,999.71,1,999.71,4,,0.0,249.93
+1185,South,Florida,Titusville,32780,2225.15,2,1112.58,4,,0.0,556.29
+1186,South,Florida,West Palm Beach,33407,212.02,1,212.02,2,,0.0,106.01
+1187,South,Florida,Winter Garden,34787,413.38,2,206.69,4,,0.0,103.35
+1188,South,Florida,Winter Haven,33881,5136.58,2,2568.29,6,,0.0,856.1
+1189,South,Florida,Winter Park,32789,7499.56,1,7499.56,4,,0.0,1874.89
+1190,South,Florida,Winter Springs,32708,614.86,2,307.43,5,,0.0,122.97
+1191,South,Georgia,Albany,31707,411.67,1,411.67,2,,0.0,205.84
+1192,South,Georgia,Athens,30605,5440.97,1,5440.97,8,,0.0,680.12
+1193,South,Georgia,Atlanta,30305,36791.5,1,36791.5,14,,0.0,2627.96
+1194,South,Georgia,Atlanta,30318,41909.99,4,10477.5,18,,5.56,2328.33
+1195,South,Georgia,Augusta,30904,481.77,1,481.77,4,,0.0,120.44
+1196,South,Georgia,College Park,30337,2620.96,1,2620.96,5,,0.0,524.19
+1197,South,Georgia,Columbus,31907,8047.12,1,8047.12,4,,0.0,2011.78
+1198,South,Georgia,Dalton,30721,5311.35,2,2655.68,6,,0.0,885.23
+1199,South,Georgia,Douglasville,30135,3377.11,2,1688.56,5,,0.0,675.42
+1200,South,Georgia,Dunwoody,30338,1265.71,1,1265.71,3,,0.0,421.9
+1201,South,Georgia,East Point,30344,1405.66,2,702.83,5,,0.0,281.13
+1202,South,Georgia,Evans,30809,919.54,1,919.54,4,,0.0,229.89
+1203,South,Georgia,Forest Park,30297,1054.72,1,1054.72,4,,0.0,263.68
+1204,South,Georgia,Gainesville,30501,2241.27,3,747.09,5,,0.0,448.25
+1205,South,Georgia,Hinesville,31313,8438.22,2,4219.11,7,,0.0,1205.46
+1206,South,Georgia,Kennesaw,30144,2716.58,1,2716.58,7,,0.0,388.08
+1207,South,Georgia,La Grange,30240,10466.86,1,10466.86,2,,0.0,5233.43
+1208,South,Georgia,Macon,31204,1157.21,1,1157.21,4,,0.0,289.3
+1209,South,Georgia,Marietta,30062,3434.21,2,1717.11,4,,0.0,858.55
+1210,South,Georgia,Martinez,30907,1684.84,1,1684.84,6,,0.0,280.81
+1211,South,Georgia,Newnan,30265,7456.52,2,3728.26,5,,0.0,1491.3
+1212,South,Georgia,Peachtree City,30269,12314.2,2,6157.1,6,,0.0,2052.37
+1213,South,Georgia,Rome,30161,2100.73,1,2100.73,5,,0.0,420.15
+1214,South,Georgia,Roswell,30076,1329.03,2,664.52,4,,0.0,332.26
+1215,South,Georgia,Sandy Springs,30328,1301.99,1,1301.99,2,,0.0,651.0
+1216,South,Georgia,Savannah,31401,8718.21,1,8718.21,4,,0.0,2179.55
+1217,South,Georgia,Smyrna,30080,6391.79,1,6391.79,3,,0.0,2130.6
+1218,South,Georgia,Statesboro,30458,5925.13,2,2962.57,4,,0.0,1481.28
+1219,South,Georgia,Tucker,30084,4503.4,1,4503.4,5,,0.0,900.68
+1220,South,Georgia,Warner Robins,31088,3050.21,1,3050.21,3,,0.0,1016.74
+1221,South,Georgia,Woodstock,30188,2568.38,1,2568.38,4,,0.0,642.1
+1222,South,Kentucky,Bowling Green,42104,1911.77,1,1911.77,2,,0.0,955.89
+1223,South,Kentucky,Covington,41011,1172.86,1,1172.86,5,,0.0,234.57
+1224,South,Kentucky,Danville,40422,8485.83,2,4242.92,5,,0.0,1697.17
+1225,South,Kentucky,Florence,41042,9149.53,2,4574.77,5,,0.0,1829.91
+1226,South,Kentucky,Fort Thomas,41075,3189.0,1,3189.0,5,,0.0,637.8
+1227,South,Kentucky,Georgetown,40324,821.84,2,410.92,3,,0.0,273.95
+1228,South,Kentucky,Henderson,42420,3339.75,2,1669.88,5,,0.0,667.95
+1229,South,Kentucky,Hopkinsville,42240,1518.06,1,1518.06,2,,0.0,759.03
+1230,South,Kentucky,Louisville,40214,4501.72,1,4501.72,4,,0.0,1125.43
+1231,South,Kentucky,Murray,42071,6477.95,2,3238.98,5,,0.0,1295.59
+1232,South,Kentucky,Nicholasville,40356,1743.19,2,871.6,4,,0.0,435.8
+1233,South,Kentucky,Owensboro,42301,4141.52,3,1380.51,6,,0.0,690.25
+1234,South,Kentucky,Paducah,42003,5644.97,2,2822.49,5,,0.0,1128.99
+1235,South,Kentucky,Pleasure Ridge Park,40258,8025.12,1,8025.12,5,,0.0,1605.02
+1236,South,Kentucky,Richmond,40475,1012.52,1,1012.52,5,,0.0,202.5
+1237,South,Louisiana,Alexandria,71301,505.27,2,252.64,3,,0.0,168.42
+1238,South,Louisiana,Baton Rouge,70802,12103.66,2,6051.83,7,,0.0,1729.09
+1239,South,Louisiana,Bossier City,71111,3506.0,2,1753.0,3,,0.0,1168.67
+1240,South,Louisiana,Houma,70364,2399.96,1,2399.96,2,,0.0,1199.98
+1241,South,Louisiana,Kenner,70065,12043.16,1,12043.16,3,,0.0,4014.39
+1242,South,Louisiana,Lafayette,70506,3149.5,3,1049.83,7,,0.0,449.93
+1243,South,Louisiana,Lake Charles,70601,1764.48,1,1764.48,2,,0.0,882.24
+1244,South,Louisiana,Marrero,70072,3686.89,1,3686.89,4,,0.0,921.72
+1245,South,Louisiana,Metairie,70003,2498.72,1,2498.72,5,,0.0,499.74
+1246,South,Louisiana,Monroe,71203,1392.31,2,696.16,5,,0.0,278.46
+1247,South,Louisiana,New Iberia,70560,1227.69,1,1227.69,3,,0.0,409.23
+1248,South,Louisiana,New Orleans,70117,3376.23,2,1688.12,7,,0.0,482.32
+1249,South,Louisiana,Shreveport,71109,994.02,1,994.02,6,,0.0,165.67
+1250,South,Louisiana,Slidell,70458,18030.62,2,9015.31,5,,0.0,3606.12
+1251,South,Louisiana,Terrytown,70056,989.89,1,989.89,4,,0.0,247.47
+1252,South,Mississippi,Biloxi,39530,1080.88,1,1080.88,4,,0.0,270.22
+1253,South,Mississippi,Clinton,39056,1893.26,1,1893.26,6,,0.0,315.54
+1254,South,Mississippi,Columbus,39701,6385.0,1,6385.0,7,,0.0,912.14
+1255,South,Mississippi,Greenville,38701,751.46,1,751.46,6,,0.0,125.24
+1256,South,Mississippi,Gulfport,39503,2475.83,1,2475.83,5,,0.0,495.17
+1257,South,Mississippi,Hattiesburg,39401,347.97,1,347.97,3,,0.0,115.99
+1258,South,Mississippi,Horn Lake,38637,2923.02,1,2923.02,3,,0.0,974.34
+1259,South,Mississippi,Jackson,39212,5698.73,2,2849.37,5,,0.0,1139.75
+1260,South,Mississippi,Long Beach,39560,7996.05,2,3998.03,4,,0.0,1999.01
+1261,South,Mississippi,Meridian,39301,807.83,2,403.92,6,,0.0,134.64
+1262,South,Mississippi,Olive Branch,38654,5053.95,1,5053.95,2,,0.0,2526.98
+1263,South,Mississippi,Pearl,39208,2216.95,2,1108.48,5,,0.0,443.39
+1264,South,Mississippi,Southaven,38671,1122.88,2,561.44,2,,0.0,561.44
+1265,South,Mississippi,Tupelo,38801,1264.09,1,1264.09,4,,0.0,316.02
+1266,South,Mississippi,Vicksburg,39180,841.44,1,841.44,2,,0.0,420.72
+1267,South,North Carolina,Albemarle,28001,6626.47,1,6626.47,2,,0.0,3313.24
+1268,South,North Carolina,Apex,27502,22786.85,2,11393.43,5,,0.0,4557.37
+1269,South,North Carolina,Asheboro,27203,2169.7,1,2169.7,5,,0.0,433.94
+1270,South,North Carolina,Asheville,28806,2045.92,1,2045.92,2,,0.0,1022.96
+1271,South,North Carolina,Burlington,27217,827.42,1,827.42,2,,0.0,413.71
+1272,South,North Carolina,Cary,27511,1226.14,1,1226.14,4,,0.0,306.54
+1273,South,North Carolina,Chapel Hill,27514,2334.88,1,2334.88,2,,0.0,1167.44
+1274,South,North Carolina,Charlotte,28204,34888.42,1,34888.42,13,,15.38,2683.72
+1275,South,North Carolina,Charlotte,28205,2774.2,1,2774.2,5,,0.0,554.84
+1276,South,North Carolina,Charlotte,28206,33195.24,1,33195.24,16,,6.25,2074.7
+1277,South,North Carolina,Concord,28027,1018.57,1,1018.57,2,,0.0,509.29
+1278,South,North Carolina,Cornelius,28031,433.4,1,433.4,4,,0.0,108.35
+1279,South,North Carolina,Durham,27707,2066.86,1,2066.86,4,,0.0,516.72
+1280,South,North Carolina,Eden,27288,6467.58,2,3233.79,5,,0.0,1293.52
+1281,South,North Carolina,Fayetteville,28314,1459.44,1,1459.44,4,,0.0,364.86
+1282,South,North Carolina,Fort Bragg,28307,8004.31,1,8004.31,3,,0.0,2668.1
+1283,South,North Carolina,Garner,27529,1479.67,2,739.84,4,,0.0,369.92
+1284,South,North Carolina,Gastonia,28052,2150.56,1,2150.56,3,,0.0,716.85
+1285,South,North Carolina,Goldsboro,27534,10054.54,1,10054.54,4,,0.0,2513.64
+1286,South,North Carolina,Greensboro,27405,3576.9,1,3576.9,5,,0.0,715.38
+1287,South,North Carolina,Greenville,27834,231.47,2,115.74,4,,0.0,57.87
+1288,South,North Carolina,Hickory,28601,3952.47,2,1976.24,7,,0.0,564.64
+1289,South,North Carolina,High Point,27260,1931.68,2,965.84,5,,0.0,386.34
+1290,South,North Carolina,Indian Trail,28079,1629.03,2,814.52,8,,0.0,203.63
+1291,South,North Carolina,Jacksonville,28540,624.46,1,624.46,4,,0.0,156.12
+1292,South,North Carolina,Kannapolis,28081,638.07,1,638.07,3,,0.0,212.69
+1293,South,North Carolina,Laurinburg,28352,2184.13,1,2184.13,3,,0.0,728.04
+1294,South,North Carolina,Mint Hill,28227,1807.95,1,1807.95,3,,0.0,602.65
+1295,South,North Carolina,Monroe,28110,2179.38,2,1089.69,4,,0.0,544.85
+1296,South,North Carolina,Mooresville,28115,4154.5,1,4154.5,6,,0.0,692.42
+1297,South,North Carolina,New Bern,28560,4265.94,2,2132.97,6,,0.0,710.99
+1298,South,North Carolina,Raleigh,27604,2406.74,1,2406.74,4,,0.0,601.69
+1299,South,North Carolina,Rocky Mount,27801,6657.65,2,3328.83,4,,0.0,1664.41
+1300,South,North Carolina,Salisbury,28144,2488.81,1,2488.81,6,,0.0,414.8
+1301,South,North Carolina,Sanford,27237,2867.06,2,1433.53,3,,0.0,955.69
+1302,South,North Carolina,Thomasville,27360,4382.71,1,4382.71,4,,0.0,1095.68
+1303,South,North Carolina,Wake Forest,27587,628.25,2,314.13,3,,0.0,209.42
+1304,South,North Carolina,Wilmington,28403,9686.54,2,4843.27,6,,0.0,1614.42
+1305,South,North Carolina,Wilson,27893,4342.15,1,4342.15,5,,0.0,868.43
+1306,South,South Carolina,Aiken,29801,466.37,2,233.19,6,,0.0,77.73
+1307,South,South Carolina,Anderson,29624,2281.92,1,2281.92,4,,0.0,570.48
+1308,South,South Carolina,Charleston,29418,3789.04,2,1894.52,5,,0.0,757.81
+1309,South,South Carolina,Columbia,29203,2431.64,1,2431.64,4,,0.0,607.91
+1310,South,South Carolina,Florence,29501,2064.58,2,1032.29,3,,0.0,688.19
+1311,South,South Carolina,Greenville,29611,5515.21,1,5515.21,5,,0.0,1103.04
+1312,South,South Carolina,Greer,29651,2715.78,2,1357.89,5,,0.0,543.16
+1313,South,South Carolina,Hilton Head Island,29915,5077.38,4,1269.35,10,,0.0,507.74
+1314,South,South Carolina,Mauldin,29662,6222.25,1,6222.25,5,,0.0,1244.45
+1315,South,South Carolina,Mount Pleasant,29464,394.05,1,394.05,2,,0.0,197.03
+1316,South,South Carolina,Myrtle Beach,29577,2338.02,1,2338.02,6,,0.0,389.67
+1317,South,South Carolina,North Charleston,29406,6132.56,1,6132.56,3,,0.0,2044.19
+1318,South,South Carolina,Rock Hill,29730,2237.87,2,1118.94,4,,0.0,559.47
+1319,South,South Carolina,Spartanburg,29301,661.78,1,661.78,3,,0.0,220.59
+1320,South,South Carolina,Summerville,29483,1722.98,1,1722.98,4,,0.0,430.75
+1321,South,South Carolina,Taylors,29687,9109.56,3,3036.52,8,,0.0,1138.7
+1322,South,Tennessee,Bartlett,38134,464.91,1,464.91,3,,0.0,154.97
+1323,South,Tennessee,Brentwood,37027,7011.6,2,3505.8,3,,0.0,2337.2
+1324,South,Tennessee,Bristol,37620,1882.5,2,941.25,3,,0.0,627.5
+1325,South,Tennessee,Chattanooga,37421,3044.45,1,3044.45,4,,0.0,761.11
+1326,South,Tennessee,Clarksville,37042,2253.0,2,1126.5,6,,0.0,375.5
+1327,South,Tennessee,Cleveland,37311,1952.93,2,976.47,5,,0.0,390.59
+1328,South,Tennessee,Collierville,38017,537.75,1,537.75,3,,0.0,179.25
+1329,South,Tennessee,Columbia,38401,3236.2,2,1618.1,7,,0.0,462.31
+1330,South,Tennessee,Farragut,37922,11711.25,2,5855.63,4,,0.0,2927.81
+1331,South,Tennessee,Franklin,37064,377.28,1,377.28,4,,0.0,94.32
+1332,South,Tennessee,Gallatin,37066,6819.32,2,3409.66,4,,0.0,1704.83
+1333,South,Tennessee,Germantown,38138,2274.27,1,2274.27,3,,0.0,758.09
+1334,South,Tennessee,Greeneville,37743,2012.81,1,2012.81,2,,0.0,1006.41
+1335,South,Tennessee,Hendersonville,37075,852.37,2,426.19,3,,0.0,284.12
+1336,South,Tennessee,Jackson,38301,932.66,1,932.66,3,,0.0,310.89
+1337,South,Tennessee,Johnson City,37604,242.91,1,242.91,2,,0.0,121.46
+1338,South,Tennessee,Kingsport,37664,852.68,2,426.34,5,,0.0,170.54
+1339,South,Tennessee,Knoxville,37918,4282.29,1,4282.29,6,,0.0,713.72
+1340,South,Tennessee,La Vergne,37086,869.26,1,869.26,4,,0.0,217.32
+1341,South,Tennessee,Lebanon,37087,6742.34,2,3371.17,5,,0.0,1348.47
+1342,South,Tennessee,Maryville,37804,2576.29,2,1288.15,5,,0.0,515.26
+1343,South,Tennessee,Memphis,38109,2108.57,2,1054.29,6,,0.0,351.43
+1344,South,Tennessee,Morristown,37814,5351.18,2,2675.59,6,,0.0,891.86
+1345,South,Tennessee,Murfreesboro,37130,10817.94,2,5408.97,6,,0.0,1802.99
+1346,South,Tennessee,Nashville,37211,3982.71,2,1991.36,5,,0.0,796.54
+1347,South,Tennessee,Oak Ridge,37830,5343.6,2,2671.8,4,,0.0,1335.9
+1348,South,Tennessee,Smyrna,37167,1303.73,1,1303.73,6,,0.0,217.29
+1349,South,Tennessee,Spring Hill,37174,3302.66,1,3302.66,3,,0.0,1100.89
+1350,South,Virginia,Alexandria,22304,5151.31,2,2575.66,6,,0.0,858.55
+1351,South,Virginia,Annandale,22003,2124.99,1,2124.99,2,,0.0,1062.5
+1352,South,Virginia,Arlington,22204,2604.52,1,2604.52,5,,0.0,520.9
+1353,South,Virginia,Blacksburg,24060,3916.35,2,1958.18,4,,0.0,979.09
+1354,South,Virginia,Burke,22015,7733.76,1,7733.76,4,,0.0,1933.44
+1355,South,Virginia,Charlottesville,22901,3612.11,1,3612.11,4,,0.0,903.03
+1356,South,Virginia,Chesapeake,23320,5467.08,2,2733.54,6,,0.0,911.18
+1357,South,Virginia,Colonial Heights,23834,3076.46,2,1538.23,4,,0.0,769.12
+1358,South,Virginia,Dale City,22193,1343.98,1,1343.98,1,,0.0,1343.98
+1359,South,Virginia,Danville,24541,2186.53,2,1093.27,2,,0.0,1093.27
+1360,South,Virginia,Fairfax,20151,3281.74,2,1640.87,7,,0.0,468.82
+1361,South,Virginia,Hampton,23666,7969.6,1,7969.6,4,,0.0,1992.4
+1362,South,Virginia,Harrisonburg,22801,2240.15,2,1120.08,4,,0.0,560.04
+1363,South,Virginia,Herndon,20170,2583.39,1,2583.39,3,,0.0,861.13
+1364,South,Virginia,Lynchburg,24501,2611.12,1,2611.12,2,,0.0,1305.56
+1365,South,Virginia,Mechanicsville,23111,25348.62,1,25348.62,6,,0.0,4224.77
+1366,South,Virginia,Montclair,22025,2503.19,2,1251.6,4,,0.0,625.8
+1367,South,Virginia,Newport News,23602,2274.71,1,2274.71,6,,0.0,379.12
+1368,South,Virginia,Norfolk,23518,701.88,1,701.88,5,,0.0,140.38
+1369,South,Virginia,Oakton,22124,2632.64,2,1316.32,6,,0.0,438.77
+1370,South,Virginia,Petersburg,23805,7485.54,1,7485.54,4,,0.0,1871.39
+1371,South,Virginia,Portsmouth,23701,1207.25,1,1207.25,3,,0.0,402.42
+1372,South,Virginia,Reston,20190,9504.21,2,4752.11,5,,0.0,1900.84
+1373,South,Virginia,Richmond,23223,11079.91,2,5539.96,5,,0.0,2215.98
+1374,South,Virginia,Roanoke,24017,56.4,1,56.4,2,,0.0,28.2
+1375,South,Virginia,Rose Hill,24281,19213.77,4,4803.44,10,,0.0,1921.38
+1376,South,Virginia,Salem,24153,2364.24,1,2364.24,3,,0.0,788.08
+1377,South,Virginia,Springfield,22153,2218.81,1,2218.81,6,,0.0,369.8
+1378,South,Virginia,Suffolk,23434,318.51,1,318.51,3,,0.0,106.17
+1379,South,Virginia,Tysons Corner,22102,4719.26,2,2359.63,5,,0.0,943.85
+1380,South,Virginia,Virginia Beach,23464,3273.53,2,1636.77,5,,0.0,654.71
+1381,South,Virginia,Waynesboro,22980,2463.82,2,1231.91,5,,0.0,492.76
+1382,South,Virginia,Winchester,22601,1226.61,2,613.31,4,,0.0,306.65
+1383,West,Arizona,Avondale,85323,609.72,1,609.72,2,,0.0,304.86
+1384,West,Arizona,Bullhead City,86442,11856.99,1,11856.99,7,,0.0,1693.86
+1385,West,Arizona,Casas Adobes,85704,7551.96,1,7551.96,2,,0.0,3775.98
+1386,West,Arizona,Chandler,85224,3880.41,2,1940.21,6,,0.0,646.74
+1387,West,Arizona,El Mirage,85335,1066.05,2,533.03,6,,0.0,177.68
+1388,West,Arizona,Flagstaff,86001,214.71,1,214.71,1,,0.0,214.71
+1389,West,Arizona,Gilbert,85234,3658.16,1,3658.16,4,,0.0,914.54
+1390,West,Arizona,Glendale,85301,4006.13,2,2003.07,5,,0.0,801.23
+1391,West,Arizona,Goodyear,85338,2741.12,1,2741.12,4,,0.0,685.28
+1392,West,Arizona,Kingman,86401,17311.02,2,8655.51,6,,0.0,2885.17
+1393,West,Arizona,Mesa,85204,3109.89,1,3109.89,4,,0.0,777.47
+1394,West,Arizona,Oro Valley,85737,7150.29,2,3575.15,5,,0.0,1430.06
+1395,West,Arizona,Peoria,85345,8682.25,1,8682.25,5,,0.0,1736.45
+1396,West,Arizona,Phoenix,85023,509.89,1,509.89,6,,0.0,84.98
+1397,West,Arizona,Prescott,86301,2997.01,1,2997.01,4,,0.0,749.25
+1398,West,Arizona,Prescott Valley,86314,1764.66,2,882.33,6,,0.0,294.11
+1399,West,Arizona,Scottsdale,85254,8931.37,2,4465.69,4,,0.0,2232.84
+1400,West,Arizona,Sierra Vista,85635,404.22,2,202.11,4,,0.0,101.06
+1401,West,Arizona,Sun City,85351,3739.3,1,3739.3,5,,0.0,747.86
+1402,West,Arizona,Surprise,85374,2714.0,2,1357.0,5,,0.0,542.8
+1403,West,Arizona,Tempe,85281,4649.36,1,4649.36,3,,0.0,1549.79
+1404,West,Arizona,Tucson,85705,4889.93,1,4889.93,6,,0.0,814.99
+1405,West,Arizona,Yuma,85364,19747.63,1,19747.63,3,,0.0,6582.54
+1406,West,California,Anaheim,92804,5226.89,1,5226.89,4,,0.0,1306.72
+1407,West,California,Antioch,94509,36.78,2,18.39,2,,0.0,18.39
+1408,West,California,Apple Valley,92307,1952.16,1,1952.16,2,,0.0,976.08
+1409,West,California,Atascadero,93422,18828.98,2,9414.49,11,,0.0,1711.73
+1410,West,California,Bakersfield,93309,3789.54,2,1894.77,6,,0.0,631.59
+1411,West,California,Berkeley,94704,8039.11,2,4019.56,8,,0.0,1004.89
+1412,West,California,Beverly Hills,90210,3640.92,2,1820.46,4,,0.0,910.23
+1413,West,California,Brentwood,94513,1284.85,2,642.43,5,,0.0,256.97
+1414,West,California,Burbank,91505,482.14,1,482.14,2,,0.0,241.07
+1415,West,California,Calexico,92231,921.52,1,921.52,6,,0.0,153.59
+1416,West,California,Camarillo,93010,1862.27,1,1862.27,4,,0.0,465.57
+1417,West,California,Carlsbad,92008,1553.42,1,1553.42,4,,0.0,388.36
+1418,West,California,Chico,95928,8593.19,1,8593.19,3,,0.0,2864.4
+1419,West,California,Chula Vista,91911,5029.74,2,2514.87,4,,0.0,1257.44
+1420,West,California,Citrus Heights,95610,2963.46,1,2963.46,2,,0.0,1481.73
+1421,West,California,Claremont,91711,1387.21,1,1387.21,3,,0.0,462.4
+1422,West,California,Coachella,92236,4202.83,2,2101.42,6,,0.0,700.47
+1423,West,California,Concord,94521,9642.8,1,9642.8,5,,0.0,1928.56
+1424,West,California,Costa Mesa,92627,3776.37,1,3776.37,6,,0.0,629.4
+1425,West,California,Daly City,94015,1285.95,1,1285.95,1,,0.0,1285.95
+1426,West,California,Danville,94526,69.37,1,69.37,2,,0.0,34.69
+1427,West,California,Davis,95616,7397.92,2,3698.96,4,,0.0,1849.48
+1428,West,California,Dublin,94568,2589.13,2,1294.57,5,,0.0,517.83
+1429,West,California,East Los Angeles,90022,9311.94,2,4655.97,5,,0.0,1862.39
+1430,West,California,El Cajon,92020,503.34,1,503.34,2,,0.0,251.67
+1431,West,California,El Centro,92243,695.14,2,347.57,4,,0.0,173.79
+1432,West,California,El Dorado Hills,95630,3121.31,1,3121.31,5,,0.0,624.26
+1433,West,California,Encinitas,92024,1260.49,1,1260.49,3,,0.0,420.16
+1434,West,California,Escondido,92025,945.29,1,945.29,4,,0.0,236.32
+1435,West,California,Eureka,95501,2768.06,2,1384.03,5,,0.0,553.61
+1436,West,California,Fairfield,94533,1668.72,2,834.36,6,,0.0,278.12
+1437,West,California,Foster City,94404,13736.0,1,13736.0,5,,0.0,2747.2
+1438,West,California,Fresno,93727,9720.82,2,4860.41,7,,0.0,1388.69
+1439,West,California,Gilroy,95020,8415.68,2,4207.84,6,,0.0,1402.61
+1440,West,California,Goleta,93117,2412.41,2,1206.21,5,,0.0,482.48
+1441,West,California,Granite Bay,95746,4976.77,1,4976.77,4,,0.0,1244.19
+1442,West,California,Hacienda Heights,91745,8729.82,2,4364.91,8,,0.0,1091.23
+1443,West,California,Hemet,92544,228.93,1,228.93,1,,0.0,228.93
+1444,West,California,Hesperia,92345,9945.18,1,9945.18,4,,0.0,2486.3
+1445,West,California,Huntington Beach,92646,4431.48,2,2215.74,5,,0.0,886.3
+1446,West,California,Inglewood,90301,339.18,2,169.59,7,,0.0,48.45
+1447,West,California,La Mesa,91941,1982.25,1,1982.25,5,,0.0,396.45
+1448,West,California,La Quinta,92253,6795.75,2,3397.88,6,,0.0,1132.63
+1449,West,California,Laguna Hills,92653,8198.72,2,4099.36,10,,0.0,819.87
+1450,West,California,Laguna Niguel,92677,2731.75,1,2731.75,4,,0.0,682.94
+1451,West,California,Lake Elsinore,92530,1950.2,1,1950.2,2,,0.0,975.1
+1452,West,California,Lake Forest,92630,863.7,1,863.7,3,,0.0,287.9
+1453,West,California,Lakewood,90712,2872.08,1,2872.08,4,,0.0,718.02
+1454,West,California,Lancaster,93534,212.0,1,212.0,2,,0.0,106.0
+1455,West,California,Lawndale,90260,1523.98,2,761.99,7,,0.0,217.71
+1456,West,California,Lemon Grove,91945,2797.25,2,1398.63,3,,0.0,932.42
+1457,West,California,Lodi,95240,2087.62,1,2087.62,2,,0.0,1043.81
+1458,West,California,Long Beach,90805,2927.88,2,1463.94,5,,0.0,585.58
+1459,West,California,Los Altos,94024,795.44,1,795.44,6,,0.0,132.57
+1460,West,California,Los Angeles,90004,28500.4,2,14250.2,12,,16.67,2375.03
+1461,West,California,Los Angeles,90008,84524.14,1,84524.14,11,,18.18,7684.01
+1462,West,California,Los Angeles,90032,33699.6,2,16849.8,5,,0.0,6739.92
+1463,West,California,Los Angeles,90036,937.59,1,937.59,3,,0.0,312.53
+1464,West,California,Los Angeles,90041,43634.5,1,43634.5,15,,33.33,2908.97
+1465,West,California,Los Angeles,90045,63302.93,2,31651.47,24,,8.33,2637.62
+1466,West,California,Los Angeles,90049,94259.73,5,18851.95,36,,13.89,2618.33
+1467,West,California,Los Angeles,90058,28126.14,1,28126.14,9,,66.67,3125.13
+1468,West,California,Los Angeles,90061,121549.21,1,121549.21,8,,50.0,15193.65
+1469,West,California,Los Angeles,90068,13339.6,1,13339.6,9,,33.33,1482.18
+1470,West,California,Los Banos,93635,3896.19,1,3896.19,3,,0.0,1298.73
+1471,West,California,Los Gatos,95032,4892.01,1,4892.01,5,,0.0,978.4
+1472,West,California,Manhattan Beach,90266,3995.62,1,3995.62,4,,0.0,998.91
+1473,West,California,Manteca,95336,4452.91,1,4452.91,5,,0.0,890.58
+1474,West,California,Menlo Park,94025,13393.51,3,4464.5,13,,0.0,1030.27
+1475,West,California,Mission Viejo,92691,4790.63,1,4790.63,5,,0.0,958.13
+1476,West,California,Modesto,95351,5301.66,2,2650.83,7,,0.0,757.38
+1477,West,California,Montebello,90640,772.74,2,386.37,3,,0.0,257.58
+1478,West,California,Moreno Valley,92553,4811.1,1,4811.1,6,,0.0,801.85
+1479,West,California,Morgan Hill,95037,2045.89,1,2045.89,5,,0.0,409.18
+1480,West,California,Mountain View,94043,2817.61,2,1408.81,3,,0.0,939.2
+1481,West,California,Murrieta,92563,2204.18,1,2204.18,2,,0.0,1102.09
+1482,West,California,Napa,94559,5596.94,1,5596.94,3,,0.0,1865.65
+1483,West,California,Oakland,94601,5283.65,2,2641.83,4,,0.0,1320.91
+1484,West,California,Oceanside,92054,3080.33,1,3080.33,3,,0.0,1026.78
+1485,West,California,Ontario,91761,6011.95,1,6011.95,5,,0.0,1202.39
+1486,West,California,Oxnard,93030,1847.19,2,923.6,6,,0.0,307.87
+1487,West,California,Pacifica,94044,6333.49,1,6333.49,7,,0.0,904.78
+1488,West,California,Palm Springs,92262,4607.04,2,2303.52,4,,0.0,1151.76
+1489,West,California,Palo Alto,94306,864.24,2,432.12,3,,0.0,288.08
+1490,West,California,Paradise,95969,641.49,1,641.49,6,,0.0,106.92
+1491,West,California,Pasadena,91104,3482.66,3,1160.89,5,,0.0,696.53
+1492,West,California,Petaluma,94952,456.03,2,228.02,4,,0.0,114.01
+1493,West,California,Pico Rivera,90660,1873.7,2,936.85,2,,0.0,936.85
+1494,West,California,Pomona,91767,1730.8,1,1730.8,5,,0.0,346.16
+1495,West,California,Rancho Cucamonga,91730,11703.67,3,3901.22,11,,0.0,1063.97
+1496,West,California,Redding,96003,6238.62,2,3119.31,6,,0.0,1039.77
+1497,West,California,Redlands,92374,2924.77,3,974.92,8,,0.0,365.6
+1498,West,California,Redondo Beach,90278,1335.89,2,667.95,5,,0.0,267.18
+1499,West,California,Redwood City,94061,4090.25,2,2045.13,4,,0.0,1022.56
+1500,West,California,Riverside,92503,1788.29,1,1788.29,4,,0.0,447.07
+1501,West,California,Rocklin,95677,2866.58,1,2866.58,3,,0.0,955.53
+1502,West,California,Roseville,95661,4156.22,2,2078.11,6,,0.0,692.7
+1503,West,California,Sacramento,95823,479.59,1,479.59,5,,0.0,95.92
+1504,West,California,Salinas,93905,14970.15,2,7485.08,5,,0.0,2994.03
+1505,West,California,San Bernardino,92404,2911.64,1,2911.64,4,,0.0,727.91
+1506,West,California,San Carlos,94070,7210.77,2,3605.39,5,,0.0,1442.15
+1507,West,California,San Clemente,92672,10783.77,1,10783.77,4,,0.0,2695.94
+1508,West,California,San Diego,92024,23773.75,1,23773.75,8,,0.0,2971.72
+1509,West,California,San Diego,92037,32188.19,1,32188.19,10,,40.0,3218.82
+1510,West,California,San Diego,92105,3079.07,1,3079.07,4,,0.0,769.77
+1511,West,California,San Francisco,94109,18413.2,1,18413.2,3,,0.0,6137.73
+1512,West,California,San Francisco,94110,34465.61,2,17232.81,15,,0.0,2297.71
+1513,West,California,San Francisco,94122,13225.83,1,13225.83,7,,0.0,1889.4
+1514,West,California,San Gabriel,91776,6332.02,2,3166.01,6,,0.0,1055.34
+1515,West,California,San Jose,95123,4163.61,2,2081.81,4,,0.0,1040.9
+1516,West,California,San Luis Obispo,93405,1005.67,1,1005.67,4,,0.0,251.42
+1517,West,California,San Mateo,94403,3266.31,1,3266.31,3,,0.0,1088.77
+1518,West,California,San Ramon,94583,3620.07,1,3620.07,4,,0.0,905.02
+1519,West,California,Santa Ana,92704,3025.47,2,1512.74,6,,0.0,504.25
+1520,West,California,Santa Barbara,93101,2282.36,1,2282.36,2,,0.0,1141.18
+1521,West,California,Santa Clara,95051,13837.03,2,6918.52,9,,0.0,1537.45
+1522,West,California,Santa Cruz,95062,2808.07,1,2808.07,3,,0.0,936.02
+1523,West,California,Santa Maria,93454,2879.68,2,1439.84,3,,0.0,959.89
+1524,West,California,Santa Monica,90405,3814.13,1,3814.13,4,,0.0,953.53
+1525,West,California,Santa Rosa,95404,2520.73,1,2520.73,4,,0.0,630.18
+1526,West,California,Saratoga,95070,3498.99,2,1749.5,6,,0.0,583.17
+1527,West,California,South Lake Tahoe,96150,2937.26,1,2937.26,5,,0.0,587.45
+1528,West,California,Stockton,95207,5756.56,2,2878.28,4,,0.0,1439.14
+1529,West,California,Sunnyvale,94086,2390.85,1,2390.85,6,,0.0,398.48
+1530,West,California,Temecula,92592,12167.65,2,6083.83,7,,0.0,1738.24
+1531,West,California,Thousand Oaks,91360,2042.46,2,1021.23,5,,0.0,408.49
+1532,West,California,Torrance,90503,984.95,2,492.48,5,,0.0,196.99
+1533,West,California,Tracy,95376,565.61,1,565.61,3,,0.0,188.54
+1534,West,California,Twentynine Palms,92277,18198.51,2,9099.26,15,,0.0,1213.23
+1535,West,California,Vacaville,95687,6147.14,2,3073.57,4,,0.0,1536.79
+1536,West,California,Vallejo,94591,4973.54,1,4973.54,5,,0.0,994.71
+1537,West,California,Visalia,93277,2054.38,2,1027.19,5,,0.0,410.88
+1538,West,California,West Hollywood,90069,7387.47,1,7387.47,6,,0.0,1231.25
+1539,West,California,Westminster,92683,979.17,1,979.17,3,,0.0,326.39
+1540,West,California,Whittier,90604,1045.07,3,348.36,5,,0.0,209.01
+1541,West,California,Woodland,95695,2060.61,1,2060.61,3,,0.0,686.87
+1542,West,California,Yuba City,95991,431.88,1,431.88,2,,0.0,215.94
+1543,West,California,Yucaipa,92399,11712.62,2,5856.31,3,,0.0,3904.21
+1544,West,Colorado,Arvada,80004,6325.07,1,6325.07,4,,0.0,1581.27
+1545,West,Colorado,Aurora,80013,1907.81,1,1907.81,6,,0.0,317.97
+1546,West,Colorado,Boulder,80303,1528.7,1,1528.7,1,,0.0,1528.7
+1547,West,Colorado,Broomfield,80020,2422.36,1,2422.36,4,,0.0,605.59
+1548,West,Colorado,Castle Rock,80104,2958.04,1,2958.04,3,,0.0,986.01
+1549,West,Colorado,Colorado Springs,80906,3134.57,2,1567.29,5,,0.0,626.91
+1550,West,Colorado,Commerce City,80022,2848.58,1,2848.58,2,,0.0,1424.29
+1551,West,Colorado,Denver,80219,1180.36,1,1180.36,4,,0.0,295.09
+1552,West,Colorado,Durango,81301,16508.0,2,8254.0,13,,0.0,1269.85
+1553,West,Colorado,Englewood,80112,1425.65,1,1425.65,5,,0.0,285.13
+1554,West,Colorado,Fort Collins,80525,5508.53,2,2754.27,7,,0.0,786.93
+1555,West,Colorado,Fountain,80817,5335.35,2,2667.68,6,,0.0,889.23
+1556,West,Colorado,Grand Junction,81503,5333.62,1,5333.62,4,,0.0,1333.41
+1557,West,Colorado,Greeley,80634,178.01,1,178.01,2,,0.0,89.01
+1558,West,Colorado,Highlands Ranch,80126,4092.36,1,4092.36,4,,0.0,1023.09
+1559,West,Colorado,Lakewood,80232,7964.04,2,3982.02,5,,0.0,1592.81
+1560,West,Colorado,Littleton,80122,639.12,1,639.12,6,,0.0,106.52
+1561,West,Colorado,Longmont,80501,9363.67,1,9363.67,2,,0.0,4681.84
+1562,West,Colorado,Louisville,80027,8535.12,4,2133.78,13,,0.0,656.55
+1563,West,Colorado,Loveland,80538,5338.38,2,2669.19,6,,0.0,889.73
+1564,West,Colorado,Northglenn,80233,2829.4,1,2829.4,2,,0.0,1414.7
+1565,West,Colorado,Parker,80134,2891.71,2,1445.86,4,,0.0,722.93
+1566,West,Colorado,Pueblo,81001,1812.19,2,906.1,6,,0.0,302.03
+1567,West,Colorado,Pueblo West,81007,6036.67,1,6036.67,4,,0.0,1509.17
+1568,West,Colorado,Thornton,80229,15661.55,1,15661.55,7,,0.0,2237.36
+1569,West,Colorado,Westminster,80030,898.38,1,898.38,5,,0.0,179.68
+1570,West,Colorado,Wheat Ridge,80033,7166.61,1,7166.61,5,,0.0,1433.32
+1571,West,Idaho,Boise,83701,14700.31,3,4900.1,11,,0.0,1336.39
+1572,West,Idaho,Boise,83704,5444.21,2,2722.11,6,,0.0,907.37
+1573,West,Idaho,Caldwell,83605,8121.59,2,4060.8,9,,0.0,902.4
+1574,West,Idaho,Coeur D Alene,83814,3960.31,2,1980.16,7,,0.0,565.76
+1575,West,Idaho,Eagle,83616,10434.77,3,3478.26,11,,0.0,948.62
+1576,West,Idaho,Idaho Falls,83402,4477.62,1,4477.62,5,,0.0,895.52
+1577,West,Idaho,Lewiston,83501,2734.21,2,1367.11,4,,0.0,683.55
+1578,West,Idaho,Meridian,83642,2822.94,1,2822.94,2,,0.0,1411.47
+1579,West,Idaho,Moscow,83843,10802.39,2,5401.2,7,,0.0,1543.2
+1580,West,Idaho,Nampa,83686,12480.04,2,6240.02,5,,0.0,2496.01
+1581,West,Idaho,Pocatello,83201,1232.41,1,1232.41,3,,0.0,410.8
+1582,West,Idaho,Post Falls,83854,8879.93,2,4439.97,6,,0.0,1479.99
+1583,West,Idaho,Rexburg,83440,2628.26,2,1314.13,5,,0.0,525.65
+1584,West,Idaho,Twin Falls,83301,10084.05,1,10084.05,7,,0.0,1440.58
+1585,West,Montana,Billings,59102,6553.0,2,3276.5,4,,0.0,1638.25
+1586,West,Montana,Bozeman,59715,15696.83,4,3924.21,15,,0.0,1046.46
+1587,West,Montana,Butte,59750,1308.8,2,654.4,5,,0.0,261.76
+1588,West,Montana,Great Falls,59405,967.46,2,483.73,3,,0.0,322.49
+1589,West,Montana,Helena,59601,3751.46,1,3751.46,4,,0.0,937.87
+1590,West,Montana,Kalispell,59901,359.32,1,359.32,3,,0.0,119.77
+1591,West,Montana,Missoula,59801,217.44,1,217.44,1,,0.0,217.44
+1592,West,Nevada,Carson City,89701,1337.76,2,668.88,4,,0.0,334.44
+1593,West,Nevada,Henderson,89015,3191.78,1,3191.78,3,,0.0,1063.93
+1594,West,Nevada,Las Vegas,89115,7766.08,2,3883.04,3,,0.0,2588.69
+1595,West,Nevada,North Las Vegas,89031,3372.9,3,1124.3,8,,0.0,421.61
+1596,West,Nevada,Pahrump,89041,554.23,1,554.23,3,,0.0,184.74
+1597,West,Nevada,Reno,89502,2682.09,1,2682.09,6,,0.0,447.02
+1598,West,Nevada,Sparks,89431,870.27,1,870.27,3,,0.0,290.09
+1599,West,New Mexico,Alamogordo,88310,9242.88,2,4621.44,5,,0.0,1848.58
+1600,West,New Mexico,Albuquerque,87105,10097.4,3,3365.8,13,,0.0,776.72
+1601,West,New Mexico,Carlsbad,88220,4925.81,1,4925.81,3,,0.0,1641.94
+1602,West,New Mexico,Clovis,88101,2358.12,2,1179.06,5,,0.0,471.62
+1603,West,New Mexico,Farmington,87401,9828.52,1,9828.52,3,,0.0,3276.17
+1604,West,New Mexico,Hobbs,88240,6014.71,2,3007.36,7,,0.0,859.24
+1605,West,New Mexico,Las Cruces,88001,3319.19,1,3319.19,4,,0.0,829.8
+1606,West,New Mexico,Rio Rancho,87124,4716.77,1,4716.77,3,,0.0,1572.26
+1607,West,New Mexico,Roswell,88201,9423.34,5,1884.67,15,,0.0,628.22
+1608,West,New Mexico,Santa Fe,87505,7923.88,2,3961.94,4,,0.0,1980.97
+1609,West,Oregon,Albany,97321,3209.96,3,1069.99,4,,0.0,802.49
+1610,West,Oregon,Aloha,97007,3158.8,1,3158.8,4,,0.0,789.7
+1611,West,Oregon,Beaverton,97005,1959.3,1,1959.3,4,,0.0,489.83
+1612,West,Oregon,Bend,97701,2023.39,2,1011.7,2,,0.0,1011.7
+1613,West,Oregon,Coos Bay,97420,2079.51,4,519.88,12,,0.0,173.29
+1614,West,Oregon,Corvallis,97330,1667.23,2,833.62,6,,0.0,277.87
+1615,West,Oregon,Eugene,97405,2971.95,2,1485.98,6,,0.0,495.33
+1616,West,Oregon,Grants Pass,97526,7869.53,1,7869.53,6,,0.0,1311.59
+1617,West,Oregon,Gresham,97030,21555.18,2,10777.59,5,,0.0,4311.04
+1618,West,Oregon,Hillsboro,97123,328.12,1,328.12,1,,0.0,328.12
+1619,West,Oregon,Keizer,97303,4378.48,2,2189.24,5,,0.0,875.7
+1620,West,Oregon,Klamath Falls,97601,953.09,1,953.09,4,,0.0,238.27
+1621,West,Oregon,Lake Oswego,97035,2765.45,3,921.82,8,,0.0,345.68
+1622,West,Oregon,Mcminnville,97128,2900.39,2,1450.2,8,,0.0,362.55
+1623,West,Oregon,Medford,97504,9388.32,3,3129.44,3,,0.0,3129.44
+1624,West,Oregon,Oregon City,97045,13737.89,1,13737.89,4,,0.0,3434.47
+1625,West,Oregon,Pendleton,97801,1554.2,1,1554.2,4,,0.0,388.55
+1626,West,Oregon,Portland,97206,18256.45,2,9128.23,6,,0.0,3042.74
+1627,West,Oregon,Redmond,97756,4331.76,1,4331.76,3,,0.0,1443.92
+1628,West,Oregon,Salem,97301,1639.22,2,819.61,7,,0.0,234.17
+1629,West,Oregon,Springfield,97477,899.56,1,899.56,4,,0.0,224.89
+1630,West,Oregon,Tigard,97224,3308.01,2,1654.01,5,,0.0,661.6
+1631,West,Oregon,Troutdale,97060,8377.79,1,8377.79,4,,0.0,2094.45
+1632,West,Oregon,Tualatin,97062,531.58,2,265.79,3,,0.0,177.19
+1633,West,Oregon,West Linn,97068,17921.28,3,5973.76,8,,0.0,2240.16
+1634,West,Oregon,Woodburn,97071,12855.26,1,12855.26,4,,0.0,3213.82
+1635,West,Utah,American Fork,84003,1658.36,2,829.18,4,,0.0,414.59
+1636,West,Utah,Bountiful,84010,5485.19,1,5485.19,2,,0.0,2742.6
+1637,West,Utah,Clearfield,84015,1951.95,3,650.65,4,,0.0,487.99
+1638,West,Utah,Draper,84020,3003.64,2,1501.82,5,,0.0,600.73
+1639,West,Utah,Holladay,84117,3921.94,1,3921.94,5,,0.0,784.39
+1640,West,Utah,Kaysville,84037,1102.72,1,1102.72,2,,0.0,551.36
+1641,West,Utah,Kearns,84118,2377.65,2,1188.83,7,,0.0,339.66
+1642,West,Utah,Layton,84041,3909.03,2,1954.52,5,,0.0,781.81
+1643,West,Utah,Lehi,84043,6850.17,1,6850.17,4,,0.0,1712.54
+1644,West,Utah,Logan,84321,379.87,2,189.94,5,,0.0,75.97
+1645,West,Utah,Magna,84044,1286.77,1,1286.77,2,,0.0,643.39
+1646,West,Utah,Midvale,84047,943.38,1,943.38,4,,0.0,235.85
+1647,West,Utah,Murray,84107,1585.25,3,528.42,4,,0.0,396.31
+1648,West,Utah,Ogden,84404,879.85,1,879.85,4,,0.0,219.96
+1649,West,Utah,Orem,84057,421.2,2,210.6,3,,0.0,140.4
+1650,West,Utah,Pleasant Grove,84062,13569.56,2,6784.78,6,,0.0,2261.59
+1651,West,Utah,Provo,84604,5033.18,1,5033.18,5,,0.0,1006.64
+1652,West,Utah,Roy,84067,2538.68,2,1269.34,5,,0.0,507.74
+1653,West,Utah,Salt Lake City,84106,6198.54,2,3099.27,4,,0.0,1549.64
+1654,West,Utah,Spanish Fork,84660,5443.64,1,5443.64,3,,0.0,1814.55
+1655,West,Utah,Springville,84663,2095.98,1,2095.98,5,,0.0,419.2
+1656,West,Utah,Tooele,84074,8951.45,2,4475.73,7,,0.0,1278.78
+1657,West,Utah,West Jordan,84084,1092.11,1,1092.11,6,,0.0,182.02
+1658,West,Utah,West Valley City,84120,2578.53,2,1289.27,5,,0.0,515.71
+1659,West,Washington,Anacortes,98221,4976.51,2,2488.26,5,,0.0,995.3
+1660,West,Washington,Auburn,98002,437.63,2,218.82,5,,0.0,87.53
+1661,West,Washington,Bellevue,98006,12150.59,1,12150.59,3,,0.0,4050.2
+1662,West,Washington,Bellingham,98226,3957.64,1,3957.64,2,,0.0,1978.82
+1663,West,Washington,Bothell,98011,11100.71,1,11100.71,2,,0.0,5550.36
+1664,West,Washington,Bremerton,98310,804.5,2,402.25,7,,0.0,114.93
+1665,West,Washington,Burien,98146,1365.45,1,1365.45,6,,0.0,227.58
+1666,West,Washington,Cottage Lake,98072,1852.78,2,926.39,5,,0.0,370.56
+1667,West,Washington,Covington,98042,3469.24,1,3469.24,3,,0.0,1156.41
+1668,West,Washington,Des Moines,98198,7961.82,1,7961.82,3,,0.0,2653.94
+1669,West,Washington,Edmonds,98026,9320.69,2,4660.35,6,,0.0,1553.45
+1670,West,Washington,Elk Plain,98387,4184.15,1,4184.15,4,,0.0,1046.04
+1671,West,Washington,Everett,98208,5278.31,1,5278.31,2,,0.0,2639.16
+1672,West,Washington,Federal Way,98023,3820.62,1,3820.62,2,,0.0,1910.31
+1673,West,Washington,Issaquah,98027,2846.78,2,1423.39,2,,0.0,1423.39
+1674,West,Washington,Kennewick,99336,4527.99,1,4527.99,4,,0.0,1132.0
+1675,West,Washington,Kent,98031,2128.63,2,1064.32,2,,0.0,1064.32
+1676,West,Washington,Kirkland,98034,4249.77,1,4249.77,4,,0.0,1062.44
+1677,West,Washington,Lacey,98503,7762.65,2,3881.33,5,,0.0,1552.53
+1678,West,Washington,Longview,98632,6393.75,1,6393.75,5,,0.0,1278.75
+1679,West,Washington,Lynnwood,98037,8080.28,1,8080.28,6,,0.0,1346.71
+1680,West,Washington,Marysville,98270,1717.3,2,858.65,3,,0.0,572.43
+1681,West,Washington,Mount Vernon,98273,5936.51,1,5936.51,5,,0.0,1187.3
+1682,West,Washington,Olympia,98502,624.02,1,624.02,3,,0.0,208.01
+1683,West,Washington,Parkland,98444,1928.22,2,964.11,3,,0.0,642.74
+1684,West,Washington,Pasco,99301,895.62,1,895.62,6,,0.0,149.27
+1685,West,Washington,Pullman,99163,3736.65,2,1868.33,5,,0.0,747.33
+1686,West,Washington,Puyallup,98373,3670.12,3,1223.37,8,,0.0,458.77
+1687,West,Washington,Redmond,98052,12940.34,3,4313.45,9,,0.0,1437.82
+1688,West,Washington,Renton,98059,980.88,1,980.88,2,,0.0,490.44
+1689,West,Washington,Richland,99352,2044.11,1,2044.11,4,,0.0,511.03
+1690,West,Washington,Seatac,98158,750.92,2,375.46,3,,0.0,250.31
+1691,West,Washington,Seattle,98103,29368.18,2,14684.09,13,,30.77,2259.09
+1692,West,Washington,Seattle,98105,17653.3,1,17653.3,8,,0.0,2206.66
+1693,West,Washington,Seattle,98107,4939.65,1,4939.65,3,,0.0,1646.55
+1694,West,Washington,Seattle,98115,96511.24,2,48255.62,19,,10.53,5079.54
+1695,West,Washington,Seattle,98119,104407.38,2,52203.69,16,,12.5,6525.46
+1696,West,Washington,Seattle,98144,52614.32,1,52614.32,4,,50.0,13153.58
+1697,West,Washington,Spanaway,98387,14065.57,1,14065.57,4,,0.0,3516.39
+1698,West,Washington,Spokane,99207,3506.33,1,3506.33,4,,0.0,876.58
+1699,West,Washington,Tacoma,98408,6062.4,2,3031.2,9,,0.0,673.6
+1700,West,Washington,Vancouver,98661,17194.05,2,8597.03,7,,0.0,2456.29
+1701,West,Washington,Walla Walla,99362,1685.31,2,842.66,6,,0.0,280.89
+1702,West,Washington,Wenatchee,98801,8945.4,1,8945.4,3,,0.0,2981.8
+1703,West,Washington,Yakima,98902,2949.83,1,2949.83,3,,0.0,983.28
+1704,West,Wyoming,Casper,82604,5710.39,1,5710.39,3,,0.0,1903.46
+1705,West,Wyoming,Cheyenne,82001,705.14,2,352.57,3,,0.0,235.05
+1706,West,Wyoming,Gillette,82716,6236.42,2,3118.21,3,,0.0,2078.81
+1707,West,Wyoming,Laramie,82070,4292.51,2,2146.26,3,,0.0,1430.84
+1708,West,Wyoming,Rock Springs,82901,1482.24,2,741.12,4,,0.0,370.56

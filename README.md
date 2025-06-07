@@ -2,10 +2,10 @@
 
 ## Project Metadata
 
-**Tools Used**: Python (Pandas, NumPy, PySpark, Lifetimes, PyMC, Arviz, Seaborn, Matplotlib), Apache Spark, Jupyter Notebook
-**Project Type**: Data Cleaning, Predictive Modeling, Customer Lifetime Value (CLV) Analysis, Strategic Business Analytics
-**Repository**: \https://github.com/inhamo/Predictive-Marketing
-**Stakeholders**: Superstore Marketing Leadership, CRM Team, Business Intelligence & Analytics Division, Chief Revenue Officer
+- **Tools Used**: Python (Pandas, NumPy, PySpark, Lifetimes, PyMC, Arviz, Seaborn, Matplotlib), Apache Spark, Jupyter Notebook
+- **Project Type**: Data Cleaning, Predictive Modeling, Customer Lifetime Value (CLV) Analysis, Strategic Business Analytics
+- **Repository**: \https://github.com/inhamo/Predictive-Marketing
+- **Stakeholders**: Superstore Marketing Leadership, CRM Team, Business Intelligence & Analytics Division, Chief Revenue Officer
 
 ---
 
